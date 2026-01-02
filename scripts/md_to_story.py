@@ -23,6 +23,7 @@ TEMPLATE = """<!DOCTYPE html>
     <meta content="{description}" name="description" />
     <link href="../css/style.css" rel="stylesheet" />
     <link href="../css/story.css" rel="stylesheet" />
+    <script src="../js/theme-init.js"></script>
 </head>
 
 <body>
@@ -153,13 +154,37 @@ def main():
     title = meta.get('title', 'Untitled Story')
     description = meta.get('description', '')
     date = meta.get('date', datetime.date.today().strftime("%b %d, %Y"))
-    read_time = meta.get('read_time', '5 min read')
+    
     prev_story = meta.get('previous_story', 'index.html')
     next_story = meta.get('next_story', 'index.html')
     
     # Convert Body to HTML
     # We enable 'extra' for better markdown support (tables, attr_list etc if needed)
     html_body = markdown.markdown(body_md, extensions=['extra', 'smarty'])
+
+    # Calculate Read Time
+    # Strip HTML to get text content for word count
+    soup_for_text = BeautifulSoup(html_body, 'html.parser')
+    text_content = soup_for_text.get_text()
+    word_count = len(text_content.split())
+    minutes = round(word_count / 200)
+    
+    if minutes < 1:
+        minutes = 1
+        
+    if minutes >= 60:
+        hours = minutes // 60
+        mins = minutes % 60
+        if mins > 0:
+            read_time = f"{hours} hours and {mins} minutes read"
+        else:
+             read_time = f"{hours} hours read"
+    else:
+        read_time = f"{minutes} min read"
+
+    # Allow override from metadata if specifically provided (optional, but good practice)
+    if 'read_time' in meta:
+        read_time = meta['read_time']
     
     # Generate TOC and inject IDs, and extract title if from H1
     # Check if we should ignore YAML title if it's "Untitled Story" or just always prefer H1?

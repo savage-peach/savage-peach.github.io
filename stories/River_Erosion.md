@@ -613,11 +613,3 @@ But what really mattered were the views. She'd thought it was Candy's approval s
 The view count hit 2,000. She started to cum, for real this time. 
 
 END
-
-\===========================================
-
-Author's Note: I want to thank everyone who's emailed me kind words about my stories, you don't know how much that means. I've started posting a little ahead of time on my personal subreddit ([https://www.reddit.com/r/SavagePeachWrites](https://www.reddit.com/r/SavagePeachWrites)) if anyone wants to get a little sneak peek. 
-
-River Erosion is released under the CC0 License ([https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)) meaning it is in the public domain. If you write stories or create art using my concepts or characters, I'd appreciate it if you drop me a line to let me know and link to the original story here. But since I've released it to the public domain, that's just me asking for a favor, it's not a requirement. I have no further plans for River, so feel free\!
-
-\===============================================
