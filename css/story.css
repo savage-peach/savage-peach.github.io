@@ -1,0 +1,228 @@
+/* Story specific overrides for readability */
+.story-container {
+    max-width: 700px;
+    /* Narrower for reading */
+    margin: 0 auto;
+    padding: 0 var(--spacing-md);
+}
+
+.story-content {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: #d0d0d0;
+    /* Slightly softer than pure white */
+    margin-bottom: var(--spacing-xl);
+}
+
+.story-content p {
+    margin-bottom: var(--spacing-md);
+}
+
+.story-meta {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: var(--spacing-lg);
+    border-bottom: 1px solid var(--surface-color);
+    padding-bottom: var(--spacing-md);
+}
+
+.story-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: var(--spacing-xl);
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid var(--surface-color);
+}
+
+.author-note {
+    font-style: italic;
+    color: var(--text-secondary);
+    border: 1px solid var(--surface-color);
+    padding: var(--spacing-md);
+    margin-bottom: var(--spacing-lg);
+    border-radius: var(--radius-md);
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.license-note {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    border-top: 1px solid var(--surface-color);
+    padding-top: var(--spacing-md);
+    margin-top: var(--spacing-xl);
+}
+
+/* Chat Bubble Styles */
+.chat-message {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-size: 0.95em;
+    max-width: 80%;
+    clear: both;
+    position: relative;
+    line-height: 1.4;
+}
+
+.chat-message.msg-sent {
+    background-color: #0B93F6;
+    /* iMessage Blue */
+    color: white;
+    margin-left: auto;
+    border-bottom-right-radius: 5px;
+    text-align: left;
+    /* Text itself is left aligned usually, but bubble is right */
+}
+
+.chat-message.msg-received {
+    background-color: #3A3A3C;
+    /* Dark Mode Gray */
+    color: #fff;
+    margin-right: auto;
+    border-bottom-left-radius: 5px;
+}
+
+/* Clearfix for the container if needed, though they are block elements */
+/* Clearfix for the container if needed, though they are block elements */
+.chat-message::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 20px;
+    /* Offset for sticky headers */
+}
+
+/* Progress Bar */
+#progress-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: transparent;
+    z-index: 1000;
+}
+
+#progress-bar {
+    height: 100%;
+    background: var(--primary-color);
+    width: 0%;
+    transition: width 0.1s ease;
+}
+
+/* Story Navigation Sidebar */
+#story-nav-menu {
+    position: fixed;
+    top: 100px;
+    left: 20px;
+    width: 200px;
+    background: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent background */
+    backdrop-filter: blur(5px);
+    padding: var(--spacing-md);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--surface-color);
+    max-height: 80vh;
+    overflow-y: auto;
+    display: none;
+    /* Hidden on small screens by default */
+}
+
+/* Navigation Toggle Button */
+#story-nav-toggle {
+    position: fixed;
+    top: 100px;
+    left: 20px;
+    z-index: 1100;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    /* Semi-transparent black background */
+    background: rgba(0, 0, 0, 0.4);
+    /* Remove distinct border, rely on shadow or subtle border */
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    backdrop-filter: blur(4px);
+    /* Glassmorphism */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease;
+    font-size: 1.4rem;
+    /* Slightly larger icon */
+}
+
+#story-nav-toggle:hover {
+    transform: scale(1.05);
+    background: rgba(0, 0, 0, 0.7);
+    border-color: var(--primary-color);
+}
+
+/* Open State for Mobile Menu */
+#story-nav-menu.open {
+    display: block;
+    top: 155px;
+    /* Position below the toggle button */
+    left: 20px;
+    width: 200px;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#story-nav-menu h3 {
+    font-size: 1rem;
+    margin-bottom: var(--spacing-sm);
+    color: var(--primary-color);
+}
+
+#story-nav-menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+#story-nav-menu li {
+    margin-bottom: 0.5rem;
+}
+
+#story-nav-menu a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.2s;
+}
+
+#story-nav-menu a:hover,
+#story-nav-menu a.active {
+    color: var(--primary-color);
+}
+
+@media (min-width: 1200px) {
+    #story-nav-menu {
+        display: block;
+        top: 100px;
+        /* Restore desktop position */
+    }
+
+    #story-nav-toggle {
+        display: none;
+        /* Hide toggle on desktop */
+    }
+}
