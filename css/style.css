@@ -2,14 +2,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@300;400;600&display=swap');
 
 :root {
-    /* Color Palette */
+    /* Color Palette - Default (Dark) */
     --bg-color: #121212;
     --surface-color: #1e1e1e;
     --text-primary: #e0e0e0;
     --text-secondary: #a0a0a0;
     --accent-peach: #ff9e80;
     --accent-savage: #8c2f39;
-    /* Deep muted red */
+    --primary-color: var(--accent-peach);
+    /* Alias for consistency */
+
+    /* Chat Colors */
+    --chat-sent-bg: #0B93F6;
+    --chat-sent-text: #ffffff;
+    --chat-received-bg: #3A3A3C;
+    --chat-received-text: #ffffff;
+
+    /* UI Elements */
+    --nav-bg: rgba(18, 18, 18, 0.95);
+    --sidebar-bg: rgba(0, 0, 0, 0.5);
+    --toggle-bg: rgba(0, 0, 0, 0.4);
+    --toggle-icon-color: var(--primary-color);
+    --story-content-color: #d0d0d0;
 
     /* Typography */
     --font-heading: 'Cormorant Garamond', serif;
@@ -24,6 +38,30 @@
     /* Transitions */
     --transition-fast: 0.2s ease;
     --transition-smooth: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-theme="light"] {
+    --bg-color: #f4f4f4;
+    --surface-color: #ffffff;
+    --text-primary: #121212;
+    --text-secondary: #555555;
+    --accent-peach: #ff7043;
+    /* Darker peach for better contrast on white */
+    --accent-savage: #a63744;
+    --primary-color: var(--accent-peach);
+
+    /* Chat Colors - Light Mode (iMessage style) */
+    --chat-sent-bg: #0B93F6;
+    --chat-sent-text: #ffffff;
+    --chat-received-bg: #e5e5ea;
+    --chat-received-text: #000000;
+
+    /* UI Elements */
+    --nav-bg: rgba(255, 255, 255, 0.95);
+    --sidebar-bg: rgba(255, 255, 255, 0.8);
+    --toggle-bg: rgba(255, 255, 255, 0.6);
+    --toggle-icon-color: var(--accent-savage);
+    --story-content-color: #333333;
 }
 
 * {
@@ -99,7 +137,7 @@ nav {
     top: 0;
     left: 0;
     z-index: 1000;
-    background-color: rgba(18, 18, 18, 0.95);
+    background-color: var(--nav-bg);
     /* Dark semi-transparent */
     backdrop-filter: blur(8px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -150,11 +188,14 @@ nav {
     font-size: 4rem;
     margin-bottom: var(--spacing-md);
     line-height: 1.1;
+    color: #f4f4f4;
+    /* Always light for contrast against dark banner */
 }
 
 .hero p {
     font-size: 1.2rem;
-    color: var(--text-secondary);
+    color: #e0e0e0;
+    /* Always light for contrast */
     max-width: 600px;
     margin-bottom: var(--spacing-lg);
 }
@@ -238,4 +279,24 @@ footer {
     }
 
     /* TODO: Mobile block */
+}
+
+/* Theme Toggle Button */
+.theme-toggle-btn {
+    background: none;
+    border: 1px solid var(--text-secondary);
+    color: var(--text-primary);
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    margin-left: var(--spacing-md);
+    transition: var(--transition-fast);
+    line-height: 1;
+}
+
+.theme-toggle-btn:hover {
+    background-color: var(--surface-color);
+    color: var(--accent-peach);
+    border-color: var(--accent-peach);
 }

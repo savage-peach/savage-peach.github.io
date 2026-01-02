@@ -9,7 +9,7 @@
 .story-content {
     font-size: 1.15rem;
     line-height: 1.8;
-    color: #d0d0d0;
+    color: var(--story-content-color);
     /* Slightly softer than pure white */
     margin-bottom: var(--spacing-xl);
 }
@@ -70,9 +70,9 @@
 }
 
 .chat-message.msg-sent {
-    background-color: #0B93F6;
+    background-color: var(--chat-sent-bg);
     /* iMessage Blue */
-    color: white;
+    color: var(--chat-sent-text);
     margin-left: auto;
     border-bottom-right-radius: 5px;
     text-align: left;
@@ -80,9 +80,9 @@
 }
 
 .chat-message.msg-received {
-    background-color: #3A3A3C;
+    background-color: var(--chat-received-bg);
     /* Dark Mode Gray */
-    color: #fff;
+    color: var(--chat-received-text);
     margin-right: auto;
     border-bottom-left-radius: 5px;
 }
@@ -126,7 +126,7 @@ html {
     top: 100px;
     left: 20px;
     width: 200px;
-    background: rgba(0, 0, 0, 0.5);
+    background: var(--sidebar-bg);
     /* Semi-transparent background */
     backdrop-filter: blur(5px);
     padding: var(--spacing-md);
@@ -148,10 +148,10 @@ html {
     height: 45px;
     border-radius: 50%;
     /* Semi-transparent black background */
-    background: rgba(0, 0, 0, 0.4);
+    background: var(--toggle-bg);
     /* Remove distinct border, rely on shadow or subtle border */
     border: 1px solid rgba(255, 255, 255, 0.1);
-    color: var(--primary-color);
+    color: var(--toggle-icon-color);
     display: flex;
     align-items: center;
     justify-content: center;
