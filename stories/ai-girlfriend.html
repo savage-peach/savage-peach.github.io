@@ -3818,10 +3818,25 @@
                             link.classList.add('active');
                         }
                     });
+
+                    // Save progress
+                    localStorage.setItem('sp_ai_girlfriend_progress', current);
                 } else {
                     navLinks.forEach(link => link.classList.remove('active'));
                 }
             });
+
+            // Restore Progress
+            const savedProgress = localStorage.getItem('sp_ai_girlfriend_progress');
+            if (savedProgress && !window.location.hash) {
+                const target = document.getElementById(savedProgress);
+                if (target) {
+                    // Slight timeout to ensure layout is settled
+                    setTimeout(() => {
+                        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }, 500);
+                }
+            }
         });
     </script>
 </body>

@@ -18,6 +18,11 @@
     margin-bottom: var(--spacing-md);
 }
 
+.story-content h2 {
+    scroll-margin-top: 80px;
+    /* Ensure header is not cut off when scrolling */
+}
+
 .story-meta {
     color: var(--text-secondary);
     font-size: 0.9rem;
