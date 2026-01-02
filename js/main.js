@@ -35,7 +35,7 @@ const ThemeManager = {
         // Update toggle button if present (it might be inside shadow DOM or component)
         const toggleBtn = document.getElementById('theme-toggle');
         if (toggleBtn) {
-            toggleBtn.textContent = theme === 'light' ? '☀\uFE0E' : '🌙';
+            toggleBtn.textContent = theme === 'light' ? '☀️' : '🌙';
         }
     }
 };

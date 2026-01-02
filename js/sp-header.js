@@ -57,7 +57,7 @@ class SavagePeachHeader extends HTMLElement {
         // Helper to update button icon
         const updateIcon = (theme) => {
             if (toggleBtn) {
-                toggleBtn.textContent = theme === 'light' ? '☀\uFE0E' : '🌙';
+                toggleBtn.textContent = theme === 'light' ? '☀️' : '🌙';
             }
         };
 
