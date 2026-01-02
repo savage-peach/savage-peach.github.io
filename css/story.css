@@ -33,7 +33,7 @@
 
 .story-nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin-top: var(--spacing-xl);
     padding-top: var(--spacing-lg);
     border-top: 1px solid var(--surface-color);

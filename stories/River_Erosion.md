@@ -1,13 +1,6 @@
----
-title: River Erosion
-description: A story about obsession, identity, and the need for approval.
-date: Jan 03, 2026
-read_time: 20 min read
-previous_story: invasive-species.html
-next_story: ai-girlfriend.html
----
+# River Erosion
 
-# Part 1: The Blonde
+## Part 1: The Blonde
 
 Author's Note: This story stands on its own though it does follow a minor character from another story of mine. Part 1 is a re-telling of the events of *Using Master PC For Self-Improvement* from River's perspective, and thus skippable if you're so inclined. Parts 2 and 3 are wholly new. *Using Master PC For Self-Improvement* will be back next week with Part 8\.
 
@@ -221,7 +214,7 @@ Yes, she would be sexy. This was sexy. What could be more sexy than this? This g
 
 River came. The waters leapt their banks, forging a new channel in her mind.
 
-# Part 2: The Alt-Girl
+## Part 2: The Alt-Girl
 
 It had only been two days since the blonde woman, Candy, had walked into the nail salon and turned River’s world upside down. Two days since River had been dragged into the waxing room and taken apart, then put back together in the shape of… of *Her.*
 
@@ -441,7 +434,7 @@ River shifted her position on the mattress so she wasn't lying in a puddle of he
 
 She lay with him in the bed. He tried to make small talk, tried to get to know her. River did her best to seem normal, but her mind kept drifting back to *Her.* She felt the emptiness inside returning. *You are going to start trying harder,* the voice still whispered. River was beginning to worry that no matter how hard she tried, it would never be enough. The voice would always be there, pushing her. Not until Candy told her she could stop.
 
-# Part 3: Everyone Else
+## Part 3: Everyone Else
 
 River woke up. There was a guy sleeping in the bed next to her, and it wasn't Liam. Or Seth, for that matter. *Try harder. Be sexy. Embrace your femininity.* What was his name again? She didn't remember. 
 

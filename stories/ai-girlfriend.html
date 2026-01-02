@@ -25,26 +25,8 @@
             </div>
         </header>
 
-        <button id="story-nav-toggle" class="mobile-only" aria-label="Toggle Navigation">
-            <span class="icon">&#128366;</span>
-        </button>
-        <aside id="story-nav-menu">
-            <h3>Jump to Day</h3>
-            <ul>
-                <li><a href="#day-1">Day </a></li>
-                <li><a href="#day-2">Day 2</a></li>
-                <li><a href="#day-6">Day 6</a></li>
-                <li><a href="#day-7">Day 7</a></li>
-                <li><a href="#day-11">Day 11</a></li>
-                <li><a href="#day-14">Day 14</a></li>
-                <li><a href="#day-20">Day 20</a></li>
-                <li><a href="#day-24">Day 24</a></li>
-                <li><a href="#day-30">Day 30</a></li>
-                <li><a href="#day-35">Day 35</a></li>
-                <li><a href="#day-41">Day 41</a></li>
-                <li><a href="#day-54">Day 54</a></li>
-            </ul>
-        </aside>
+        <sp-story-nav
+            menu-items='[{"text":"Day 1","href":"#day-1"},{"text":"Day 2","href":"#day-2"},{"text":"Day 6","href":"#day-6"},{"text":"Day 7","href":"#day-7"},{"text":"Day 11","href":"#day-11"},{"text":"Day 14","href":"#day-14"},{"text":"Day 20","href":"#day-20"},{"text":"Day 24","href":"#day-24"},{"text":"Day 30","href":"#day-30"},{"text":"Day 35","href":"#day-35"},{"text":"Day 41","href":"#day-41"},{"text":"Day 54","href":"#day-54"}]'></sp-story-nav>
 
         <div class="story-content">
             <h2 id="day-1">Day 1</h2>
@@ -3740,93 +3722,19 @@
                     asking for a favor, it's not a requirement. Have fun!</p>
             </div>
         </div>
-        <div class="story-nav">
-            <a class="btn" href="../index.html">Back to Archive</a>
-        </div>
     </article>
-    <footer>
-        <p>© 2026 Savage Peach. All rights reserved.</p>
-    </footer>
+    <sp-story-footer></sp-story-footer>
     <script src="../js/sp-header.js"></script>
     <script src="../js/main.js"></script>
+    <script src="../js/sp-story-nav.js"></script>
+    <script src="../js/sp-story-footer.js"></script>
     <script>
-        // Progress Bar & ScrollSpy Logic
-        document.addEventListener('DOMContentLoaded', () => {
-            const progressBar = document.getElementById('progress-bar');
-            const navLinks = document.querySelectorAll('#story-nav-menu a');
-            const sections = document.querySelectorAll('.story-content h2');
-
-            // Mobile TOC Toggle
-            const toggleBtn = document.getElementById('story-nav-toggle');
-            const navMenu = document.getElementById('story-nav-menu');
-
-            if (toggleBtn && navMenu) {
-                toggleBtn.addEventListener('click', (e) => {
-                    e.stopPropagation();
-                    navMenu.classList.toggle('open');
-                });
-
-                // Close on click outside
-                document.addEventListener('click', (e) => {
-                    if (navMenu.classList.contains('open') && !navMenu.contains(e.target) && e.target !== toggleBtn) {
-                        navMenu.classList.remove('open');
-                    }
-                });
-
-                // Close on link click
-                navMenu.querySelectorAll('a').forEach(link => {
-                    link.addEventListener('click', () => {
-                        navMenu.classList.remove('open');
-                    });
-                });
-            }
-
-            window.addEventListener('scroll', () => {
-                // Progress Bar
-                const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-                const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-                const scrolled = (winScroll / height) * 100;
-                if (progressBar) {
-                    progressBar.style.width = scrolled + "%";
-                }
-
-                // ScrollSpy
-                let current = "";
-                sections.forEach(section => {
-                    const sectionTop = section.offsetTop;
-                    const sectionHeight = section.clientHeight;
-                    // Offset for clearer activation
-                    if (pageYOffset >= (sectionTop - 150)) {
-                        current = section.getAttribute('id');
-                    }
-                });
-
-                if (current) {
-                    navLinks.forEach(link => {
-                        link.classList.remove('active');
-                        if (link.getAttribute('href') === '#' + current) {
-                            link.classList.add('active');
-                        }
-                    });
-
-                    // Save progress
-                    localStorage.setItem('sp_ai_girlfriend_progress', current);
-                } else {
-                    navLinks.forEach(link => link.classList.remove('active'));
-                }
-            });
-
-            // Restore Progress
-            const savedProgress = localStorage.getItem('sp_ai_girlfriend_progress');
-            if (savedProgress && !window.location.hash) {
-                const target = document.getElementById(savedProgress);
-                if (target) {
-                    // Slight timeout to ensure layout is settled
-                    setTimeout(() => {
-                        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                    }, 500);
-                }
-            }
+        // Progress Bar Logic
+        window.addEventListener('scroll', () => {
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const scrolled = (scrollTop / scrollHeight) * 100;
+            document.getElementById('progress-bar').style.width = scrolled + '%';
         });
     </script>
 </body>

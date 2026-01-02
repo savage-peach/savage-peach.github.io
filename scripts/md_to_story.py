@@ -8,6 +8,7 @@ import datetime
 try:
     import markdown
     import yaml
+    from bs4 import BeautifulSoup
 except ImportError as e:
     print(f"Error: Missing required libraries. Please install them using:\npip install markdown pyyaml")
     sys.exit(1)
@@ -38,31 +39,22 @@ TEMPLATE = """<!DOCTYPE html>
             </div>
         </header>
 
-        <button id="story-nav-toggle" class="mobile-only" aria-label="Toggle Navigation">
-            <span class="icon">&#128366;</span>
-        </button>
-        <aside id="story-nav-menu">
-            <h3>Jump to Chapter</h3>
-            <ul>
-                {toc_items}
-            </ul>
-        </aside>
+        <sp-story-nav menu-items='{toc_items}'></sp-story-nav>
 
         <div class="story-content">
             {content}
+            <div class="license-note">
+                <p>{title} is released under the CC0 License (<a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" class="peach-text">CC0 1.0</a>) meaning it is in the public domain. If you write stories or create art using my concepts or characters, I'd appreciate it if you have an author's note clarifying you're not the original creator and linking to my stuff. But since I've released it to the public domain, that's just me asking for a favor, it's not a requirement. Have fun!</p>
+            </div>
         </div>
 
-        <div class="story-nav">
-            <a href="index.html" class="btn">Back to Archive</a>
-        </div>
+        <sp-story-footer></sp-story-footer>
     </article>
-
-    <footer>
-        <p>&copy; 2026 Savage Peach. All rights reserved.</p>
-    </footer>
 
     <script src="../js/sp-header.js"></script>
     <script src="../js/main.js"></script>
+    <script src="../js/sp-story-nav.js"></script>
+    <script src="../js/sp-story-footer.js"></script>
     <script>
         // Progress Bar & ScrollSpy Logic
         window.addEventListener('scroll', () => {{
@@ -71,23 +63,6 @@ TEMPLATE = """<!DOCTYPE html>
             const scrolled = (scrollTop / scrollHeight) * 100;
             document.getElementById('progress-bar').style.width = scrolled + '%';
         }});
-        
-        // Mobile Nav Toggle
-        const storyNavToggle = document.getElementById('story-nav-toggle');
-        const storyNavMenu = document.getElementById('story-nav-menu');
-        
-        if (storyNavToggle && storyNavMenu) {{
-            storyNavToggle.addEventListener('click', (e) => {{
-                e.stopPropagation();
-                storyNavMenu.classList.toggle('active');
-            }});
-            
-            document.addEventListener('click', (e) => {{
-                if (!storyNavMenu.contains(e.target) && !storyNavToggle.contains(e.target)) {{
-                    storyNavMenu.classList.remove('active');
-                }}
-            }});
-        }}
     </script>
 </body>
 </html>"""
@@ -108,33 +83,51 @@ def parse_frontmatter(content):
                 return {}, content
     return {}, content
 
-def generate_toc(html_content):
+def generate_toc(html_content, title_from_h1=False):
     """
-    Scans HTML content for <h2> headers and generates TOC list items.
-    Updates the html_content to include IDs for the headers if missing.
+    Scans HTML content.
+    If title_from_h1 is True, extracts the first H1 text as the title and removes it from content.
+    Generates a JSON string for TOC using ONLY H2 headers.
+    Updates the html_content to include IDs for the headers.
+    Returns (toc_items, final_content, extracted_title).
     """
-    # Simple regex to find h2 tags
-    # We will use a more robust approach: replace standard headers with headers containing IDs
+    soup = BeautifulSoup(html_content, 'html.parser')
     
-    toc_html = ""
+    extracted_title = None
+    if title_from_h1:
+        h1 = soup.find('h1')
+        if h1:
+            extracted_title = h1.get_text()
+            h1.decompose() # Remove from content
     
-    def replacer(match):
-        nonlocal toc_html
-        header_text = match.group(1)
-        # Create a slug from text
+    # Generate Table of Contents (JSON) - ONLY H2
+    toc_list = []
+    
+    # Find all h2 elements
+    headers = soup.find_all('h2')
+    
+    for header in headers:
+        header_text = header.get_text()
+        # Create a slug from the header text
         slug = re.sub(r'[^a-z0-9]+', '-', header_text.lower()).strip('-')
+        # Add id to the header in the content
+        header['id'] = slug
         
-        toc_html += f'<li><a href="#{slug}">{header_text}</a></li>\n'
-        return f'<h2 id="{slug}">{header_text}</h2>'
+        toc_list.append({
+            "text": header_text,
+            "href": f"#{slug}"
+        })
 
-    # Regex to match <h2>Your Title</h2>
-    new_content = re.sub(r'<h2>(.*?)</h2>', replacer, html_content)
+    # Update the content with the new ids
+    final_content = str(soup)
     
-    if not toc_html:
-         # Fallback if no h2s found, maybe empty or different structure
-         toc_html = "<!-- No headers found -->"
+    # Convert TOC list to JSON string for the attribute
+    import json
+    toc_json = json.dumps(toc_list)
+    # Escape single quotes for the attribute value if necessary, though mostly json.dumps uses double quotes
+    toc_items = toc_json.replace("'", "&apos;")
          
-    return toc_html, new_content
+    return toc_items, final_content, extracted_title
 
 def main():
     parser = argparse.ArgumentParser(description="Convert Markdown story to HTML")
@@ -168,8 +161,13 @@ def main():
     # We enable 'extra' for better markdown support (tables, attr_list etc if needed)
     html_body = markdown.markdown(body_md, extensions=['extra', 'smarty'])
     
-    # Generate TOC and inject IDs
-    toc_items, final_content = generate_toc(html_body)
+    # Generate TOC and inject IDs, and extract title if from H1
+    # Check if we should ignore YAML title if it's "Untitled Story" or just always prefer H1?
+    # User asked: "It should be getting the title from Markdown Heading Level 1"
+    toc_items, final_content, extracted_title = generate_toc(html_body, title_from_h1=True)
+    
+    if extracted_title:
+        title = extracted_title
     
     # Fill Template
     output_html = TEMPLATE.format(
