@@ -7,6 +7,7 @@
     <title>Savage Peach | Stories</title>
     <meta name="description" content="Personal storytelling website of Savage Peach.">
     <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="js/theme-init.js"></script>
 </head>
 
@@ -22,12 +23,21 @@
         </div>
     </header>
 
-    <section class="section container">
-        <h2 class="text-center">Featured Works</h2>
-        <div class="story-grid" id="featured-stories">
-            <!-- Stories will be loaded dynamically -->
-        </div>
-    </section>
+    <div class="container home-content-grid">
+        <section id="news-section" class="home-section">
+            <h2 class="text-center">News</h2>
+            <div id="news-container">
+                <!-- News will be loaded dynamically -->
+            </div>
+        </section>
+
+        <section class="home-section" id="featured-section">
+            <h2 class="text-center">Featured Works</h2>
+            <div class="story-list" id="featured-stories">
+                <!-- Stories will be loaded dynamically -->
+            </div>
+        </section>
+    </div>
 
     <footer>
         <p>&copy; 2026 Savage Peach. All rights reserved.</p>
@@ -35,8 +45,10 @@
 
     <script src="js/sp-header.js"></script>
     <script src="js/story-loader.js"></script>
+    <script src="js/news-loader.js"></script>
     <script>
         loadStories({ containerId: 'featured-stories', limit: 2, basePath: '.', featuredOnly: true });
+        loadNews({ containerId: 'news-container', limit: 3, basePath: '.' });
     </script>
     <script src="js/main.js"></script>
 </body>

@@ -1,12 +1,8 @@
----
-title: Using Master PC For Self-Improvement
-date: Jan 02, 2026
-description: A woman discovers a mysterious program that allows her to edit reality, starting with herself and her husband.
----
+# Part 1: You've Been Selected\!
 
 # Using Master PC For Self-Improvement
 
-## **Part 1: You've Been Selected\!**
+## Part 1: You've Been Selected\!
 
 The glow of the computer screen bathed Candice in a gray light. It was well past midnight, and Richard was sound asleep in the bedroom. She could hear him snoring. It had been another uneventful evening. They'd watched some TV, had a frozen pizza dinner, and fallen asleep. And, Candice considered, that was sort of the problem. Candice was 29 years old — still in the prime of her life\! She and Richard were a young couple. The magic couldn't be gone already, could it?  
 
@@ -20,7 +16,7 @@ But she was curious about what Richard saw in them. Apparently he had a thing fo
 
 \>You've Been Selected. Install Master PC\!\<
 
-Weird. She clicked the link to see what the site was about, and immediately a program unpacked onto her computer. Even weirder. Clicking links from search engines was *not* supposed to do that. It hadn’t even put her through an install wizard.   
+Weird. She clicked the link to see what the site was about, and immediately a program unpacked onto her computer. Even weirder. Clicking links from search engines was not supposed to do that. It hadn’t even put her through an install wizard.   
 
 An icon now sat on her desktop. The graphic was a simple stylized M. Master PC. She knew she shouldn't click it. It could be a virus, spyware, or who knows what. But she was just too curious. She had to.  
 
@@ -96,95 +92,98 @@ How long did they stay like that after it was over, her pussy twitching around h
 
 "That was amazing," he said. "Um... can I get your number?"  
 
-Candice didn't know what to do. Her libido satiated, she was coming back to her senses, and the realization that she'd just cheated on Richard hit her like a ton of bricks. She didn't know what to say. She quickly gave Kevin a fake number, ran out of the store, and jumped in the car. Her tires screeched as she tore out of the parking lot on the way home. She knew one thing. She had to change herself back before something like this happened again\!  
+Candice didn't know what to do. Her libido satiated, she was coming back to her senses, and the realization that she'd just cheated on Richard hit her like a ton of bricks. She didn't know what to say. She quickly gave Kevin a fake number, ran out of the store, and jumped in the car. Her tires screeched as she tore out of the parking lot on the way home. She knew one thing. She had to change herself back before something like this happened again\!
 
-## **Part 2: Pumping the Brakes**
+
+# Part 2: Pumping the Brakes
+
+## Part 2: Pumping the Brakes
 
 Candice stared at the screen. In front of her, a perfect 3D rendering of herself floated in the Master PC window. As soon as she'd gotten home, Candice had quickly set the "sexuality" slider back to 30%.
 
 She'd found some help files in the install directory and had been poring over them. Sometimes they explained an aspect of Master PC in a very straightforward manner. Other times, they were obtuse and circular in their descriptions. But she had learned a lot. The "Sexuality" slider went from 0% to 273%. She had, therefore, assumed that 100% was the normal baseline, and above that were those raging nymphos from the stories. But it wasn't. It turned out 100% was the maximum level of sexuality a normal human body was capable of. Anyone over that number would literally die from sex. Above 100, they would generally start ignoring things like food and sleep. But by the 200s, an orgasm would short-circuit the brain in such a way that a person would be essentially catatonic. 
 
-*Extreme caution must be taken,* the help file noted, *to harden the body and mind when setting the Master Sexuality slider this high.*
+Extreme caution must be taken, the help file noted, to harden the body and mind when setting the Master Sexuality slider this high.
 
 Candice shuddered at the thought of what she could have done to herself. She resolved to start taking things slow. She began opening the profiles of as many other people as she could think of and comparing them. She discovered that normal human sexuality seemed to exist in a fairly tight range. There wasn't enough data to do a really great analysis, but she suspected this was a typical bell curve. Most people seemed to hover in the 40s to 50s. She found a few people in the 60s (usually younger folks, and more likely than not to be men) and a few like herself in the 30s (more likely to be women or older folks). She only found one person she knew below the 30s, a girl she only knew in passing from college who identified as Asexual. Surprisingly, the highest she found was her neighbor in the apartment across the hall. Mildred was 83 years old and 68% sexual. You go girl, Candice thought.
 
 After that she pulled up a few famous people. The first was a well-known actor from the Marvel movies. She could see his settings, but the controls were grayed out. She wondered if there was a geographical range, so she found a random person who lived in Japan and opened their profile. It worked. So someone — or something — was blocking out famous people? She found a list of billionaires and tried to load one of the less famous ones. A password prompt appeared. Huh. Even more protected. She decided against even trying anyone else. The Master PC Police would probably come after her if she even thought about messing with the President of the United States.
 
-She wondered again who or what had created the program. Aliens? A wizard? A god? *The* God? There was no hint anywhere in the documentation.
+She wondered again who or what had created the program. Aliens? A wizard? A god? The God? There was no hint anywhere in the documentation.
 
-	Candice decided to go back to fixing herself. She had already undone the change to her sexuality. She began to undo her physical changes as well, but as soon as she did, she felt those extra 30 pounds immediately. It wasn't pleasant. Ugh.
+Candice decided to go back to fixing herself. She had already undone the change to her sexuality. She began to undo her physical changes as well, but as soon as she did, she felt those extra 30 pounds immediately. It wasn't pleasant. Ugh.
 
-	OK, maybe I won't undo *all* the physical changes, she thought. She dropped herself back down 20 pounds and clicked Apply again. She was still ten pounds over where she was earlier in the day, but it was definitely a lot more comfortable. She decided to use this as an experiment. Would she be able to explain away the weight loss when someone inevitably asked? There was an entire section of Master PC called "Secondary Control Effects." These were things like "Commanding Voice," "Hypnotic Eyes" and "Pheromones." They all seemed to be effects that didn't change the subject, but allowed the subject to change other people. Here there was an option called Acceptance that the documentation seemed to indicate would cause others to not notice changes in the affected. You could turn someone blonde or give them giant boobs and suddenly everyone would just accept that as normal. Candice considered using that on herself to disguise her weight loss, but the documentation was unclear if it would affect herself. What if she turned it on and then accidentally turned herself into a sex-crazed maniac again? Would she accept that she had always been that way instead of changing herself back? She couldn't risk it.
+OK, maybe I won't undo all the physical changes, she thought. She dropped herself back down 20 pounds and clicked Apply again. She was still ten pounds over where she was earlier in the day, but it was definitely a lot more comfortable. She decided to use this as an experiment. Would she be able to explain away the weight loss when someone inevitably asked? There was an entire section of Master PC called "Secondary Control Effects." These were things like "Commanding Voice," "Hypnotic Eyes" and "Pheromones." They all seemed to be effects that didn't change the subject, but allowed the subject to change other people. Here there was an option called Acceptance that the documentation seemed to indicate would cause others to not notice changes in the affected. You could turn someone blonde or give them giant boobs and suddenly everyone would just accept that as normal. Candice considered using that on herself to disguise her weight loss, but the documentation was unclear if it would affect herself. What if she turned it on and then accidentally turned herself into a sex-crazed maniac again? Would she accept that she had always been that way instead of changing herself back? She couldn't risk it.
 
-	She did give herself the Command Voice, though. According to what she was reading, it could be used fairly well as a fallback to make people ignore changes, at least to an extent. Plus, she wanted to try it out. So often in the Master PC stories, the program was used to turn some smart, confident woman into a brainless sexbot. She liked the idea of using it for non-sexual stuff.
+She did give herself the Command Voice, though. According to what she was reading, it could be used fairly well as a fallback to make people ignore changes, at least to an extent. Plus, she wanted to try it out. So often in the Master PC stories, the program was used to turn some smart, confident woman into a brainless sexbot. She liked the idea of using it for non-sexual stuff.
 
-	She considered upping her own intelligence. Maybe she could reason through this thing a bit better if she was smarter. But again, what if she messed it up? What if she turned herself into an emotionless logical machine? The Mental section was a maze of options and configurations: Puzzle-solving, Emotional Perception, Logic, Induction, Spatial Reasoning, Calculations. All of those and more were present and those often had multiple sub-sections. And there was basically no documentation for any of it. Clearly this wasn't what most people were using Master PC for.
+She considered upping her own intelligence. Maybe she could reason through this thing a bit better if she was smarter. But again, what if she messed it up? What if she turned herself into an emotionless logical machine? The Mental section was a maze of options and configurations: Puzzle-solving, Emotional Perception, Logic, Induction, Spatial Reasoning, Calculations. All of those and more were present and those often had multiple sub-sections. And there was basically no documentation for any of it. Clearly this wasn't what most people were using Master PC for.
 
-	She needed someone else to experiment on. It needed to be someone other than herself, but someone she could keep an eye on. There was really only one option. She pulled up Richard. 
+She needed someone else to experiment on. It needed to be someone other than herself, but someone she could keep an eye on. There was really only one option. She pulled up Richard. 
 
-	She browsed around his personality and mental tab a bit. The Personality Indices were hard to follow. Here Master PC displayed an oddly shaped 3D model with different personality traits mapped out like "Empathy," "Conscientiousness," and "Leadership." As she moved some scroll bars, it began to distort. She thought she'd made changes to him for a moment, before realizing it was just changing the view. More personality traits came onto the screen as others disappeared.
+She browsed around his personality and mental tab a bit. The Personality Indices were hard to follow. Here Master PC displayed an oddly shaped 3D model with different personality traits mapped out like "Empathy," "Conscientiousness," and "Leadership." As she moved some scroll bars, it began to distort. She thought she'd made changes to him for a moment, before realizing it was just changing the view. More personality traits came onto the screen as others disappeared.
 
-	*The Human Personality,* someone had written in the documentation, *is here represented in a seven-dimensional space flattened into a 3D model for easier viewing. It is recommended to simply use the Sexuality tab for most use-cases.*
+The Human Personality, someone had written in the documentation, is here represented in a seven-dimensional space flattened into a 3D model for easier viewing. It is recommended to simply use the Sexuality tab for most use-cases.
 
-	Well, that wasn't helpful. She did notice that Richard's self-confidence was low. She double-checked it against several other people to be sure. Candice had always suspected he had some deep self-doubt, this was just confirmation. She decided to fix that. If he became an insufferable prick, she could always turn it back down.
+Well, that wasn't helpful. She did notice that Richard's self-confidence was low. She double-checked it against several other people to be sure. Candice had always suspected he had some deep self-doubt, this was just confirmation. She decided to fix that. If he became an insufferable prick, she could always turn it back down.
 
-	She began to dig into the Intelligence settings on his Mental tab. Comparing him to several other people, it seemed like Richard was already a little smarter than average. But not quite as smart as herself, Candice noted with some smugness. 
+She began to dig into the Intelligence settings on his Mental tab. Comparing him to several other people, it seemed like Richard was already a little smarter than average. But not quite as smart as herself, Candice noted with some smugness. 
 
 Well, not for long. He was about to become the smarter of the pair. Candice turned up his Induction, Deduction, a few related values until they were a bit higher than her own. She'd watch him to make sure he didn't turn into a Vulcan or something and, if the changes seemed safe, she'd apply them to herself after a few days.
 
-	She saw his avatar stand up on screen and realized he had made it home. They lived downtown, about halfway up an apartment high-rise. She watched him as his avatar mimed parking his bike and walking to the elevator.
+She saw his avatar stand up on screen and realized he had made it home. They lived downtown, about halfway up an apartment high-rise. She watched him as his avatar mimed parking his bike and walking to the elevator.
 
-	She grabbed her laptop and moved to the couch, sitting against the wall so he wouldn't be able to see the screen. A few minutes later the door opened. 
+She grabbed her laptop and moved to the couch, sitting against the wall so he wouldn't be able to see the screen. A few minutes later the door opened. 
 
-	"Hey, hon\!" he called out. "Feeling any better?" Oops, she'd forgotten she was supposed to be sick.
+"Hey, hon\!" he called out. "Feeling any better?" Oops, she'd forgotten she was supposed to be sick.
 
-	"Yeah," she lied. "Mostly. I was throwing up a lot this morning, but I'm mostly better now. I think it's one of those 24-hour stomach bugs."
+"Yeah," she lied. "Mostly. I was throwing up a lot this morning, but I'm mostly better now. I think it's one of those 24-hour stomach bugs."
 
-	"Oh yeah," he said, "I had that last month. Do you think you'll want food tonight?"
+"Oh yeah," he said, "I had that last month. Do you think you'll want food tonight?"
 
-	They continued chatting the rest of the evening. Candice watched him for any personality changes, ready to revert what she'd done at a moment's notice. But no red flags surfaced. He wasn't some insufferable overly-confident buffoon. He wasn't a super-genius either. He didn't even notice the weight loss\! Admittedly, she was wearing her loose-fitting "fat" clothes, but still. Twenty pounds is a lot when you're 5'3"\! Richard had never been the most observant guy in the world, and the normalcy of it was kind of reassuring.
+They continued chatting the rest of the evening. Candice watched him for any personality changes, ready to revert what she'd done at a moment's notice. But no red flags surfaced. He wasn't some insufferable overly-confident buffoon. He wasn't a super-genius either. He didn't even notice the weight loss\! Admittedly, she was wearing her loose-fitting "fat" clothes, but still. Twenty pounds is a lot when you're 5'3"\! Richard had never been the most observant guy in the world, and the normalcy of it was kind of reassuring.
 
-	They ended up ordering Thai and watching Netflix. When they started the second episode, Richard put his arm around her and began gently rubbing her arm in a way that, after all these years together, she knew meant that he was interested in sex. Candice considered if this was anything to take note of. As far as Richard knew, she was still a little sick. Would he have tried that normally? Was this an indication of higher self-confidence? Or was she reading too much into it, and it was just that they hadn't done it in nearly two weeks? It was hard to tell.
+They ended up ordering Thai and watching Netflix. When they started the second episode, Richard put his arm around her and began gently rubbing her arm in a way that, after all these years together, she knew meant that he was interested in sex. Candice considered if this was anything to take note of. As far as Richard knew, she was still a little sick. Would he have tried that normally? Was this an indication of higher self-confidence? Or was she reading too much into it, and it was just that they hadn't done it in nearly two weeks? It was hard to tell.
 
-	Sex. It was a subject she'd been trying to avoid thinking about all afternoon. The thought of Kevin fucking her in the changing room in the Abercrombie and Fitch flashed through her head again. The way she'd sucked his cock, the way he'd bent her over and fucked her senseless. She felt a deep sense of arousal thinking of it, as well as an equally deep sense of guilt over what she'd done. This whole thing with Master PC had started because she was worried about Richard straying, but she was the one who'd cheated. She hadn't been in her right mind, but she knew it wasn't an excuse. She'd sullied their marriage in a way that she knew Richard would never forgive if he found out, and she'd never really forgive herself for it either. She couldn't undo it, she could only try to make amends. She swore to herself she'd use Master PC to make both their lives better, and to make their marriage stronger.
+Sex. It was a subject she'd been trying to avoid thinking about all afternoon. The thought of Kevin fucking her in the changing room in the Abercrombie and Fitch flashed through her head again. The way she'd sucked his cock, the way he'd bent her over and fucked her senseless. She felt a deep sense of arousal thinking of it, as well as an equally deep sense of guilt over what she'd done. This whole thing with Master PC had started because she was worried about Richard straying, but she was the one who'd cheated. She hadn't been in her right mind, but she knew it wasn't an excuse. She'd sullied their marriage in a way that she knew Richard would never forgive if he found out, and she'd never really forgive herself for it either. She couldn't undo it, she could only try to make amends. She swore to herself she'd use Master PC to make both their lives better, and to make their marriage stronger.
 
-	Maybe she should just lean into the sex tonight, she thought. Richard wanted it, and she owed it to him. Of course, no man was owed sex from a woman. That was a bedrock principle to Candice, and one that Richard agreed with. It was one of the reasons she loved the guy. But tonight, honestly, she did kind of owe him. 
+Maybe she should just lean into the sex tonight, she thought. Richard wanted it, and she owed it to him. Of course, no man was owed sex from a woman. That was a bedrock principle to Candice, and one that Richard agreed with. It was one of the reasons she loved the guy. But tonight, honestly, she did kind of owe him. 
 
-	The problem was, she didn't really want to. The thought of sex right now just wasn't all that appealing. Only thinking back to the sex earlier in the day brought any sense of arousal.
+The problem was, she didn't really want to. The thought of sex right now just wasn't all that appealing. Only thinking back to the sex earlier in the day brought any sense of arousal.
 
-	"I'll be right back," Candice said. 
+"I'll be right back," Candice said. 
 
-	Richard tried to hide his disappointment as she left his embrace and headed for the bathroom. She grabbed her laptop on the way and pulled her own profile back up. 80% sexuality had been far too high. But now she knew what most people's numbers were. She turned herself and Richard up to 55%. Plenty of normal people were higher than that. Besides, she reasoned, even if something somehow went wrong, she'd managed to fix things before. She could do it again. She clicked *Apply*, closed the laptop, and headed back to the living room, snuggling back up with Richard. 
+Richard tried to hide his disappointment as she left his embrace and headed for the bathroom. She grabbed her laptop on the way and pulled her own profile back up. 80% sexuality had been far too high. But now she knew what most people's numbers were. She turned herself and Richard up to 55%. Plenty of normal people were higher than that. Besides, she reasoned, even if something somehow went wrong, she'd managed to fix things before. She could do it again. She clicked Apply, closed the laptop, and headed back to the living room, snuggling back up with Richard. 
 
-	This time, when he put his arm around her, Candice rested her hand on his lap and began making little circles with her thumb. It was the beginning of the little mating dance they'd developed over the years.
+This time, when he put his arm around her, Candice rested her hand on his lap and began making little circles with her thumb. It was the beginning of the little mating dance they'd developed over the years.
 
-	"I thought you were sick," Richard said, smiling.
+"I thought you were sick," Richard said, smiling.
 
-	"Well, I'm feeling much better."
+"Well, I'm feeling much better."
 
-	He skipped a couple steps of foreplay and kissed her deeply. Candice melted into it. She'd only bumped Richard's sexuality up a few percentage points, but her own increase had been much more significant. She responded with an unusual amount of enthusiasm, running her hands along his crotch, feeling his erection already swelling. The room seemed to crackle with sexual energy as their makeout session became more intense, like teenagers who were worried their parents would get home any minute.
+He skipped a couple steps of foreplay and kissed her deeply. Candice melted into it. She'd only bumped Richard's sexuality up a few percentage points, but her own increase had been much more significant. She responded with an unusual amount of enthusiasm, running her hands along his crotch, feeling his erection already swelling. The room seemed to crackle with sexual energy as their makeout session became more intense, like teenagers who were worried their parents would get home any minute.
 
-	Richard slid his hand under her shirt and she moaned as he began to play with her nipples. Candice's nipples had always been very sensitive, but this was a whole new level. Only Kevin had made them feel this good before. She tried to banish the thought from her mind. Richard was her husband, Kevin was a one-time thing. 
+Richard slid his hand under her shirt and she moaned as he began to play with her nipples. Candice's nipples had always been very sensitive, but this was a whole new level. Only Kevin had made them feel this good before. She tried to banish the thought from her mind. Richard was her husband, Kevin was a one-time thing. 
 
-	"Man, you really *are* feeling better," Richard joked, as he ran his hand down her back, past her waistline, and grabbed her butt just the way she liked. 
+"Man, you really are feeling better," Richard joked, as he ran his hand down her back, past her waistline, and grabbed her butt just the way she liked. 
 
-	"Yeah," Candice laughed. "God, I want it bad tonight, hun."
+"Yeah," Candice laughed. "God, I want it bad tonight, hun."
 
-	"Mmmm, I can tell," he said, as he pulled her shirt off. 
+"Mmmm, I can tell," he said, as he pulled her shirt off. 
 
 "Woah\!" he exclaimed.
 
-	"What?" Candice asked, suddenly gripped with panic. Did he somehow know about Master PC? Kevin? What was it?
+"What?" Candice asked, suddenly gripped with panic. Did he somehow know about Master PC? Kevin? What was it?
 
-	"You've lost a ton of weight\! How did I not notice?"
+"You've lost a ton of weight\! How did I not notice?"
 
-	"Oh," she replied. "Yeah. I've been working at it for a while."
+"Oh," she replied. "Yeah. I've been working at it for a while."
 
-	"Huh," he said. "It's funny how when someone is losing or gaining weight, you just don't notice until one day you do."
+"Huh," he said. "It's funny how when someone is losing or gaining weight, you just don't notice until one day you do."
 
-	"Yeah," Candice agreed. "Funny." She decided to try something.
+"Yeah," Candice agreed. "Funny." She decided to try something.
 
-"I've been hitting the gym on my lunch break lately. YOU SHOULD GO TO THE GYM SOME TOO," she said, putting the Command Voice into it. The sound that left her lips was uncanny. It was her voice, but it was also *more*. Underlying her natural tone, a subtle but powerful series of harmonic chords seemed to vibrate in the air around the words.
+"I've been hitting the gym on my lunch break lately. YOU SHOULD GO TO THE GYM SOME TOO," she said, putting the Command Voice into it. The sound that left her lips was uncanny. It was her voice, but it was also more. Underlying her natural tone, a subtle but powerful series of harmonic chords seemed to vibrate in the air around the words.
 
 Richard blinked, as if he'd just been hit in the head with a rock. "Yeah," he agreed after a second. "I really should."
 
@@ -212,7 +211,9 @@ She opened her eyes and smiled. Richard was smiling back.
 
 They made their way to bed, Netflix forgotten, and fell asleep quickly. That night, Candice had the most erotic dreams of her life. Dreams of Kevin.
 
-## **Part 3: Arm Candy**
+# Part 3: Arm Candy
+
+## Part 3: Arm Candy
 
 Candice reclined in her office chair. She'd finished her work for the day, having squashed a particularly difficult-to-find bug in the company website. Now she was just playing with Master PC, as she had been doing every day for the last two weeks.
 
@@ -224,11 +225,11 @@ Of course she could be learning a lot more if she would just change people. She 
 
 She could probably force a wealthy person to just give her a lot of money, but she'd already seen many of them were protected somehow, and she didn't want to draw any undue attention. So yesterday she'd mentioned to her boss's boss that she would be a "GOOD CANDIDATE FOR PROMOTION." Now she had a meeting next week with him to discuss her future at the company. Richard was doing well at his job too. He worked at a bank, doing some kind of financial analytics. His increased intelligence and self-confidence had been helping him get noticed. It was only a matter of time before he got a promotion as well, she figured.
 
-She had bumped his self-confidence up a couple more times since that first day. She had just decided to keep doing it until she noticed a difference, and that had finally started happening in the last few days. He was now actually a bit *more* confident than average, but she wasn't sure she liked it. He was definitely more take-charge now, and Candice was used to wearing the proverbial pants in the relationship. 
+She had bumped his self-confidence up a couple more times since that first day. She had just decided to keep doing it until she noticed a difference, and that had finally started happening in the last few days. He was now actually a bit more confident than average, but she wasn't sure she liked it. He was definitely more take-charge now, and Candice was used to wearing the proverbial pants in the relationship. 
 
 He was also hitting on her more, but Candice didn't mind that at all. They'd been doing it nearly every day since she'd found Master PC. She definitely got why people used it for sex. She'd never known it could be so good.
 
-That was one of her problems. Every time they did it, she was thinking of Kevin. Every single fucking time. Her mind would wander back to that fitting room, and the best sex of her life. Objectively, he wasn't that amazing. She had idly browsed Kevin's profile a few times. Looking at him in Master PC, without the sex-goggles on, he wasn't even *that* hot. Richard was better looking, especially with the tweaks Candice had made to him. But in her head, Kevin was basically the God of Sex, the male version of Aphrodite who had come down to earth and given Candice an experience she just couldn't shake. She felt something building inside herself, a longing that made her worried she was going to do something stupid and cheat again.
+That was one of her problems. Every time they did it, she was thinking of Kevin. Every single fucking time. Her mind would wander back to that fitting room, and the best sex of her life. Objectively, he wasn't that amazing. She had idly browsed Kevin's profile a few times. Looking at him in Master PC, without the sex-goggles on, he wasn't even that hot. Richard was better looking, especially with the tweaks Candice had made to him. But in her head, Kevin was basically the God of Sex, the male version of Aphrodite who had come down to earth and given Candice an experience she just couldn't shake. She felt something building inside herself, a longing that made her worried she was going to do something stupid and cheat again.
 
 She'd considered trying to erase her own memory of that event, but the docs warned against that heavily. Messing with your own memory was a recipe for disaster, it seemed. At least according to whoever had written the ReadMe files.
 
@@ -242,9 +243,9 @@ She pulled up all three of their profiles. Her own, Richard's and Nicole's, and 
 
 Richard was rated at 112 Dominant on a scale of 0 to 180\. It was another seemingly random scale of numbers, although really when it used percentages they weren't much more helpful. She clicked on his "Dominant" slider to get more detail, and several check boxes populated next to it. "When aroused" was checked. Ahhh, so he was dominant in bed, and basically wanted a normal relationship otherwise. Well, that wasn't so bad. It also explained all the mind control porn he'd been reading lately. Probably, turning up his sexuality had made him want to exercise that fantasy even more.
 
-Comparatively, Candice's Dominance was 43\. Interestingly "When Aroused" *wasn't* checked for herself. She just kind of liked to be in charge. Yeah, that tracked.
+Comparatively, Candice's Dominance was 43\. Interestingly "When Aroused" wasn't checked for herself. She just kind of liked to be in charge. Yeah, that tracked.
 
-Nicole's profile was more interesting. She had *two* little dots on the slider. One at Dominant 5, another at \-93. When the negative dot was selected, the word "Dominance" changed to "Submission" and "when aroused" became checked. So Nicole was pretty middle-of-the-road normally, but submissive in bed. Interesting\! And her submission matched Richard's dominance pretty closely. 
+Nicole's profile was more interesting. She had two little dots on the slider. One at Dominant 5, another at \-93. When the negative dot was selected, the word "Dominance" changed to "Submission" and "when aroused" became checked. So Nicole was pretty middle-of-the-road normally, but submissive in bed. Interesting\! And her submission matched Richard's dominance pretty closely. 
 
 OK, Candice thought, now we're cooking\! Candice knew Nicole pretty well, they'd all been in the same friend group in college. She'd always seemed pretty normal, so if her dominance/submission was at \-93, it was probably a safe number. Just to be sure, Candice checked around a few more people she knew. She found a couple people in the office with numbers slightly higher, which was reassuring.
 
@@ -270,45 +271,43 @@ Candice fired off a text to Richard.
 
 \> You're on\!\!\!
 
-	The rest of the day crawled by. Candice's mind kept going to what she was planning to do with Richard tonight. Thoughts of Kevin danced through her head, and for once she didn't bat them away. After tonight, she assured herself, Richard would be the one she fantasized about. 
+The rest of the day crawled by. Candice's mind kept going to what she was planning to do with Richard tonight. Thoughts of Kevin danced through her head, and for once she didn't bat them away. After tonight, she assured herself, Richard would be the one she fantasized about. 
 
-	When 3:00 hit, she was out the door. She had some experimenting to do, and it required privacy. 
+When 3:00 hit, she was out the door. She had some experimenting to do, and it required privacy. 
 
-	"Leaving early?" asked her boss.
+"Leaving early?" asked her boss.
 
-	"Yes," Candice said, before adding, "IT'S FINE FOR ME TO LEAVE A LITTLE EARLY." The harmonics of the Command Voice rippled through his brain and he just nodded and went back to work.
-
-	
+"Yes," Candice said, before adding, "IT'S FINE FOR ME TO LEAVE A LITTLE EARLY." The harmonics of the Command Voice rippled through his brain and he just nodded and went back to work.
 
 \*\*\*
 
-	"OK, no fuckups this time," she said aloud. She had her own profile pulled up. She had kept her dominance where it was, but she'd added a new dot on the Dominance/Submission slider. She'd set it to \-20 and triple-checked that "When Aroused" was selected. 
+"OK, no fuckups this time," she said aloud. She had her own profile pulled up. She had kept her dominance where it was, but she'd added a new dot on the Dominance/Submission slider. She'd set it to \-20 and triple-checked that "When Aroused" was selected. 
 
-	This was a little scary. She'd read several of the same stories Richard had, knew the tropes. Girls sapped of their free will, blindly obedient to their masters. She couldn't risk that happening to herself, and she knew Master PC was more than capable of it if she messed something up like she had that first day.
+This was a little scary. She'd read several of the same stories Richard had, knew the tropes. Girls sapped of their free will, blindly obedient to their masters. She couldn't risk that happening to herself, and she knew Master PC was more than capable of it if she messed something up like she had that first day.
 
-	Of course she'd found plenty of people with their submission at much higher numbers, usually when aroused. Logically it should be safe, but Candice wasn't going to be stupid. She was starting slow. She clicked Apply.
+Of course she'd found plenty of people with their submission at much higher numbers, usually when aroused. Logically it should be safe, but Candice wasn't going to be stupid. She was starting slow. She clicked Apply.
 
-	Did she feel any different? Did she want to serve Richard as his personal servant? Nope, in fact the idea still vaguely repulsed her. She pulled up the erotic stories site again, and picked a story that, from his phone's browser history, she knew he'd read several times. Cheap, by someone who went by Limerick.
+Did she feel any different? Did she want to serve Richard as his personal servant? Nope, in fact the idea still vaguely repulsed her. She pulled up the erotic stories site again, and picked a story that, from his phone's browser history, she knew he'd read several times. Cheap, by someone who went by Limerick.
 
-	She read the first few sections. It was about a couple named Jack and Kylie who were slowly being turned into sex maniacs by the local TV station. The story was well-written, but she didn't really get the appeal. She turned up her submission a bit and kept reading. Halfway through and still nothing. She turned it up some more.
+She read the first few sections. It was about a couple named Jack and Kylie who were slowly being turned into sex maniacs by the local TV station. The story was well-written, but she didn't really get the appeal. She turned up her submission a bit and kept reading. Halfway through and still nothing. She turned it up some more.
 
-	OK, now she was beginning to get a little turned on. Losing control like that could be pretty hot. And the amount of sex they were having was really appealing. As someone who had been pretty sexless up until a few weeks ago, she understood wanting to give into the changes. She increased her submissiveness a bit more. By the time Jack's boss had been turned into a slut and was sucking his cock, Candice had her vibrator out and was cumming right along with the characters. 
+OK, now she was beginning to get a little turned on. Losing control like that could be pretty hot. And the amount of sex they were having was really appealing. As someone who had been pretty sexless up until a few weeks ago, she understood wanting to give into the changes. She increased her submissiveness a bit more. By the time Jack's boss had been turned into a slut and was sucking his cock, Candice had her vibrator out and was cumming right along with the characters. 
 
 It was wild, she reflected, to edit her own sexual kinks and feel the ramifications in real time. Just as an experiment she dropped the submissiveness down again. And just like that, the story wasn't sexy anymore. Then she turned her submissiveness into dominance. Now the story was hot again, but she was imagining herself as the people running the TV station, corrupting the town into a bunch of bimbos and himbos.
 
-	Neat, but not what she was after. That wouldn't make her compatible with Richard. She set her submissiveness back down, settling on \-90. It made the submission incredibly hot, even if she still wasn't quite as submissive as Nicole. But this number would be safe, and safe was her watchword now.
+Neat, but not what she was after. That wouldn't make her compatible with Richard. She set her submissiveness back down, settling on \-90. It made the submission incredibly hot, even if she still wasn't quite as submissive as Nicole. But this number would be safe, and safe was her watchword now.
 
-	OK, now time for step two. She needed to make sure her night with Richard made her forget Kevin. She went to her sexuality tab. The master Sexuality control was at 57%. Odd. She was sure she'd set it at 55% before. She knew no one else was messing with her either — she'd password protected herself a few days ago. She pulled up the ReadMe file. Master PC's documentation was severely lacking in a lot of places, but the Sexuality files were the opposite. There was so much written, it was hard to process it all. 
+OK, now time for step two. She needed to make sure her night with Richard made her forget Kevin. She went to her sexuality tab. The master Sexuality control was at 57%. Odd. She was sure she'd set it at 55% before. She knew no one else was messing with her either — she'd password protected herself a few days ago. She pulled up the ReadMe file. Master PC's documentation was severely lacking in a lot of places, but the Sexuality files were the opposite. There was so much written, it was hard to process it all. 
 
-	*Sexuality is not a fixed number,* she found deep in one of the text files. *It is a live statistic indicating the target's current overall sexuality. Some amount of natural variance is to be expected. Experiencing good sex can cause the subject to like sex more, thus increasing the number, though there are biological limits to natural increases. Traumatic sexual experiences, age, and hormone changes can have the opposite effect. To prevent this, right-click the control, and select "Lock"....*
+Sexuality is not a fixed number, she found deep in one of the text files. It is a live statistic indicating the target's current overall sexuality. Some amount of natural variance is to be expected. Experiencing good sex can cause the subject to like sex more, thus increasing the number, though there are biological limits to natural increases. Traumatic sexual experiences, age, and hormone changes can have the opposite effect. To prevent this, right-click the control, and select "Lock"....
 
-	She stopped reading. She wasn't interested in locking her sexuality into a certain number forever. At least she had an answer. She had been having a lot of good sex lately, and that made her want it more. It made sense. In fact, knowing that a number set in Master PC wasn't necessarily forever made her a little more confident in her plan.
+She stopped reading. She wasn't interested in locking her sexuality into a certain number forever. At least she had an answer. She had been having a lot of good sex lately, and that made her want it more. It made sense. In fact, knowing that a number set in Master PC wasn't necessarily forever made her a little more confident in her plan.
 
-	She set her Master Sexuality to 70%. She'd opened up a lot of people's profiles. The high 60s were pretty much the province of horny teenage boys. Seventy would put her a hair above that, but still within the range of a normal human. She thought about 80% again, *wanted* 80% again, but knew it was too dangerous.
+She set her Master Sexuality to 70%. She'd opened up a lot of people's profiles. The high 60s were pretty much the province of horny teenage boys. Seventy would put her a hair above that, but still within the range of a normal human. She thought about 80% again, wanted 80% again, but knew it was too dangerous.
 
-	But she had a plan. Below the Master Sexuality setting was a plethora of sub-categories and controls. If the Master Sexuality slider was a sledgehammer, these were the screwdrivers and scalpels, able to make targeted changes. Candice was interested in hitting that same orgasmic high she'd experienced with Kevin without the danger of cheating on her husband. Below, she could change her "arousal curve." She lowered it at the beginning, raised it at the end. She'd now ramp up to 80% levels, but slower, not turning into a slut from the feel of fabric on her nipples.
+But she had a plan. Below the Master Sexuality setting was a plethora of sub-categories and controls. If the Master Sexuality slider was a sledgehammer, these were the screwdrivers and scalpels, able to make targeted changes. Candice was interested in hitting that same orgasmic high she'd experienced with Kevin without the danger of cheating on her husband. Below, she could change her "arousal curve." She lowered it at the beginning, raised it at the end. She'd now ramp up to 80% levels, but slower, not turning into a slut from the feel of fabric on her nipples.
 
-	She increased her O-Index. There were actually a lot of sub-categories (sub-sub-categories?) below that, like O-Multiplier and O-Profundity. She stuck to the top-line number, copying over what she'd experienced at 80% to her new, less-horny 70% self. She gave her new statistics a careful double-check, and then a triple-check. It was all as safe as she could make it. She clicked "Apply" and felt the familiar shiver as the changes took effect. 
+She increased her O-Index. There were actually a lot of sub-categories (sub-sub-categories?) below that, like O-Multiplier and O-Profundity. She stuck to the top-line number, copying over what she'd experienced at 80% to her new, less-horny 70% self. She gave her new statistics a careful double-check, and then a triple-check. It was all as safe as she could make it. She clicked "Apply" and felt the familiar shiver as the changes took effect. 
 
 Now for Richard. She turned him up as well. He had never experienced 80% before, so he didn't really need to be as high, but Candice wanted to make sure he could satisfy her. She turned his Master Sexuality slider up to 65%, then dug into the sub-menus. As a guy, his settings were slightly different. She quickly found the one she was looking for and turned down his Refractory Period. There wasn't really any guessing what was a safe number here, the documentation was pretty clear about how it worked. Even when it came to a magical computer program she was living in a world designed for men, Candice thought ruefully. She increased his penis size too. Kevin had been a little bigger than Richard, and she'd enjoyed it. She didn't know if Richard would notice, but she figured she could use the Voice to make him think it was fine if he questioned it.
 
@@ -360,7 +359,7 @@ The gleam in his eye was so sexy. Richard didn’t usually just take charge like
 
 Today was that day. It was tight, with a low square neck and a very daring thigh-high slit. She fished it out from the recesses of her closet and stepped into the master bathroom to get ready. She pulled it on, feeling the fabric hugging every inch of her body. She avoided looking into the mirror while she struggled into it. Last time she’d tried to put it on, she’d been depressed for a week. Finally, after pressing out all the wrinkles, she got up her nerve and turned to face the mirror.
 
-*Holy shit\!* She looked just as good as she had all those years ago. No, better.
+Holy shit\! She looked just as good as she had all those years ago. No, better.
 
 Candice had always been hourglass shaped. Wide hips, with a decent set of boobs. She’d always been pretty — maybe not the prettiest girl around, but Candice had always thought she was an easy 7 or 8, or at least she had been in her prime. But this new her? A perfect 10\. 
 
@@ -370,7 +369,7 @@ And she looked like this without even putting any makeup on\! She didn’t need 
 
 Richard was waiting when she stepped out of the bathroom. He was already dressed in a nice shirt and slacks. Guys had it so easy getting ready to go out. He froze when he saw Candice. Like, legitimately froze for a second, unable to grasp what he was seeing. Candice grinned and walked over to him with her sexiest walk.
 
-"Are you *sure* you still want to go out?" she purred. She knew she was just oozing sex with this look. She was already turned on, and making herself more so. She wanted to kneel down in front of her husband, to submit to him, to let him use her however he wanted. She walked seductively towards him, swaying her hips from side to side.
+"Are you sure you still want to go out?" she purred. She knew she was just oozing sex with this look. She was already turned on, and making herself more so. She wanted to kneel down in front of her husband, to submit to him, to let him use her however he wanted. She walked seductively towards him, swaying her hips from side to side.
 
 It took a beat for him to respond. "Come on," he said. "We don’t want to be late."
 
@@ -404,9 +403,9 @@ After a few minutes, the hostess led them to their seats, but just as they were 
 
 "I wanted to let everyone enjoy the show."
 
-"But, everyone *can* see the movie." Candice looked at the screen. It was some Charlie Chaplin film, but she didn’t know enough to identify it. 
+"But, everyone can see the movie." Candice looked at the screen. It was some Charlie Chaplin film, but she didn’t know enough to identify it. 
 
-Richard laughed. "You really are a bit out of it today, hon. No, *you’re* the show. Look around. Every guy is stealing glances at you. Everyone sitting on the balcony with us, when they look at the screen, they see you. I bet a lot of guys are going to be pretending to watch the movie tonight. And look down. Everyone on the first level who looks up at the balcony, you’re the first thing they’re going to see. Right here, on display."
+Richard laughed. "You really are a bit out of it today, hon. No, you’re the show. Look around. Every guy is stealing glances at you. Everyone sitting on the balcony with us, when they look at the screen, they see you. I bet a lot of guys are going to be pretending to watch the movie tonight. And look down. Everyone on the first level who looks up at the balcony, you’re the first thing they’re going to see. Right here, on display."
 
 "You… you like men looking at me?" she asked, confused.
 
@@ -436,7 +435,7 @@ Now Richard laughed out loud. "You didn’t know?"
 
 Candice’s hand shot down immediately, almost of its own volition. Even though she was on display for everyone to see here, center stage on the balcony, she was oddly afforded some small bit of privacy. A fancy white tablecloth was draped partially covering her lap, and the slit in the side of her dress provided easy access for her fingers. If no one was paying attention, she probably could have slid her fingers in without anyone noticing.
 
-But people *were* looking.  That just made it all the hotter as she started rubbing her clit. Distantly, she realized she wasn't wearing any panties either. Normally Candice would have been aghast at the idea she'd been so close to flashing everyone in the restaurant as she walked in, but that didn't matter to her at all right now. A look of surprise crossed Richard’s face. He clearly hadn’t been expecting her to actually do it, but his expression immediately turned to one of lust as he said nothing, simply staring at Candice as her fingers played with the entrance to her pussy. 
+But people were looking.  That just made it all the hotter as she started rubbing her clit. Distantly, she realized she wasn't wearing any panties either. Normally Candice would have been aghast at the idea she'd been so close to flashing everyone in the restaurant as she walked in, but that didn't matter to her at all right now. A look of surprise crossed Richard’s face. He clearly hadn’t been expecting her to actually do it, but his expression immediately turned to one of lust as he said nothing, simply staring at Candice as her fingers played with the entrance to her pussy. 
 
 Their drinks arrived. Candice barely noticed as the server put them down on the table. "Are you ready to order or do you need… uh…. a moment?" The server trailed off uncertainly. Candice didn’t stop touching herself. Richard hadn't told her to stop. The server couldn’t see anything explicit, her hand was under her dress, but it was obvious to anyone this close what she was doing. 
 
@@ -444,7 +443,7 @@ Their drinks arrived. Candice barely noticed as the server put them down on the 
 
 "Fuck, honey," Richard said, "You’re really into this aren’t you?"
 
-Candice nodded. "Whatever you want. That’s what I said. I’ve never been this… *submissive*… before," she said, putting emphasis on the word, knowing he’d love hearing her say it. "But I love it. This is so hot. I’ve never been this turned on in my life."
+Candice nodded. "Whatever you want. That’s what I said. I’ve never been this… submissive… before," she said, putting emphasis on the word, knowing he’d love hearing her say it. "But I love it. This is so hot. I’ve never been this turned on in my life."
 
 She began rubbing herself faster and faster. Her fingers circled her clit, picking up speed. Her nipples were so erect they felt like they were going to burst through her dress and she squirmed in her chair with the pleasure. With her free hand she reached up and brushed her nipples through the fabric. I'm losing control, she realized. She needed to end this now.
 
@@ -466,7 +465,9 @@ He broke the kiss, and her libido at least partly sated, Candice got a bit of he
 
 As she made her way to the restroom, all eyes were on her.
 
-## **Part 4: The Woman in the Mirror**
+# Part 4: The Woman in the Mirror
+
+## Part 4: The Woman in the Mirror
 
 "What the fuck is happening?" Candice said to herself, staring into the mirror. The upstairs restrooms at Fox Theater were small single-person affairs, and she was glad for the privacy.
 
@@ -478,7 +479,7 @@ And suddenly it all fell into place. Somewhere, while she’d been drunk with se
 
 She’d turned up Richard’s sexual desire level to 65% so he’d have a great night too. His dominance level was "when aroused" so the numbers were tied together. She would bet anything that his "dominance" level — what was it, 112? She bet anything that it was higher now that his sexuality was at 65%.
 
-It was the same for her submissiveness. She'd set it pretty high *before* she’d turned her sexuality up as well. Oh my god, she’d even made other changes too. Were they connected to submissiveness? They could be. One thing she'd learned using Master PC is that changes in one part of a person often affected things elsewhere. She'd completely screwed up the order of operations. She should have set their master sexuality first, then adjusted their dominance and submission. 
+It was the same for her submissiveness. She'd set it pretty high before she’d turned her sexuality up as well. Oh my god, she’d even made other changes too. Were they connected to submissiveness? They could be. One thing she'd learned using Master PC is that changes in one part of a person often affected things elsewhere. She'd completely screwed up the order of operations. She should have set their master sexuality first, then adjusted their dominance and submission. 
 
 OK, now she knew what the problem was and she had the solution. She just had to make it home and fix everything.
 
@@ -532,11 +533,11 @@ Candice's eyes met her own in the mirror, and she knew Richard was right. The wo
 
 "I'm a slut\!" she said loudly, looking back at her own reflection once more.
 
-"*Again\!"*
+"Again\!"
 
-*"I'M A SLUT\!"* she yelled, the unmistakable harmonics of the Command Voice echoing through the small room.
+"I'M A SLUT\!" she yelled, the unmistakable harmonics of the Command Voice echoing through the small room.
 
-"That's right you are," he said. "*My* slut\!"
+"That's right you are," he said. "My slut\!"
 
 Candice watched the slut in the mirror as she began to convulse, a strangled cry escaping her lips. She saw the raw, uninhibited pleasure twisting Candy's features \- no, her own features. Candy's features. Was she Candice or Candy? She couldn't be sure. Her gaze flickered to Richard's in the mirror, his face a mask of triumphant satisfaction. His hips bucked once, twice, a primal groan tearing from his throat as he emptied himself deep inside her. She qit, a huge load of cum, more than he'd ever given her before.
 
@@ -650,7 +651,7 @@ Jesus, thought Candice. She'd been trying to give Richard the night of his life,
 
 "Sure," Candice agreed. "Marmalade it is. Any other ground rules?"
 
-"I don't know. I guess I want to know what *you* want. What about all this gets you turned on? What are your fantasies?" Candice wasn't sure how to answer that. Despite what she'd just told Richard, she'd masturbated to a grand total of one mind-control story ever. 
+"I don't know. I guess I want to know what you want. What about all this gets you turned on? What are your fantasies?" Candice wasn't sure how to answer that. Despite what she'd just told Richard, she'd masturbated to a grand total of one mind-control story ever. 
 
 "I don't know," Candice replied. "I guess I'm still trying to figure out where I want to go with it. For now it's just the submission. You giving me an order that I obey or being on my knees in front of you. And this," she said, gesturing around them. "Being out and everyone looking at me. I know you said it turns you on. It turns me on too. And being a slut, like you said in the bathroom when you were fucking me."
 
@@ -672,7 +673,7 @@ And just like that, Candice knew she was safe. She didn't know how far she'd go 
 
 Richard grinned. "I think I can do that."
 
-\*\*\*
+---
 
 It was a short walk back to the apartment. Richard was all over her before the door closed. He lifted her effortlessly, carrying her through the living room and into the bedroom. Candice wrapped her legs around his waist, her arms around his neck, pressing herself against him. He didn't bother to shut the bedroom door and gently lowered her onto the bed.
 
@@ -684,7 +685,7 @@ Richard wasted no time. He climbed on top of her, his weight a delicious pressur
 
 His lips moved to her collarbone, trailing wet kisses lower and lower. Candice arched her back, offering herself to him. His mouth found her breast and began suckling hungrily. A moan escaped her lips, a deep, guttural sound she barely recognized as her own. Her nipples had always been sensitive, and she'd turned them up even more. She was sure she could cum just from this with a few more minutes.
 
-"You want this, don’t you, *slut*?" he whispered, his voice a low rumble against her ear. She loved hearing the word. She was a slut now, she knew it. The thought turned her on more than anything.
+"You want this, don’t you, slut?" he whispered, his voice a low rumble against her ear. She loved hearing the word. She was a slut now, she knew it. The thought turned her on more than anything.
 
 "Yes," Candice gasped.
 
@@ -762,7 +763,9 @@ Finally, when the last of the orgasm subsided, Candice knew she was fully sated.
 
 Richard smiled.
 
-## **Part 5: Officially a Slut**
+# Part 5: Officially a Slut
+
+## Part 5: Officially a Slut
 
 It was official: Candice was a slut.
 
@@ -776,41 +779,41 @@ Candice was pretty sure she knew what had happened. When Richard had been fuckin
 
 She wondered, not for the first time, how "sticky" changes made with Master PC were. Take something non-sexual like rollercoasters, for example. Imagine someone was scared of them, but Master PC had a "loves rollercoasters" slider. If you set that up high and stuck them on a rollercoaster they'd have a ton of fun. What would happen if you set that number back down later? They would still have fond memories of riding the rollercoaster, and might want to get on it again. Would they enjoy it because they'd already had fun on it once, and wouldn't be scared of it anymore?
 
-	By the same token, Candice's exhibitionism was pretty high now, according to Master PC. Was that because she'd done it last night when she wanted to please Richard, and now it was just something that turned her on in general because it had been fun once? Or possibly she'd always had some latent exhibitionism that had never manifested when she was 30% sexual. 
+By the same token, Candice's exhibitionism was pretty high now, according to Master PC. Was that because she'd done it last night when she wanted to please Richard, and now it was just something that turned her on in general because it had been fun once? Or possibly she'd always had some latent exhibitionism that had never manifested when she was 30% sexual. 
 
-	So many questions.
+So many questions.
 
-	Candice pondered them as she sat curled up on the couch with her morning tea and her laptop open. It was late Saturday morning, the day after her wild night of submission, and she was still figuring out what to do next. No matter what she decided, she knew her life was changed forever.
+Candice pondered them as she sat curled up on the couch with her morning tea and her laptop open. It was late Saturday morning, the day after her wild night of submission, and she was still figuring out what to do next. No matter what she decided, she knew her life was changed forever.
 
 Richard was in the building's gym downstairs. He'd kissed her when they'd woken up, ready for another round. She'd turned him down. It had been hard, but she'd had to prove to herself that she could. It turned out she'd set her arousal curve correctly. She could hit an incredibly orgasmic high ("Kevin who?" she joked to herself) with a much slower buildup. But yesterday she'd spent the hour before Richard got home masturbating to mind control porn and anticipating what they were going to do together. Of course she'd been ready to go when she saw him. 
 
-	In fact, in many ways last night had gone perfectly. Her plan had worked, despite the curveball of Richard taking her out to eat. They'd had amazing sex, and she'd been the perfect little submissive slut for her husband, fulfilling his long-held fantasy. And yet, here she was this morning, not feeling particularly submissive at all. The magic of "when aroused" in Master PC was working fine. Candice congratulated herself on her accomplishment. She really felt like she was beginning to understand how to use Master PC. 
+In fact, in many ways last night had gone perfectly. Her plan had worked, despite the curveball of Richard taking her out to eat. They'd had amazing sex, and she'd been the perfect little submissive slut for her husband, fulfilling his long-held fantasy. And yet, here she was this morning, not feeling particularly submissive at all. The magic of "when aroused" in Master PC was working fine. Candice congratulated herself on her accomplishment. She really felt like she was beginning to understand how to use Master PC. 
 
 And with her newfound confidence, she was rethinking the second part of her plan. She had been going to reset herself and Richard back to 55%, but could they just stay at this heightened sexuality permanently? Candice had to admit, last night was fun, and the orgasms were almost addictively mind-blowing. 
 
 This morning, before Richard had left for the gym, when he was still horny and ready to go, she'd asked him if he had really meant what he'd said last night, that he wanted her as a strong independent woman. He'd said yes, and she knew he was telling the truth because she'd been watching the icons flashing on his mental state readout. She had gotten pretty good at reading them.
 
-	It opened up a whole new world of possibilities. If he'd lied then, or changed his mind, she'd have reverted herself right then and there. Maybe even dropped his dominance. The submission was terrifying in a way. Last night, if he'd told her to change herself permanently, she knew she would have done it. But now she knew she could explore this submission as much as she wanted. Even at her most submissive, she wouldn't change herself into a bimbo permanently because it wasn't what he really wanted.
+It opened up a whole new world of possibilities. If he'd lied then, or changed his mind, she'd have reverted herself right then and there. Maybe even dropped his dominance. The submission was terrifying in a way. Last night, if he'd told her to change herself permanently, she knew she would have done it. But now she knew she could explore this submission as much as she wanted. Even at her most submissive, she wouldn't change herself into a bimbo permanently because it wasn't what he really wanted.
 
-	Perhaps, thought Candice, she could use the weekend to experiment and figure out where she wanted to leave their settings on a long-term basis. She had to prove one more thing to herself first, though. She turned her Sluttiness down to 0 and clicked Apply.
+Perhaps, thought Candice, she could use the weekend to experiment and figure out where she wanted to leave their settings on a long-term basis. She had to prove one more thing to herself first, though. She turned her Sluttiness down to 0 and clicked Apply.
 
 Suddenly, deep shame washed over her. She felt aghast at how she'd been kicked out of a fancy restaurant, how far she'd let Richard take it. It wasn't pleasant, but she forced herself to examine her feelings. Did she want to turn it back up?
 
-	It was like the rollercoaster example. If she hated rollercoasters, and turned up her love of them so she could ride them with Richard, that wouldn't be bad. Was sex or sluttiness any different, ethically? It felt like it was, somehow, but she couldn't put a finger on why. She was making these changes to herself, of her own free will. There was nothing wrong with that. And nothing wrong with being a slut, either, she told herself. She'd always said women shouldn't slut-shame each other. That went double, she figured, for slut-shaming herself. Plus, despite feeling a little disgusted at herself for kneeling before her man last night, it had also been one of the best experiences of her life. 
+It was like the rollercoaster example. If she hated rollercoasters, and turned up her love of them so she could ride them with Richard, that wouldn't be bad. Was sex or sluttiness any different, ethically? It felt like it was, somehow, but she couldn't put a finger on why. She was making these changes to herself, of her own free will. There was nothing wrong with that. And nothing wrong with being a slut, either, she told herself. She'd always said women shouldn't slut-shame each other. That went double, she figured, for slut-shaming herself. Plus, despite feeling a little disgusted at herself for kneeling before her man last night, it had also been one of the best experiences of her life. 
 
 She turned her sluttiness back up to 58\. No, she thought, let's make it a nice round 60\. Just to prove to herself it was her own choice. She clicked Apply.
 
-	The shame vanished, replaced with arousal, and an anticipation of doing it again. It felt right. She was a slut now, after all. Or at least this version of her was, and this was the version she'd made herself into.
+The shame vanished, replaced with arousal, and an anticipation of doing it again. It felt right. She was a slut now, after all. Or at least this version of her was, and this was the version she'd made herself into.
 
-	Speaking of sluts, something in Master PC caught her eye. Candice still had Richard's profile pulled up as well, and had been keeping an eye on him at the gym. Now a girl was approaching him. Candice didn't normally spy on Richard this much, but she wanted to make sure he could stay loyal to her even at 65%. The only thing Candice had changed about him since last night was increasing his refractory period to something more normal. It was still a lot shorter than most guys, but she knew if Richard was getting hard every hour he'd figure out something weird was going on pretty quick.
+Speaking of sluts, something in Master PC caught her eye. Candice still had Richard's profile pulled up as well, and had been keeping an eye on him at the gym. Now a girl was approaching him. Candice didn't normally spy on Richard this much, but she wanted to make sure he could stay loyal to her even at 65%. The only thing Candice had changed about him since last night was increasing his refractory period to something more normal. It was still a lot shorter than most guys, but she knew if Richard was getting hard every hour he'd figure out something weird was going on pretty quick.
 
 The girl was young and pretty, with dirty blonde hair and a decent pair of tits. Candice turned on the sound. 
 
 When she'd first started using Master PC, it had just shown a person's naked avatar in a white empty space. But of course Master PC had a seemingly infinite number of controls and options. She'd figured out how to switch to a camera view last week. Now she saw the full gym, heard the sound of weights being lifted through the laptop speakers. It was like a third-person view in a videogame. The "camera" was locked on Richard, but she could spin it around and see what was happening nearby.
 
-	The girl was asking him for help with some of the gym equipment. She was wearing tight yoga pants and a sports bra with nothing over it. Candice made a note to buy an outfit like that for herself. 
+The girl was asking him for help with some of the gym equipment. She was wearing tight yoga pants and a sports bra with nothing over it. Candice made a note to buy an outfit like that for herself. 
 
-	"Move along," Candice said out loud to the girl on screen, but didn't actually make any changes. She wanted to see how this played out. Richard did help her with the equipment, showing her how to use one of the arm exercise machines. The girl began chatting him up. Candice didn't need Master PC to know she was attracted to Richard. She kept touching her hair occasionally, laughing at what he said even when it wasn't a joke. 
+"Move along," Candice said out loud to the girl on screen, but didn't actually make any changes. She wanted to see how this played out. Richard did help her with the equipment, showing her how to use one of the arm exercise machines. The girl began chatting him up. Candice didn't need Master PC to know she was attracted to Richard. She kept touching her hair occasionally, laughing at what he said even when it wasn't a joke. 
 
 Candice double-clicked on her, shifting Master PC's focus. Candice saw her name appear on the screen overlay. It was one of those godawful misspellings, Paezleigh. And she was only 19\! Richard was more than 12 years her senior\! Come on girl, Candice thought, I know you see the wedding ring.
 
@@ -824,7 +827,7 @@ First things first, time to go blonde. She pulled up the hair colors and browsed
 
 Now she needed to do something about her body hair. Normally she kept a trimmed bush. Shaving every day was a lot of work, and Richard complained about the stubble if she let it go. She could make the carpet match the drapes, but of course "no body hair" was a very prominent checkbox for Master PC. She checked it.
 
-On to clothes. There actually *was* a clothing tab. That had surprised Candice at first. Everything else in Master PC was about changing a *person*, not a *thing.* You could use it to alter a person's weight, sexual orientation, ethnicity, almost anything. But you couldn't change the color of your couch or the size of your coffee mug.
+On to clothes. There actually was a clothing tab. That had surprised Candice at first. Everything else in Master PC was about changing a person, not a thing. You could use it to alter a person's weight, sexual orientation, ethnicity, almost anything. But you couldn't change the color of your couch or the size of your coffee mug.
 
 But it made sense once you realized Master PC was made for sex, and part of the "instant bimbo" fantasy had to include clothing. So of course it was there. Weirdly enough, nearly all the clothes it had pre-loaded were wildly out of fashion. Most of the clothing selections looked like something from the 90s or early 2000s. The lingerie was especially lacy and frilly and had an outsized selection of stockings and garter belts.
 
@@ -834,15 +837,15 @@ Candice decided to google "Slut" to get some outfit inspirations. The top result
 
 \> slut (n) a woman who has many casual sexual partners.
 
-	Candice chuckled. It was funny, before Master PC she'd only ever had two sexual partners: an old high school boyfriend and Richard. Then a couple weeks ago, she'd fucked Kevin, the Abercrombie & Fitch sales associate. But at that point she'd been under the influence of Master PC, so he hardly counted. But even including him, she'd still only slept with three men ever. She must be one of the least promiscuous sluts alive, she thought.
+Candice chuckled. It was funny, before Master PC she'd only ever had two sexual partners: an old high school boyfriend and Richard. Then a couple weeks ago, she'd fucked Kevin, the Abercrombie & Fitch sales associate. But at that point she'd been under the influence of Master PC, so he hardly counted. But even including him, she'd still only slept with three men ever. She must be one of the least promiscuous sluts alive, she thought.
 
-	OK, back to looking for outfit inspiration. She clicked over to the image results and found mostly porn. She changed her search to "slutty outfits" and saw a plethora of sexy and revealing clothes. Candice knew she wouldn't be able to get many of those outfits in the local clothing boutiques, so she ordered at least a dozen great outfits online. With Master PC, she was sure she could make them fit perfectly.
+OK, back to looking for outfit inspiration. She clicked over to the image results and found mostly porn. She changed her search to "slutty outfits" and saw a plethora of sexy and revealing clothes. Candice knew she wouldn't be able to get many of those outfits in the local clothing boutiques, so she ordered at least a dozen great outfits online. With Master PC, she was sure she could make them fit perfectly.
 
 But she still needed something to wear today. She got up and put on the skirt she'd been planning to wear last night, before Richard had made her change into the dress. After it appeared on her avatar, she grabbed the resizing tool and made it a few inches shorter. She didn't have a great top to go with it, but tube tops never went out of style, so she found one of those in Master PC. The default color was a super saturated Barbie-pink. She changed it to a pure white, and then changed the color on the skirt to match. She gave herself a pair of white platform heels to complete the look. She clicked Apply.
 
 She watched as her skirt shortened and her t-shirt morphed, shrinking and changing color. She hadn't been wearing any shoes, but her socks morphed into the heels, becoming hard plastic. It was very cool to watch, like some kind of movie special effect. 
 
-One more change, she decided. She had been cautious with Master PC ever since that first day, but considering how well things had gone last night, she had the confidence to try a few more of the outrageous things that had caught her eye. She went back to the Secondary Control options. The Command Voice had been one of the most useful things she'd used so far, there had to be some more stuff in there. She scrolled through the other options. Animal Magnetism? Didn't need it, her current looks did that for her already. Commanding Presence? Interesting thought, but it didn't fit with the submissive slutty vibe she had going. Vampirism? Why would you even *want* that? You could get the mind control and eternal youth from Master PC without the downsides. 
+One more change, she decided. She had been cautious with Master PC ever since that first day, but considering how well things had gone last night, she had the confidence to try a few more of the outrageous things that had caught her eye. She went back to the Secondary Control options. The Command Voice had been one of the most useful things she'd used so far, there had to be some more stuff in there. She scrolled through the other options. Animal Magnetism? Didn't need it, her current looks did that for her already. Commanding Presence? Interesting thought, but it didn't fit with the submissive slutty vibe she had going. Vampirism? Why would you even want that? You could get the mind control and eternal youth from Master PC without the downsides. 
 
 There was a whole section called "Fluids" that had a ton of options. She could give herself permanently lactating breasts, and make either that milk or her pussy juices have any kind of hypnotic, mind-controlling, or body-altering effects. She didn't want any of that, but an option under saliva caught her eye. She could make any man instantly hard by sucking on his cock. That was perfect. She could keep Richard's refractory period normal, but use this power to get him up again if he finished before she was done. She selected that. 
 
@@ -868,17 +871,17 @@ As the vibrations hummed against her clit, Candice closed her eyes and let her m
 
 She imagined him calling her "good girl," his voice deep and approving. She wanted to be Daddy's good girl, to serve him, to make him proud of her transformation. The vibrator pressed harder, mirroring the intensity of her growing fantasy. She moaned softly, a delicious tension building in her core as she pressed the vibrator against her clit. She was ready. Ready for Daddy.
 
-A little part of the old her recoiled. She couldn't do this. It was one thing to play at being submissive with Richard. It was another thing to make him her *Daddy*. But the voice was small, and drowned out as her orgasm crested, a gentle shiver rippling through her body, a small, teasing release that left her aching for a deeper, more profound surrender. It was enough to whet her appetite, to remind her of the incredible pleasure she was capable of, but not enough to truly satisfy the craving that now consumed her. She needed Richard, needed her Daddy, to fully claim her.
+A little part of the old her recoiled. She couldn't do this. It was one thing to play at being submissive with Richard. It was another thing to make him her Daddy. But the voice was small, and drowned out as her orgasm crested, a gentle shiver rippling through her body, a small, teasing release that left her aching for a deeper, more profound surrender. It was enough to whet her appetite, to remind her of the incredible pleasure she was capable of, but not enough to truly satisfy the craving that now consumed her. She needed Richard, needed her Daddy, to fully claim her.
 
 There was one more thing her Daddy wanted that he'd mentioned last night. One more thing she'd been avoiding. She pushed the vibrator inside her, leaving it on the lowest setting. A gentle buzz that left her perpetually near the edge.
 
 She grabbed the laptop and browsed back through Master PC. She couldn't find exactly what she wanted at first. There was, of course, an option for "bimbofication" but it included body changes, and she'd done enough of that for now. She dove into the documentation. And after a few text searches found what she was looking for.
 
-*Temporary Sex-related intelligence drain is surprisingly difficult for such a common fantasy. There is no default option for this in Master PC. The closest option is to use Arousal-Induced Bimbofication with the associated physical changes disabled. However, bimbofication includes an increase in sexuality, and if the woman in question has already had her sexuality increased this may not be desirable. There is no single control for simple 'dumbification.'*
+Temporary Sex-related intelligence drain is surprisingly difficult for such a common fantasy. There is no default option for this in Master PC. The closest option is to use Arousal-Induced Bimbofication with the associated physical changes disabled. However, bimbofication includes an increase in sexuality, and if the woman in question has already had her sexuality increased this may not be desirable. There is no single control for simple 'dumbification.'
 
-*However, I have developed the following method. First, browse to the Mental tab…*
+However, I have developed the following method. First, browse to the Mental tab…
 
-	Candice was beginning to develop the theory that the documentation was written not by the creator of Master PC, but by users who had written out their findings before passing the program on to someone else. Now she was benefiting from their wisdom — not to change another woman against her will, as the author had undoubtedly intended, but to change herself.
+Candice was beginning to develop the theory that the documentation was written not by the creator of Master PC, but by users who had written out their findings before passing the program on to someone else. Now she was benefiting from their wisdom — not to change another woman against her will, as the author had undoubtedly intended, but to change herself.
 
 She followed the instructions as written to the best of her ability. She set new values for many of her intelligence-related traits, but instead of clicking Apply immediately, she right-clicked the new value and tied it to a floating O-Satiation variable defined on the sexuality tab. The vibrator buzzing away inside her made it more difficult, but she also knew she wouldn't have the courage to do this without it.
 
@@ -886,13 +889,13 @@ The worst case scenario, she knew, would be that she would make herself permanen
 
 She hovered the mouse pointer over the Apply button, closed her eyes, and clicked it.
 
-Candy came, immediately. Before she even felt the changes, before she could even process what she had done. Just knowing that she had made herself into exactly what Daddy wanted did it for her. Her mind went blissfully blank, the complicated thoughts and calculations of Master PC, the ethical dilemmas, the safety nets — all of it dissolved into a warm, buzzing haze. It was as if a switch had been flipped, silencing the incessant chatter in her brain. All that remained was the pure, unadulterated sensation of the vibrator, a delicious hum that now resonated through her entire being. Her body arched, a soft cry escaping her lips as the waves of pleasure intensified, washing over her, leaving her utterly empty and filled all at once. This was what Daddy wanted. This was good. This was perfect. *She* was perfect. The perfect slut for Daddy.
+Candy came, immediately. Before she even felt the changes, before she could even process what she had done. Just knowing that she had made herself into exactly what Daddy wanted did it for her. Her mind went blissfully blank, the complicated thoughts and calculations of Master PC, the ethical dilemmas, the safety nets — all of it dissolved into a warm, buzzing haze. It was as if a switch had been flipped, silencing the incessant chatter in her brain. All that remained was the pure, unadulterated sensation of the vibrator, a delicious hum that now resonated through her entire being. Her body arched, a soft cry escaping her lips as the waves of pleasure intensified, washing over her, leaving her utterly empty and filled all at once. This was what Daddy wanted. This was good. This was perfect. She was perfect. The perfect slut for Daddy.
 
-# **Part 6**
+# Part 6: A Little Push
 
-## **Part 6: A Little Push**
+## Part 6: A Little Push
 
-Candice was still in bed when her phone buzzed. She was enjoying the feeling of an empty mind. She'd taken yoga classes at one point, tried to work on letting go of all her cares and worries, but meditation had never really worked for her. *If only I'd had Master PC back then*, she thought. It was like a shortcut to zen. Her mind was coming back to her now. It had been at least 15 minutes since her orgasm and she felt mostly normal. Maybe a little slow, a little duller than normal. But that could also be because she still had a finger in her pussy, enjoying the delicious afterglow.
+Candice was still in bed when her phone buzzed. She was enjoying the feeling of an empty mind. She'd taken yoga classes at one point, tried to work on letting go of all her cares and worries, but meditation had never really worked for her. If only I'd had Master PC back then, she thought. It was like a shortcut to zen. Her mind was coming back to her now. It had been at least 15 minutes since her orgasm and she felt mostly normal. Maybe a little slow, a little duller than normal. But that could also be because she still had a finger in her pussy, enjoying the delicious afterglow.
 
 She checked her phone.
 
@@ -906,7 +909,7 @@ As soon as she got out of the building, she sent Daddy a text back.
 
 \> I left to grab some new outfits and some other stuff. Be back a little later with a surprise 💖
 
-	She left her apartment building behind, heading deeper into downtown. There were some nice clothing boutiques just a few blocks away, so she decided to walk. She wanted to get out, for people to see the new her.
+She left her apartment building behind, heading deeper into downtown. There were some nice clothing boutiques just a few blocks away, so she decided to walk. She wanted to get out, for people to see the new her.
 
 The air was already turning warm, and Candice felt the breeze on her exposed skin, a stark contrast to the frumpy clothes she usually wore. Each click of her platform heels against the pavement felt like a punctuation mark in her transformation. She swung her hips a little more, her outfit and figure drawing gazes. This was what she wanted: to be seen, to be admired, to embrace the attention that her new persona seemed to effortlessly command. 
 
@@ -926,21 +929,21 @@ After putting over a grand on her credit card between the clothes and toys, she 
 
 On the way back, she passed a nail salon and looked at her own hands. She had made her nails stronger and glossier with Master PC, but she felt someone with her look would have more going on. On a whim, she stepped inside. 
 
-	The interior was bright and airy, with soft lighting and the sweet, slightly acrid scent of polish in the air. Several women were seated in comfortable, plush chairs, their hands or feet soaking in bubbling basins. Soft jazz played from unseen speakers, creating a relaxing ambiance. A wall of colorful polish bottles shimmered under the lights, offering a dizzying array of choices. This really wasn't Candice's normal thing. She usually just painted her nails at home, and really only for special occasions. She hesitated at the door until one of the girls working there saw her and walked to the counter.
+The interior was bright and airy, with soft lighting and the sweet, slightly acrid scent of polish in the air. Several women were seated in comfortable, plush chairs, their hands or feet soaking in bubbling basins. Soft jazz played from unseen speakers, creating a relaxing ambiance. A wall of colorful polish bottles shimmered under the lights, offering a dizzying array of choices. This really wasn't Candice's normal thing. She usually just painted her nails at home, and really only for special occasions. She hesitated at the door until one of the girls working there saw her and walked to the counter.
 
-	"Do you have an appointment?" she asked.
+"Do you have an appointment?" she asked.
 
-	"Uh, no," Candice answered.
+"Uh, no," Candice answered.
 
-	The girl frowned and scrolled through her appointments on her computer. She was young, maybe mid-20s, but looked very tired considering it wasn't even noon yet. She wore a plain black t-shirt, and had faded blue hair, the black roots showing prominently. A nose ring pierced her septum, and she had a little butterfly tattoo on her neck. Her short nails were a dark, shiny black. 
+The girl frowned and scrolled through her appointments on her computer. She was young, maybe mid-20s, but looked very tired considering it wasn't even noon yet. She wore a plain black t-shirt, and had faded blue hair, the black roots showing prominently. A nose ring pierced her septum, and she had a little butterfly tattoo on her neck. Her short nails were a dark, shiny black. 
 
 Candice decided to try the mind reading power again. It had felt overwhelming earlier, when she'd thrown the door open and felt the lust of all those men on the street. This time she was more careful. She could feel the power there, like a new muscle she could move if she willed it. She gave it an experimental flex, stretching it out toward the girl.
 
-	Candice felt the girl's disdain for her "basic blonde" look, a hint of judgment for her revealing outfit, but an even stronger envy for Candice's perfect figure and an undercurrent of attraction. Candice didn't hear words, exactly, but somehow knew the girl was considering if she wanted to give Candice her open 2:00 slot or just use that time to take a break.
+Candice felt the girl's disdain for her "basic blonde" look, a hint of judgment for her revealing outfit, but an even stronger envy for Candice's perfect figure and an undercurrent of attraction. Candice didn't hear words, exactly, but somehow knew the girl was considering if she wanted to give Candice her open 2:00 slot or just use that time to take a break.
 
-	"GIVE ME THE NEXT SLOT," Candice told her using the Command Voice. "BUMP EVERYONE ELSE BACK."
+"GIVE ME THE NEXT SLOT," Candice told her using the Command Voice. "BUMP EVERYONE ELSE BACK."
 
-	"Yeah, I think I can fit you in," the girl said with the slightly dazed expression she'd become familiar with when she hit someone with the Voice. "What do you want done?"
+"Yeah, I think I can fit you in," the girl said with the slightly dazed expression she'd become familiar with when she hit someone with the Voice. "What do you want done?"
 
 "I don't really know. I was thinking long acrylic nails and probably something for my feet too."
 
@@ -1020,21 +1023,21 @@ The words struck River with physical force. Her eyes glazed over for a moment, h
 
 "Good girl," Candice said.
 
-	"Now I just need my boyfriend to start trying too," River joked as she went back to work on massaging and exfoliating Candice's feet.
+"Now I just need my boyfriend to start trying too," River joked as she went back to work on massaging and exfoliating Candice's feet.
 
-	But Candice knew it wasn't a joke. Well, she could fix that too. She could tweak the boyfriend, make their relationship better the same way she'd changed Richard.
+But Candice knew it wasn't a joke. Well, she could fix that too. She could tweak the boyfriend, make their relationship better the same way she'd changed Richard.
 
-	It was exactly the kind of thing Candice had initially told herself she wouldn't do: make changes to other people without their consent or knowledge. At first, she'd made some little changes to Richard, things she knew he'd want. She'd told herself that was different because she knew him so well, knew what he'd say yes to if only she asked. But those changes had gotten bigger without her really realizing it, hadn't they? She'd kept ratcheting up his self-confidence until his demeanor had changed, and his sexuality was certainly much higher than it was in the beginning. 
+It was exactly the kind of thing Candice had initially told herself she wouldn't do: make changes to other people without their consent or knowledge. At first, she'd made some little changes to Richard, things she knew he'd want. She'd told herself that was different because she knew him so well, knew what he'd say yes to if only she asked. But those changes had gotten bigger without her really realizing it, hadn't they? She'd kept ratcheting up his self-confidence until his demeanor had changed, and his sexuality was certainly much higher than it was in the beginning. 
 
 But those had worked out, hadn't they? And how unethical could it really be to help people? Help them be better? In fact, if she could change someone else for the better, didn't she have the responsibility to do that? Wasn't that what they always said in the Spider-Man movies? With great power comes the responsibility to use it, or something like that? Considering she basically had super-powers now, shouldn't she be helping people as much as she could?
 
-	"Do me a favor," Candice said. "Picture your ideal partner and tell me what you see."
+"Do me a favor," Candice said. "Picture your ideal partner and tell me what you see."
 
-	"I don't know…" River began.
+"I don't know…" River began.
 
-	"TRUST ME," Candice said. "I'm a relationship expert."
+"TRUST ME," Candice said. "I'm a relationship expert."
 
-	"Alright," the nail tech said.
+"Alright," the nail tech said.
 
 Candice focused, reaching out with her mind, zeroing in on the visualization River was attempting to form. Candice couldn't see it herself, but she got impressions from River's mind. It was a kaleidoscope of traits: strong hands, an understanding gaze, a powerful but kind demeanor. But then, something wavered, and for a moment it felt like River was picturing a woman. Soft, curvy, alluring. It was an intense jolt of pure, hot curiosity. The impression was clear: River was bisexual, or at least intensely bi-curious, and had clearly never acted on it. 
 
@@ -1046,7 +1049,7 @@ And Candice realized that, for a moment, it had been herself that River was pict
 
 She took a calming breath, trying to compartmentalize the flood of feeling. This was not part of the plan. She’d already masturbated in Richard’s bed this morning precisely to drain off the excess sexual energy. It had worked then, but the effect was clearly wearing off, or perhaps the intensity of River's desire was just too strong to be fully blocked.
 
-*Focus, Candice*, she commanded herself. *You are not bisexual. You are not a lesbian. These aren't even your feelings, these are River's feelings*. But the rationalizations felt thin and hollow against the sudden, overwhelming swell of lust. River was right there—her hands working on Candice's foot, her faded blue hair falling forward, the subtle scent of polish and warm skin. It was so hard to think, now that she was aroused. 
+Focus, Candice, she commanded herself. You are not bisexual. You are not a lesbian. These aren't even your feelings, these are River's feelings. But the rationalizations felt thin and hollow against the sudden, overwhelming swell of lust. River was right there—her hands working on Candice's foot, her faded blue hair falling forward, the subtle scent of polish and warm skin. It was so hard to think, now that she was aroused. 
 
 All these thoughts passed in just a few moments as Candice stared at River, the nail tech still massaging her feet. What was the last thing River had said? Right, something about how she was looking for more excitement in life.
 
@@ -1104,9 +1107,9 @@ Candy closed her eyes, a gasp escaping her lips. River’s tongue was hesitant a
 
 The pleasure was immediate and profound, amplified by the connection to River's mind. Candice felt every drop of the girl's admiration, every surge of her own mounting excitement, all folding in on itself until there was only the searing, white-hot point of sensation. The walls of the waxing room seemed to melt away, the air growing thick and heavy. This was better than the bullet vibrator, better than the afterglow in Richard’s bed. This was pure, unadulterated, female-on-female lust, and it was glorious.
 
-	River continued her work, a low, guttural moan rumbling in her throat as she tasted Candice's desire. 
+River continued her work, a low, guttural moan rumbling in her throat as she tasted Candice's desire. 
 
-As her arousal intensified, Candice's thoughts dissolved, and her mind went feral. Her higher functions were replaced by a desperate, guttural sound—a wordless demand for *more.* Tearing off her tube top, she exposed her engorged breasts and clumsily began kneading her nipples, seeking further stimulation. River responded by working faster and deeper, the relentless pressure on Candice's clitoris becoming inescapable. A final, seismic wave hit, triggering a primal scream. Her body convulsed, hips slamming down as the orgasm wiped away the rational "Candice," leaving only the trembling "Candy." She finally collapsed, breathless, finding herself slack in the chair as the room swam back into focus, with River still kneeling, her cheek glistening with Candy's juices.
+As her arousal intensified, Candice's thoughts dissolved, and her mind went feral. Her higher functions were replaced by a desperate, guttural sound—a wordless demand for more. Tearing off her tube top, she exposed her engorged breasts and clumsily began kneading her nipples, seeking further stimulation. River responded by working faster and deeper, the relentless pressure on Candice's clitoris becoming inescapable. A final, seismic wave hit, triggering a primal scream. Her body convulsed, hips slamming down as the orgasm wiped away the rational "Candice," leaving only the trembling "Candy." She finally collapsed, breathless, finding herself slack in the chair as the room swam back into focus, with River still kneeling, her cheek glistening with Candy's juices.
 
 "Oh my god," Candy gasped, her voice still shaky. "You... you were perfect."
 
@@ -1142,7 +1145,7 @@ She is so beautiful. She is in charge. I want her to do anything she wants to me
 
 Candy pushed the dildo in, just a bit. River gasped, the sound ragged and raw. Candy felt it too, the invasion as a pleasure spiking deep inside herself, a shockwave of fulfillment that seemed to bypass her physical body and resonate directly with her amplified sexual self. She felt the stretch, the pressure, the forbidden thrill of River’s violation. It was the purest form of submission, and Candy internalized it, feeling the exquisite, contradictory joy of being both the dominant wielder of power and the ecstatic recipient of the pleasure.
 
-River began to move, bucking her hips against it. Candy responded in kind, pushing the dildo deeper and deeper with each buck of the girl's hips. For the first time, she heard the words in River's head, not just the feelings. *Faster. Harder. Take me. Don't stop.*
+River began to move, bucking her hips against it. Candy responded in kind, pushing the dildo deeper and deeper with each buck of the girl's hips. For the first time, she heard the words in River's head, not just the feelings. Faster. Harder. Take me. Don't stop.
 
 Candy obeyed the silent commands, accelerating her pace, thrusting deep and pulling back with a rhythm that was purely instinctual. The connection between them was so complete that every nerve ending in River’s body seemed to be firing into Candy’s brain. Candy was no longer riding a toy; she was riding River's orgasm, guiding it, feeding it, consuming it whole.
 
@@ -1150,11 +1153,13 @@ Candy's thoughts began to ablate away under the heat and pressure of River's app
 
 No, she only wished she was as perfect as the woman above her with the golden hair and stunning face. Her lips were parted, her face somehow both at once vacant and full of lust. River could feel the hard, thick length of the toy inside her, pushing, stretching, filling her with a pleasure so intense it bordered on pain.
 
-It felt wrong, so wrong. *I'm cheating on Liam. I'm cheating on my boyfriend with a customer I just met\! With a woman\! In the waxing room\!* The rational part of River's mind screamed the accusations, a thin, frantic voice struggling against the roar of sensation. Shame was a cold, sharp knife, but it couldn't cut through the hot all-encompassing need. She was lost under this perfect blonde woman, this goddess who had seen her and told her the truth about herself. *Trust me. I'm a relationship expert.* Candy's words echoed, blurring the line between instruction and pleasure. *You are going to embrace your femininity and you are going to be sexy.* Yes. This was her embracing it. *You want this.* This dizzying surrender to a woman who demanded her pleasure was the "more" she was capable of, the excitement she craved. She squeezed her eyes shut, pushing her hips up, the internal mantra taking over: *Be sexy. Trust her. I want this. Be sexy. Trust Candy.*
+It felt wrong, so wrong. I'm cheating on Liam. I'm cheating on my boyfriend with a customer I just met\! With a woman\! In the waxing room\! The rational part of River's mind screamed the accusations, a thin, frantic voice struggling against the roar of sensation. Shame was a cold, sharp knife, but it couldn't cut through the hot all-encompassing need. She was lost under this perfect blonde woman, this goddess who had seen her and told her the truth about herself. Trust me. I'm a relationship expert. Candy's words echoed, blurring the line between instruction and pleasure. You are going to embrace your femininity and you are going to be sexy. Yes. This was her embracing it. You want this. This dizzying surrender to a woman who demanded her pleasure was the "more" she was capable of, the excitement she craved. She squeezed her eyes shut, pushing her hips up, the internal mantra taking over: Be sexy. Trust her. I want this. Be sexy. Trust Candy.
 
 River came. Candy came. It was the same thing.
 
-## **Part 7: Metamorphing Or Whatever**
+# Part 7: Metamorphing Or Whatever
+
+## Part 7: Metamorphing Or Whatever
 
 Well, that had been a disaster.
 
@@ -1164,11 +1169,11 @@ The sex with River had been literally mind-blowing. After Candice had come down 
 
 What had gone wrong this time? Clearly, it was the mind-reading power. Or at least, the mind-reading coupled with "dumbification" when aroused. Her general sluttiness and enhanced libido had factored in as well. Something was going to have to go. All these powers and changes were a potent mix that had really done a number on her brain and self-control.
 
-Candice really wanted to keep the mind-reading. That was the one power she'd selected to *not* be sex-related, but it seemed to have caused the most issues. She could probably keep it if she turned her libido down again, or tweaked the arousal curve some more, but she didn't really want to be less sexual. She was a slut, after all.
+Candice really wanted to keep the mind-reading. That was the one power she'd selected to not be sex-related, but it seemed to have caused the most issues. She could probably keep it if she turned her libido down again, or tweaked the arousal curve some more, but she didn't really want to be less sexual. She was a slut, after all.
 
 In fact, the more Candice thought about it, the less of a disaster it seemed. Sure, she'd cheated on Richard. Again. But this time it was with a girl, a girl that seemed eager to come home and meet Candy's boyfriend. Surely Richard would love that. Every guy dreams of a threesome. And it's not like Richard didn't know Candice was a slut. What did he expect? It was kind of his fault, if you thought about it. He was the one that had made Candice say it out loud, even if he hadn't known about the Command Voice.
 
-She'd have to be careful about how she broached the subject with Richard, though. She didn't want him finding out she'd already pre-fucked River. He might not like that. In fact, he definitely wouldn't. *Of course, what he doesn't know won't hurt him,* she considered. 
+She'd have to be careful about how she broached the subject with Richard, though. She didn't want him finding out she'd already pre-fucked River. He might not like that. In fact, he definitely wouldn't. Of course, what he doesn't know won't hurt him, she considered. 
 
 The thought surprised Candice. When she'd stumbled out of the nail salon, still riding high from the orgasm, she'd expected feelings of shame and guilt to creep in, just as they had after she'd fucked Kevin. But now, twenty minutes later, as she sat picking at her lunch and feeling comparatively like herself, Candice realized she didn't feel any remorse for the act itself, just worry that Richard would be mad. She dug deep, examined her feelings, looking for any hint of guilt within herself, and found none. Instead it just felt natural. Sluts sleep around, she knew, and she was a slut.
 
@@ -1190,7 +1195,7 @@ Daddy. The word alone now excited Candice. She felt her body flush, her pussy al
 
 She summoned the Uber. She could have walked, but she had a lot of bags, and she wanted to get home as fast as possible.
 
-\*\*\*
+---
 
 Candice cracked the door open to her apartment just a hair and listened. Inside, she heard the sound of gunfire from whatever shooting game Richard was playing these days. He was wearing his usual weekend outfit of worn-out shorts and a t-shirt, though she had to admit he filled them out much better now. She knew he was playing multiplayer, because he had his headset on. 
 
@@ -1242,7 +1247,7 @@ Richard stepped in close. "Jesus, Candy. You look amazing. You don't need to do 
 
 "On your knees," he commanded.
 
-Candy dropped instantly, as if gravity had suddenly increased. She heard him inhale sharply as she reached for his pants, undoing the zipper, and in no time his cock was in her mouth. She sucked him with practiced ease, her tongue circling the head. She took him as deep as she could without gagging. There was a setting in Master PC to disable her gag reflex, she remembered. *Why haven't I done that yet*, she wondered. Oh well, something for next time.
+Candy dropped instantly, as if gravity had suddenly increased. She heard him inhale sharply as she reached for his pants, undoing the zipper, and in no time his cock was in her mouth. She sucked him with practiced ease, her tongue circling the head. She took him as deep as she could without gagging. There was a setting in Master PC to disable her gag reflex, she remembered. Why haven't I done that yet, she wondered. Oh well, something for next time.
 
 "Good girl," he growled, the rough sound vibrating with power. He grabbed a handful of her blonde hair, pulling her head back to control the pace. "Suck it, Candy. You know you want it." She eagerly complied, the name "Candy" now feeling more natural than "Candice." This was exactly what she wanted: to be commanded, to please him, to be his perfect, insatiable slut. The moment of clarity she'd had just seconds ago began to evaporate.
 
@@ -1312,9 +1317,9 @@ A little voice inside her was screaming, terrified. But Candy wouldn't have to h
 
 Candice had been planning on undoing so many changes. Her boring old self had been about to stop the transformation. The caterpillar was trying to claw the butterfly back into the cocoon. Candy wasn't going to let that happen.
 
-*That metaphor doesn't even make sense,* a little part of her brain said, the part that still wanted to be Candice. But it was small and Candy ignored it as she clicked "Apply."
+That metaphor doesn't even make sense, a little part of her brain said, the part that still wanted to be Candice. But it was small and Candy ignored it as she clicked "Apply."
 
-\*\*\*
+---
 
 The rest of the weekend passed in a blur. Richard woke up from his nap and insisted on taking Candy out on the town. They hit the bars and clubs downtown, and never had to wait in line. Candy wore a "club dress" she'd bought at the adult store. It was shiny silver and had a V so deep it went past her navel. It required some expertly applied boob tape, but fortunately that had been sold right next to the dress. Daddy loved it, and so did Candy.
 
@@ -1322,7 +1327,7 @@ Everywhere they went, people stared. Candy felt their eyes on her and she preene
 
 Richard was beaming all night. Sometimes he'd walk away for a little bit ostensibly to get drinks, but really to let other guys hit on her. She could tell how much he loved it when he'd walk back and put his arm around her, seeing the jealousy and defeat in those other men's faces. He introduced her to everyone as "Candy," and his eyes never left her. When they were alone for a moment, he leaned in and whispered, "I feel like the luckiest man alive." Candy kissed him, her entire focus on pleasing him, on being the trophy he deserved.
 
-She took a ton of selfies through the night, posting them with cute captions. Even a few TikToks, and she'd never actually *posted* to TikTok before. Every time she did, there were new followers and a lot of new comments. She liked them all, reveling in the validation.
+She took a ton of selfies through the night, posting them with cute captions. Even a few TikToks, and she'd never actually posted to TikTok before. Every time she did, there were new followers and a lot of new comments. She liked them all, reveling in the validation.
 
 They didn't make it home until the early hours of the morning. After another quickie, they both passed out in the bed together.
 
@@ -1336,38 +1341,43 @@ They made idle chit-chat, talking about how exciting the past few days had been,
 
 As she licked and sucked, Candy knew that Candice was gone. The caterpillar was no more, only the butterfly remained. And Daddy's cock was her honey, or whatever it was butterflies ate. She was Daddy’s perfect slut, and she was home. Sucking harder, she pulled him toward release, a feeling of contentment washing over her. This was everything.
 
-*They drink nectar, idiot,* a little voice in her head said. Well, maybe Candice wasn't completely gone. But Daddy came in her mouth and that was enough to silence the voice for now.
+They drink nectar, idiot, a little voice in her head said. Well, maybe Candice wasn't completely gone. But Daddy came in her mouth and that was enough to silence the voice for now.
 
+## 
 
-## **Part 8: Under New Management**
+## 
+
+# Part 8: Under New Management
+
+## Part 8: Under New Management
 
 Candy returned to work reinvigorated. Everyone immediately noticed the new her. Gone were the conservative and increasingly ill-fitting clothes of the old Candice. Before, she’d tried to hide her Master PC-induced weight loss, tried to avoid attention. Now she dressed for it. She smoothed down her pencil skirt. It was one of the new ones she’d bought—tight, black, and hugging her newly widened hips like a second skin. Her blouse was white silk, unbuttoned just one button too low for a standard corporate environment. She got a lot of compliments from co-workers, especially the men. She loved the attention. It made her pussy warm.
 
 The stodgy old office seemed alive as it never had before. Candy worked for a consulting company. They weren’t Fortune 500 or anything, but they were big enough to have eight floors leased in an older high-rise that had been built in the '50s and last renovated in the '90s. 
 
-It had always felt drab to Candice, but today all Candy saw was *potential.* She'd helped herself and Richard, helped River, and now she was going to help other people. The problem she'd had, she realized, was she had been doing too many experiments on herself and Daddy. She'd been overly concerned about changing other people without their consent. But people were infinitely malleable when you had Master PC. There was no change you couldn't undo if you messed up, unless you did it to yourself. And the more practice she got changing people, the better she could get at helping people. It just made sense.
+It had always felt drab to Candice, but today all Candy saw was potential. She'd helped herself and Richard, helped River, and now she was going to help other people. The problem she'd had, she realized, was she had been doing too many experiments on herself and Daddy. She'd been overly concerned about changing other people without their consent. But people were infinitely malleable when you had Master PC. There was no change you couldn't undo if you messed up, unless you did it to yourself. And the more practice she got changing people, the better she could get at helping people. It just made sense.
 
 The only problem was that they would notice. For the changes she'd made to herself, it wasn’t a big deal. She convinced most of the people who came by and complimented her on her new look and weight loss that she’d been undergoing a slow change they hadn’t noticed because she hadn’t updated her clothes. For those that still seemed skeptical, a quick application of the Command Voice was enough. But that didn’t scale. Using the Command Voice took real effort, and she couldn’t follow these people home and convince their friends and family.
 
 There was an option she’d avoided using on herself, but now was the perfect time to try it out. It was called Acceptance, and existed on the Meta-Control tab. She’d been reading up on it.
 
-*Acceptance is a powerful feature any would-be Master must be aware of,* the documentation read, *and essential for making large-scale changes. When enabled, the subject won't realize anything has changed, and if confronted with evidence they've been altered, they will rationalize it away, within limits. The feature has a plethora of sub-options that…*
+Acceptance is a powerful feature any would-be Master must be aware of, the documentation read, and essential for making large-scale changes. When enabled, the subject won't realize anything has changed, and if confronted with evidence they've been altered, they will rationalize it away, within limits. The feature has a plethora of sub-options that…
 
 Candy stopped reading. The documentation was sooooo boring. Better to learn by doing. For instance, she wondered what, exactly, "within limits" meant. Of course, the documentation was vague. Candy decided she should probably experience Acceptance once, just so she understood it better. Not on a change to herself, of course. If there was anything she'd learned over the last few days, making changes to yourself that you don't fully understand was a recipe for unintended consequences.
 
 Candy surveyed the office, her eyes settling on Morgan's small breasts. The poor girl was extremely flat chested. Candy turned up her boob size to something more reasonable, but didn't click Apply yet. She checked "Acceptance," then checked the sub-options underneath it. There was an option to make the "Acceptance" contagious, allowing the target’s rationalizations to spread, which seemed like a good idea to keep any friends and family from becoming suspicious, and a checkbox labeled 'User Immunity,' which she deliberately un-checked. Of course, normally she’d want to be immune, but she wanted to feel what it was like so she’d know how effective it was. Then she wrote a note to herself.
 
-\> You have made Morgan's tits bigger. Try to remember her boobs used to be smaller.
+You have made Morgan's tits bigger. Try to remember her boobs used to be smaller.
 
-Then Candy clicked Apply and looked at Morgan again. Her tits were pretty average. *Oops, I forgot to actually make them bigger,* she realized, and turned up Morgan's chest size until her 3D model looked suitably busty. She clicked Apply.
+Then Candy clicked Apply and looked at Morgan again. Her tits were pretty average. Oops, I forgot to actually make them bigger, she realized, and turned up Morgan's chest size until her 3D model looked suitably busty. She clicked Apply.
 
-Candy looked at Morgan again. There she was, wearing a shirt that was clearly too small for the chest she had. Morgan must really like showing off her boobs, Candy considered. She looked at the note she'd written. Had Morgan's boobs been smaller before? She really tried to think about it. Oh, right\! How could she have forgotten? They'd been like A cups before, at best. Morgan must have gotten breast augmentation. The girl liked having big boobs, and that's why Candy had decided to increase them even more. She turned them up to something Morgan could *really* be proud of and hit Apply.
+Candy looked at Morgan again. There she was, wearing a shirt that was clearly too small for the chest she had. Morgan must really like showing off her boobs, Candy considered. She looked at the note she'd written. Had Morgan's boobs been smaller before? She really tried to think about it. Oh, right\! How could she have forgotten? They'd been like A cups before, at best. Morgan must have gotten breast augmentation. The girl liked having big boobs, and that's why Candy had decided to increase them even more. She turned them up to something Morgan could really be proud of and hit Apply.
 
 Candy looked at Morgan again with her ridiculous chest and then back to her note. On second thought, Candy decided she shouldn't really turn them up any more. Sure, Morgan must love having a huge rack or she wouldn't have gotten the surgery, but there was definitely a limit. She threw the sticky note away.
 
 As she did, she noticed there were several other notes in her trashcan. She had been planning to test Acceptance for a few other changes too, like making Lisa younger and making Ryan more attractive. Lisa, who was, what, fresh out of high school? And Ryan, the office stud?
 
-Then it clicked. *Oops*. Well, at least she knew Acceptance was incredibly effective. With that feature turned on, she would be able to help people without anyone being the wiser. Candy began to browse through her co-workers’ profiles, this time making herself immune to Acceptance. 
+Then it clicked. Oops. Well, at least she knew Acceptance was incredibly effective. With that feature turned on, she would be able to help people without anyone being the wiser. Candy began to browse through her co-workers’ profiles, this time making herself immune to Acceptance. 
 
 Dave worked with Candy on the company website. He was 5'6" and occasionally made little self-deprecating jokes to Candy, the fellow "shorty squad" member in the office. She knew he wished he was taller. Well, now he was. 
 
@@ -1379,7 +1389,7 @@ Ava had ovarian cancer. Jesus. She'd never told anyone in the office as far as C
 
 She was still making changes to her coworkers when her computer dinged; a calendar reminder had popped up.
 
-\> Meeting with Mr. Sterling \- 15 Minutes
+Meeting with Mr. Sterling \- 15 Minutes
 
 Shit\! She’d completely forgotten. Mr. Sterling was the VP of Engineering, her boss’s boss. Last week she'd run into him and suggested that she would be a "GOOD CANDIDATE FOR PROMOTION." Shortly after, this meeting had appeared on her calendar. It was the opportunity to use Master PC to benefit her career. A few simple applications of the Command Voice, and she'd be a Director in no time.
 
@@ -1423,7 +1433,7 @@ It wasn’t a terrible answer, she knew. It was standard HR-approved management 
 
 Sterling frowned slightly. "Compromise is often a recipe for mediocrity. I need someone who can determine the critical path and make the hard call, not just smooth ruffled feathers."
 
-"I…" Her mind went blank. She felt small. She felt like a naughty schoolgirl called into the principal’s office. *Use the Voice*, the part of her that was Old Candice insisted. *Just tell him: YOU THINK I’M THE PERFECT CANDIDATE.*
+"I…" Her mind went blank. She felt small. She felt like a naughty schoolgirl called into the principal’s office. Use the Voice, the part of her that was Old Candice insisted. Just tell him: YOU THINK I’M THE PERFECT CANDIDATE.
 
 She gathered her breath, trying to summon the harmonic chords of the Command Voice. But as she looked into Sterling’s steel-gray eyes, the words died in her throat. How could she command such a powerful man? She wanted to kneel. She wanted to please. The conditioning she’d installed for Daddy was bleeding over, short-circuiting her plans.
 
@@ -1457,7 +1467,7 @@ Sterling stared at her. "I'm just not sure you're ready for the responsibility,"
 
 There was a moment's pause, and then Sterling shook his head. "No. I’m sorry Candice, but I'm going to ask you to leave. Not just this office, but this building. You’re fired." He stood up from his chair and started to brush past Candy, heading for the door.
 
-"STOP," she said in a panic. Sterling froze. So she *could* use the Command Voice on him, if she needed to. Maybe she hadn’t been able to bring herself to force a powerful man like him to give her a job, but now she was revved up with sexual energy. 
+"STOP," she said in a panic. Sterling froze. So she could use the Command Voice on him, if she needed to. Maybe she hadn’t been able to bring herself to force a powerful man like him to give her a job, but now she was revved up with sexual energy. 
 
 "No one has to know," she said, and stepped closer to him as he stood frozen. She pushed on his chest, and he sat back down into the chair. "I know you want to. What man hasn’t had the fantasy of fucking a beautiful woman who works for him? Well here’s your chance." She sank into his lap, her sharp white nails grazing the expensive fabric of his suit trousers, tracking the seam right over his zipper. She felt him twitch from her caress.
 
@@ -1479,7 +1489,7 @@ The silence in the expensive office was broken only by her shallow, rapid breath
 
 "I won’t lie," he said, not pausing as he thrust in and out of her, "I've been thinking about this since the moment you walked in."
 
-Candy loved it. Daddy was always so… excited when he fucked her. He made sure Candy enjoyed it. This felt different. Sterling made her feel *used*, and the thrill of it was intoxicating. The high-stakes environment, the risk of discovery, and the power dynamics of fucking her boss heightened her arousal to a dizzying level. It was the purest form of submission, being claimed and used without love.
+Candy loved it. Daddy was always so… excited when he fucked her. He made sure Candy enjoyed it. This felt different. Sterling made her feel used, and the thrill of it was intoxicating. The high-stakes environment, the risk of discovery, and the power dynamics of fucking her boss heightened her arousal to a dizzying level. It was the purest form of submission, being claimed and used without love.
 
 "Oh, God, Sir, yes\!" Candy gasped, trying to stay quiet. The cold hard glass of the desk pressed against her over-sensitive nipples, sending shockwaves of pleasure through her already overwhelmed body. With each thrust she felt her nipples drag across the cold glass again, and she reveled in the sensation.
 
@@ -1489,7 +1499,7 @@ Candy loved it. Daddy was always so… excited when he fucked her. He made sure 
 
 Comparing Sterling to Daddy, she suddenly realized she was cheating again. She'd done it with Kevin and with River as well, but those times she hadn't really been in her right mind. She'd been able to rationalize it away before. This was the first time she'd actively chosen to cheat on Daddy. The man who loved her, who'd encouraged her to become a slut. The man who'd be heartbroken if he found out she'd betrayed their marriage.
 
-A little wave of guilt washed over her, but Candy recognized it as the remains of her old self. *This is wrong,* the little voice that was Candice whimpered. But the transgression only made the sex hotter to Candy. After all, she was a slut. This was who she was now. This was her place. She bit her lip to stifle a scream as she came hard with the knowledge she was doing exactly what she should be.
+A little wave of guilt washed over her, but Candy recognized it as the remains of her old self. This is wrong, the little voice that was Candice whimpered. But the transgression only made the sex hotter to Candy. After all, she was a slut. This was who she was now. This was her place. She bit her lip to stifle a scream as she came hard with the knowledge she was doing exactly what she should be.
 
 "You know, maybe you are just what I need for a Chief of Staff," Sterling said as he pulled out. He lifted her onto the desk and turned her around so she was lying on her back. "Now tell me what you need to take over that Senior Director role. Start with the compensation package." His cock slammed back into her, and Candy wrapped her legs around him, pulling him closer.
 
@@ -1503,7 +1513,7 @@ That was well below what a Senior Director should be making, she knew. The compl
 
 "But I… I'm going to be your Senior Director," she managed feebly.
 
-"You'll be the Senior Director, Candy. But I'm taking the budget I *would* have used for that position and splitting it to hire you an assistant. Someone who can handle the analysis and reporting. Someone smart enough to cover your ass."
+"You'll be the Senior Director, Candy. But I'm taking the budget I would have used for that position and splitting it to hire you an assistant. Someone who can handle the analysis and reporting. Someone smart enough to cover your ass."
 
 "Yes, Sir\!" she moaned, as she began to cum again, reveling in the feeling of being simultaneously promoted and demoted, praised for her body and dismissed for her brain, all at the hands of her new, powerful boss. "Thank you, Sir\! I'll be your perfect asset\! Use the budget for her\! Use me\!"
 
@@ -1519,7 +1529,7 @@ She began to lick him clean, her saliva getting him hard once more. Later, while
 
 Candy checked her reflection in her phone. It confirmed what she already knew: she looked amazing.
 
-It had been just over a week since Candy had gotten her promotion. She was sitting at *Le Jardin*, a bistro that was just expensive enough to keep out the riff-raff. Today she was wearing a powder blue sheath dress. It was sleeveless, showing off her smooth, toned arms. The neckline was actually very conservative, but she'd used Master PC to make sure it hugged her figure just right.
+It had been just over a week since Candy had gotten her promotion. She was sitting at Le Jardin, a bistro that was just expensive enough to keep out the riff-raff. Today she was wearing a powder blue sheath dress. It was sleeveless, showing off her smooth, toned arms. The neckline was actually very conservative, but she'd used Master PC to make sure it hugged her figure just right.
 
 She sipped on a Cosmopolitan. She had to go back to work later, but it was fine. She didn't need to worry too much about getting a little tipsy. Life as a slut was just so much easier than life as a software engineer.
 
@@ -1583,17 +1593,17 @@ Mia's eyes opened wider. "Oh my God, are you sleeping with him?"
 
 "Mia, I have a boyfriend."
 
-"Uh, no, you have a *husband*. You've been married for five years."
+"Uh, no, you have a husband. You've been married for five years."
 
 "Oh," Candice said, "Right. That's what I meant." It was easy to forget you were married when you were such a slut.
 
-"What the *fuck* is going on with you right now?"
+"What the fuck is going on with you right now?"
 
  "NOTHING\! EveRYthING is FinE\!" Candice said. She felt the Voice giving out. It was like trying to sing after you'd just been screaming at the top of your lungs. She just couldn't pull the harmonics together. She needed time to get it back.
 
 "No. It's not. I'm worried about you."
 
-Candy floundered, unsure what to say. *Tell her about Richard's software project,* the little voice in her head said. Oh yeah, that would work. She still occasionally had smart ideas.
+Candy floundered, unsure what to say. Tell her about Richard's software project, the little voice in her head said. Oh yeah, that would work. She still occasionally had smart ideas.
 
 "OK, Mia, look. If you're worried about me, why don't you come over tonight?"
 
@@ -1608,3 +1618,8 @@ That should work. Python libraries and API integrations were like catnip to Mia.
 "Great," Candy said, ignoring her hesitation. "See you at 6:00."
 
 Candy got up before Mia could protest. She wiggled her ass subconsciously as she walked away.
+
+## 
+
+## 
+

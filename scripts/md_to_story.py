@@ -96,10 +96,12 @@ def generate_toc(html_content, title_from_h1=False):
     
     extracted_title = None
     if title_from_h1:
-        h1 = soup.find('h1')
-        if h1:
-            extracted_title = h1.get_text()
-            h1.decompose() # Remove from content
+        h1s = soup.find_all('h1')
+        if h1s:
+            extracted_title = h1s[0].get_text()
+            # Remove all H1s (first one is title, rest are duplicates/unwanted)
+            for h1 in h1s:
+                h1.decompose()
     
     # Generate Table of Contents (JSON) - ONLY H2
     toc_list = []
