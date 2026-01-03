@@ -24,25 +24,8 @@
 
     <section class="section container">
         <h2 class="text-center">Featured Works</h2>
-        <div class="story-grid">
-            <!-- Featured Story 1 -->
-            <article class="story-card">
-                <span class="date">Jan 05, 2026</span>
-                <h3>AI Girlfriend</h3>
-                <p>A freelance writer takes a job as a "somatic proxy" for an AI girlfriend app, only to find the line
-                    between roleplay and reality blurring in dangerous ways.</p>
-                <a href="stories/ai-girlfriend.html" class="peach-text">Read More &rarr;</a>
-            </article>
-
-            <!-- Featured Story 2 -->
-            <article class="story-card">
-                <span class="date">Jan 02, 2026</span>
-                <h3>Invasive Species</h3>
-                <p>A university student discovers her mentor's research in the Amazon has brought back something more
-                    than just data.</p>
-                <a href="stories/invasive-species.html" class="peach-text">Read More &rarr;</a>
-            </article>
-
+        <div class="story-grid" id="featured-stories">
+            <!-- Stories will be loaded dynamically -->
         </div>
     </section>
 
@@ -51,6 +34,10 @@
     </footer>
 
     <script src="js/sp-header.js"></script>
+    <script src="js/story-loader.js"></script>
+    <script>
+        loadStories({ containerId: 'featured-stories', limit: 2, basePath: '.', featuredOnly: true });
+    </script>
     <script src="js/main.js"></script>
 </body>
 

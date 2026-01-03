@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Using Master PC For Self-Improvement",
+        "link": "stories/using-master-pc-for-self-improvement.html",
+        "create_date": "2025-07-26",
+        "update_date": "2025-12-13",
+        "summary": "A woman discovers a mysterious program that allows her to edit reality, starting with herself and her husband.",
+        "complete": false
+    },
+    {
+        "title": "AI Girlfriend",
+        "link": "stories/ai-girlfriend.html",
+        "create_date": "2026-01-02",
+        "update_date": "2026-01-02",
+        "summary": "A freelance writer takes a job as a \"somatic proxy\" for an AI girlfriend app, only to find the line between roleplay and reality blurring in dangerous ways.",
+        "complete": true,
+        "featured": true
+    },
+    {
+        "title": "Invasive Species",
+        "link": "stories/invasive-species.html",
+        "create_date": "2025-12-20",
+        "update_date": "2025-12-20",
+        "summary": "A university student discovers her mentor's research in the Amazon has brought back something more than just data. A story of biological discovery and transformation.",
+        "complete": true,
+        "featured": true
+    },
+    {
+        "title": "River Erosion",
+        "link": "stories/river-erosion.html",
+        "create_date": "2025-12-06",
+        "update_date": "2025-12-06",
+        "summary": "A story about obsession, identity, and the need for approval.",
+        "complete": true
+    }
+]

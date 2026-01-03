@@ -1,4 +1,10 @@
-# **Using Master PC For Self-Improvement**
+---
+title: Using Master PC For Self-Improvement
+date: Jan 02, 2026
+description: A woman discovers a mysterious program that allows her to edit reality, starting with herself and her husband.
+---
+
+# Using Master PC For Self-Improvement
 
 ## **Part 1: You've Been Selected\!**
 

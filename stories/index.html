@@ -25,33 +25,8 @@
     </header>
 
     <section class="section container">
-        <div class="story-grid">
-            <!-- In a real app, this would be dynamic. For now, we hardcode. -->
-
-            <article class="story-card">
-                <span class="date">Jan 05, 2026</span>
-                <h3>AI Girlfriend</h3>
-                <p>A freelance writer takes a job as a "somatic proxy" for an AI girlfriend app, only to find the line
-                    between roleplay and reality blurring in dangerous ways.</p>
-                <a href="stories/ai-girlfriend.html" class="peach-text">Read Story &rarr;</a>
-            </article>
-
-            <article class="story-card">
-                <span class="date">Jan 02, 2026</span>
-                <h3>Invasive Species</h3>
-                <p>A university student discovers her mentor's research in the Amazon has brought back something more
-                    than just data. A story of biological discovery and transformation.</p>
-                <a href="stories/invasive-species.html" class="peach-text">Read Story &rarr;</a>
-            </article>
-
-            <article class="story-card">
-                <span class="date">Jan 03, 2026</span>
-                <h3>River Erosion</h3>
-                <p>A story about obsession, identity, and the need for approval.</p>
-                <a href="stories/river-erosion.html" class="peach-text">Read Story &rarr;</a>
-            </article>
-
-
+        <div class="story-grid" id="all-stories">
+            <!-- Stories will be loaded dynamically -->
         </div>
     </section>
 
@@ -60,6 +35,10 @@
     </footer>
 
     <script src="../js/sp-header.js"></script>
+    <script src="../js/story-loader.js"></script>
+    <script>
+        loadStories({ containerId: 'all-stories', basePath: '..' });
+    </script>
     <script src="../js/main.js"></script>
 </body>
 
