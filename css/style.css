@@ -39,6 +39,11 @@
     /* Transitions */
     --transition-fast: 0.2s ease;
     --transition-smooth: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+
+    /* Hero Overlay */
+    --hero-overlay: rgba(18, 18, 18, 0.7);
+    --hero-text-color: #f4f4f4;
+    --hero-text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 [data-theme="light"] {
@@ -63,6 +68,11 @@
     --toggle-bg: rgba(255, 255, 255, 0.6);
     --toggle-icon-color: var(--accent-savage);
     --story-content-color: #333333;
+
+    /* Hero Overlay - Lighter for Light Mode */
+    --hero-overlay: rgba(18, 18, 18, 0);
+    --hero-text-color: #121212;
+    --hero-text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 5px rgba(255, 255, 255, 1);
 }
 
 * {
@@ -178,7 +188,7 @@ nav {
     text-align: center;
     position: relative;
     padding: var(--spacing-xl);
-    background-image: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.7)), url('../images/banner_md.png');
+    background-image: linear-gradient(var(--hero-overlay), var(--hero-overlay)), url('../images/banner_md.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -189,13 +199,15 @@ nav {
     font-size: 4rem;
     margin-bottom: var(--spacing-md);
     line-height: 1.1;
-    color: #f4f4f4;
+    color: var(--hero-text-color);
+    text-shadow: var(--hero-text-shadow);
     /* Always light for contrast against dark banner */
 }
 
 .hero p {
     font-size: 1.2rem;
-    color: #e0e0e0;
+    color: var(--hero-text-color);
+    text-shadow: var(--hero-text-shadow);
     /* Always light for contrast */
     max-width: 600px;
     margin-bottom: var(--spacing-lg);
