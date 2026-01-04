@@ -35,7 +35,7 @@ class StoryNav extends HTMLElement {
 
         this.innerHTML = `
             <button id="story-nav-toggle" class="mobile-only" aria-label="Toggle Navigation">
-                <span class="icon">&#128366;</span>
+                <span class="icon">📖</span>
             </button>
             <aside id="story-nav-menu">
                 <h3>Jump to Chapter</h3>
@@ -72,14 +72,17 @@ class StoryNav extends HTMLElement {
     }
 
     highlightActiveLink() {
-        const currentHash = window.location.hash;
+        const currentPath = window.location.pathname;
+        const currentFile = currentPath.substring(currentPath.lastIndexOf('/') + 1) || 'index.html';
         const links = this.querySelectorAll('#story-nav-menu a');
 
         if (!links) return;
 
         links.forEach(link => {
             link.classList.remove('active');
-            if (link.getAttribute('href') === currentHash) {
+            // Check if the link href matches the current filename
+            // This assumes flat structure for now or relative links
+            if (link.getAttribute('href') === currentFile) {
                 link.classList.add('active');
             }
         });

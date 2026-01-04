@@ -1,0 +1,21 @@
+DEBUG: Creating chapter for header: 'Part 1: You’ve Been Selected!'
+DEBUG: Creating chapter for header: 'Part 2: Pumping the Brakes'
+DEBUG: Creating chapter for header: 'Part 3: Arm Candy'
+DEBUG: Creating chapter for header: 'Part 4: The Woman in the Mirror'
+DEBUG: Creating chapter for header: 'Part 5: Officially a Slut'
+DEBUG: Creating chapter for header: 'Part 6: A Little Push'
+DEBUG: Creating chapter for header: 'Part 7: Metamorphing Or Whatever'
+DEBUG: Skipping empty header.
+DEBUG: Skipping empty header.
+DEBUG: Creating chapter for header: 'Part 8: Under New Management'
+DEBUG: Skipping empty header.
+DEBUG: Skipping empty header.
+Generated Index: stories\using-master-pc\index.html
+Generated Chapter: stories\using-master-pc\using-master-pc-1.html
+Generated Chapter: stories\using-master-pc\using-master-pc-2.html
+Generated Chapter: stories\using-master-pc\using-master-pc-3.html
+Generated Chapter: stories\using-master-pc\using-master-pc-4.html
+Generated Chapter: stories\using-master-pc\using-master-pc-5.html
+Generated Chapter: stories\using-master-pc\using-master-pc-6.html
+Generated Chapter: stories\using-master-pc\using-master-pc-7.html
+Generated Chapter: stories\using-master-pc\using-master-pc-8.html

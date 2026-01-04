@@ -1,5 +1,3 @@
-# Part 1: You've Been Selected\!
-
 # Using Master PC For Self-Improvement
 
 ## Part 1: You've Been Selected\!

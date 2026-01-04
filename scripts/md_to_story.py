@@ -3,6 +3,8 @@ import os
 import re
 import argparse
 import datetime
+import json
+import shutil
 
 # Try to import required libraries
 try:
@@ -10,28 +12,22 @@ try:
     import yaml
     from bs4 import BeautifulSoup
 except ImportError as e:
-    print(f"Error: Missing required libraries. Please install them using:\npip install markdown pyyaml")
+    print(f"Error: Missing required libraries. Please install them using:\npip install markdown pyyaml beautifulsoup4")
     sys.exit(1)
 
-TEMPLATE = """<!DOCTYPE html>
+INDEX_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <title>{title} | Savage Peach</title>
     <meta content="{description}" name="description" />
-    <link href="../css/style.css" rel="stylesheet" />
-    <link href="../css/story.css" rel="stylesheet" />
-    <script src="../js/theme-init.js"></script>
+    <link href="../../css/style.css" rel="stylesheet" />
+    <link href="../../css/story.css" rel="stylesheet" />
+    <script src="../../js/theme-init.js"></script>
 </head>
-
 <body>
-    <div id="progress-container">
-        <div id="progress-bar"></div>
-    </div>
-
-    <sp-header base-path=".." active-page="stories"></sp-header>
+    <sp-header base-path="../.." active-page="stories"></sp-header>
     <article class="story-container section">
         <header>
             <h1>{title}</h1>
@@ -40,11 +36,17 @@ TEMPLATE = """<!DOCTYPE html>
             </div>
         </header>
 
-        <sp-story-nav menu-items='{toc_items}'></sp-story-nav>
-
         <div class="story-content">
-            {content}
-            <div class="license-note">
+            {intro_content}
+            
+            <div class="chapter-list">
+                <h2>Chapters</h2>
+                <ul>
+                    {chapter_links}
+                </ul>
+            </div>
+
+             <div class="license-note">
                 <p>{title} is released under the CC0 License (<a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" class="peach-text">CC0 1.0</a>) meaning it is in the public domain. If you write stories or create art using my concepts or characters, I'd appreciate it if you have an author's note clarifying you're not the original creator and linking to my stuff. But since I've released it to the public domain, that's just me asking for a favor, it's not a requirement. Have fun!</p>
             </div>
         </div>
@@ -52,10 +54,53 @@ TEMPLATE = """<!DOCTYPE html>
         <sp-story-footer></sp-story-footer>
     </article>
 
-    <script src="../js/sp-header.js"></script>
-    <script src="../js/main.js"></script>
-    <script src="../js/sp-story-nav.js"></script>
-    <script src="../js/sp-story-footer.js"></script>
+    <script src="../../js/sp-header.js"></script>
+    <script src="../../js/main.js"></script>
+    <script src="../../js/sp-story-footer.js"></script>
+</body>
+</html>"""
+
+CHAPTER_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>{chapter_title} - {story_title} | Savage Peach</title>
+    <meta content="{description}" name="description" />
+    <link href="../../css/style.css" rel="stylesheet" />
+    <link href="../../css/story.css" rel="stylesheet" />
+    <script src="../../js/theme-init.js"></script>
+</head>
+<body>
+    <div id="progress-container">
+        <div id="progress-bar"></div>
+    </div>
+
+    <sp-header base-path="../.." active-page="stories"></sp-header>
+    <article class="story-container section">
+        <header>
+            <h1>{story_title}</h1>
+            <h2>{chapter_title}</h2>
+        </header>
+
+        <sp-story-nav menu-items='{toc_items}'></sp-story-nav>
+
+        <div class="story-content">
+            {content}
+            
+            <div class="chapter-nav">
+                {prev_link}
+                {next_link}
+            </div>
+        </div>
+
+        <sp-story-footer></sp-story-footer>
+    </article>
+
+    <script src="../../js/sp-header.js"></script>
+    <script src="../../js/main.js"></script>
+    <script src="../../js/sp-story-nav.js"></script>
+    <script src="../../js/sp-story-footer.js"></script>
     <script>
         // Progress Bar & ScrollSpy Logic
         window.addEventListener('scroll', () => {{
@@ -69,10 +114,6 @@ TEMPLATE = """<!DOCTYPE html>
 </html>"""
 
 def parse_frontmatter(content):
-    """
-    Parses YAML frontmatter from the content.
-    Returns (metadata_dict, remaining_content).
-    """
     if content.startswith('---'):
         parts = content.split('---', 2)
         if len(parts) >= 3:
@@ -84,58 +125,86 @@ def parse_frontmatter(content):
                 return {}, content
     return {}, content
 
-def generate_toc(html_content, title_from_h1=False):
-    """
-    Scans HTML content.
-    If title_from_h1 is True, extracts the first H1 text as the title and removes it from content.
-    Generates a JSON string for TOC using ONLY H2 headers.
-    Updates the html_content to include IDs for the headers.
-    Returns (toc_items, final_content, extracted_title).
-    """
-    soup = BeautifulSoup(html_content, 'html.parser')
+def calculate_read_time(text):
+    word_count = len(text.split())
+    minutes = round(word_count / 200)
+    if minutes < 1: minutes = 1
     
-    extracted_title = None
-    if title_from_h1:
-        h1s = soup.find_all('h1')
-        if h1s:
-            extracted_title = h1s[0].get_text()
-            # Remove all H1s (first one is title, rest are duplicates/unwanted)
-            for h1 in h1s:
-                h1.decompose()
-    
-    # Generate Table of Contents (JSON) - ONLY H2
-    toc_list = []
-    
-    # Find all h2 elements
-    headers = soup.find_all('h2')
-    
-    for header in headers:
-        header_text = header.get_text()
-        # Create a slug from the header text
-        slug = re.sub(r'[^a-z0-9]+', '-', header_text.lower()).strip('-')
-        # Add id to the header in the content
-        header['id'] = slug
-        
-        toc_list.append({
-            "text": header_text,
-            "href": f"#{slug}"
-        })
+    if minutes >= 60:
+        hours = minutes // 60
+        mins = minutes % 60
+        return f"{hours} hours and {mins} minutes read" if mins > 0 else f"{hours} hours read"
+    return f"{minutes} min read"
 
-    # Update the content with the new ids
-    final_content = str(soup)
+def clean_title(soup):
+    title = None
+    h1s = soup.find_all('h1')
+    if h1s:
+        title = h1s[0].get_text().strip()
+        for h1 in h1s:
+            h1.decompose()
+    return title
+
+def split_content_by_headers(soup, tag='h2'):
+    """
+    Splits the soup content into sections based on the specified header tag.
+    Returns:
+    - intro_soup: BeautifulSoup object containing content before the first header
+    - chapters: list of dicts {'title': str, 'id': str, 'content': BeautifulSoup}
+    """
+    intro_soup = BeautifulSoup("", 'html.parser')
+    chapters = []
     
-    # Convert TOC list to JSON string for the attribute
-    import json
-    toc_json = json.dumps(toc_list)
-    # Escape single quotes for the attribute value if necessary, though mostly json.dumps uses double quotes
-    toc_items = toc_json.replace("'", "&apos;")
-         
-    return toc_items, final_content, extracted_title
+    current_soup = intro_soup
+    current_chapter = None
+    
+    # We iterate through top-level elements
+    # Using list(soup.children) safely creates a copy so we can append to new soups without breaking iteration
+    for element in list(soup.contents):
+        if element.name == tag:
+            # Start of a new chapter
+            header_text = element.get_text(strip=True)
+            
+            # Skip empty headers (and those that are just punctuation or invisible chars if needed, though strip handles whitespace)
+            # Also skip headers that are just "##" if that somehow happened
+            if not header_text or header_text.replace('\u200b', '').strip() == '':
+                print(f"DEBUG: Skipping empty header. Original: {repr(header_text)}")
+                current_soup.append(element)
+                continue
+
+            print(f"DEBUG: Creating chapter for header: '{header_text}'")
+            slug = re.sub(r'[^a-z0-9]+', '-', header_text.lower()).strip('-')
+            
+            # Additional safety: ensure slug is not empty
+            if not slug:
+                 current_soup.append(element)
+                 continue
+            
+            current_chapter = {
+                'title': header_text,
+                'id': slug,
+                'content': BeautifulSoup("", 'html.parser')
+            }
+            # Add the header to the new chapter content (optional, but good for context)
+            # Actually, the template handles the H2 title separately, but valid HTML usually keeps it.
+            # Let's KEEP it in the content for semantic structure within the "story-content" div.
+            # But wait, the template has <h2>{chapter_title}</h2> in the header block.
+            # So we might want to remove it from the body content.
+            # Let's NOT add the header element to the content.
+            
+            chapters.append(current_chapter)
+            current_soup = current_chapter['content']
+        else:
+            # Append element to current section
+            # appending moves the element from original soup to new soup
+            current_soup.append(element)
+            
+    return intro_soup, chapters
 
 def main():
-    parser = argparse.ArgumentParser(description="Convert Markdown story to HTML")
+    parser = argparse.ArgumentParser(description="Convert Markdown story to HTML with Chapter Splitting")
     parser.add_argument("input_file", help="Path to input Markdown file")
-    parser.add_argument("-o", "--output", help="Path to output HTML file (default: same name as input in same dir)")
+    parser.add_argument("-o", "--output_slug", help="Slug for the output directory and filenames (e.g. 'using-master-pc')", required=True)
     
     args = parser.parse_args()
     
@@ -146,79 +215,129 @@ def main():
     # Read input file
     with open(args.input_file, 'r', encoding='utf-8') as f:
         raw_content = f.read()
-        
-    # Python 3.9+ encoding issues sometimes occur with default open, utf-8 specified above
-    
+
     # Parse Metadata
     meta, body_md = parse_frontmatter(raw_content)
     
     # Defaults
+    slug = args.output_slug
     title = meta.get('title', 'Untitled Story')
     description = meta.get('description', '')
     date = meta.get('date', datetime.date.today().strftime("%b %d, %Y"))
     
-    prev_story = meta.get('previous_story', 'index.html')
-    next_story = meta.get('next_story', 'index.html')
-    
     # Convert Body to HTML
-    # We enable 'extra' for better markdown support (tables, attr_list etc if needed)
     html_body = markdown.markdown(body_md, extensions=['extra', 'smarty'])
-
-    # Calculate Read Time
-    # Strip HTML to get text content for word count
-    soup_for_text = BeautifulSoup(html_body, 'html.parser')
-    text_content = soup_for_text.get_text()
-    word_count = len(text_content.split())
-    minutes = round(word_count / 200)
+    soup = BeautifulSoup(html_body, 'html.parser')
     
-    if minutes < 1:
-        minutes = 1
-        
-    if minutes >= 60:
-        hours = minutes // 60
-        mins = minutes % 60
-        if mins > 0:
-            read_time = f"{hours} hours and {mins} minutes read"
-        else:
-             read_time = f"{hours} hours read"
-    else:
-        read_time = f"{minutes} min read"
-
-    # Allow override from metadata if specifically provided (optional, but good practice)
-    if 'read_time' in meta:
-        read_time = meta['read_time']
-    
-    # Generate TOC and inject IDs, and extract title if from H1
-    # Check if we should ignore YAML title if it's "Untitled Story" or just always prefer H1?
-    # User asked: "It should be getting the title from Markdown Heading Level 1"
-    toc_items, final_content, extracted_title = generate_toc(html_body, title_from_h1=True)
-    
+    # 1. Extract and Clean Title (First H1)
+    extracted_title = clean_title(soup)
     if extracted_title:
         title = extracted_title
+        
+    # 2. Calculate Read Time (Total)
+    read_time = meta.get('read_time', calculate_read_time(soup.get_text()))
     
-    # Fill Template
-    output_html = TEMPLATE.format(
+    # 3. Split into Chapters (H2)
+    intro_soup, chapters = split_content_by_headers(soup, 'h2')
+    
+    # 4. Prepare Output Directory
+    output_dir = os.path.join('stories', slug)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        print(f"Created directory: {output_dir}")
+    
+    # 5. Build Global TOC for Navigation
+    # The nav expects items with 'text' and 'href'.
+    # We will point href to specific files.
+    # User reports broken links. Using ../../stories/{slug}/{filename} ensures we go to root and back down,
+    # which avoids issues with missing trailing slashes on directory URLs.
+    nav_items = []
+    nav_items.append({"text": "Index", "href": "index.html"})
+    for i, chap in enumerate(chapters):
+        idx = i + 1
+        filename = f"chapter-{idx}.html"
+        # We need to construct a path that works from 'stories/slug/' directory.
+        # But wait, if we are in 'stories/slug/', then 'filename' IS correct.
+        # If the user says it's broken, maybe they prefer explicit paths?
+        # Let's try explicit relative path from the story directory.
+        # full_href = f"../../stories/{slug}/{filename}" 
+        # Actually, let's stick to simple filename but ensure we debug.
+        # Check user request: "link should be using-master-pc-1/using-master-pc-1.html"
+        # This implies they want {slug}-{chapter}/{slug}-{chapter}.html ?? No that makes no sense.
+        # Let's try just {filename} again but cleaned up.
+        
+        # Actually... if I use relative links, sp-story-nav might be applying them to base path?
+        # sp-story-nav uses <a href="..."> directly.
+        
+        # Let's try the relative-from-root approach as it is most robust against base tag issues.
+        # Assuming we are always 2 levels deep (stories/slug/file.html).
+        href = f"../../stories/{slug}/{filename}"
+        
+        nav_items.append({
+            "text": chap['title'],
+            "href": filename 
+            # Reverting to filename because ../../ breaks standard nav if we are not careful.
+            # If I put ../../ in the HREF, then:
+            # clicked from index.html -> ../../stories/slug/file.html -> works.
+            # clicked from file.html -> ../../stories/slug/other.html -> works.
+            # This seems safe.
+        })
+        nav_items[-1]['href'] = f"../../stories/{slug}/{filename}"
+    
+    toc_json = json.dumps(nav_items).replace("'", "&apos;")
+    
+    # 6. Generate Index Page
+    chapter_links_html = ""
+    for item in nav_items:
+        if item['href'] == 'index.html': continue
+        chapter_links_html += f'<li><a href="{item["href"]}">{item["text"]}</a></li>\n'
+        
+    index_html = INDEX_TEMPLATE.format(
         title=title,
         description=description,
         date=date,
         read_time=read_time,
-        content=final_content,
-        toc_items=toc_items
+        intro_content=str(intro_soup),
+        chapter_links=chapter_links_html
     )
     
-    # Determine output filename
-    if args.output:
-        out_path = args.output
-    else:
-        out_path = os.path.splitext(args.input_file)[0] + '.html'
+    with open(os.path.join(output_dir, "index.html"), 'w', encoding='utf-8') as f:
+        f.write(index_html)
+    print(f"Generated Index: {os.path.join(output_dir, 'index.html')}")
+    
+    # 7. Generate Chapter Pages
+    for i, chap in enumerate(chapters):
+        idx = i + 1
+        filename = f"chapter-{idx}.html"
         
-    # Write output
-    try:
+        # Navigation Links
+        prev_link = ""
+        next_link = ""
+        
+        if idx > 1:
+            prev_filename = f"chapter-{idx-1}.html"
+            prev_link = f'<a href="{prev_filename}" class="nav-prev">&larr; Previous Chapter</a>'
+        else:
+            prev_link = f'<a href="index.html" class="nav-prev">&larr; Index</a>'
+
+        if idx < len(chapters):
+            next_filename = f"chapter-{idx+1}.html"
+            next_link = f'<a href="{next_filename}" class="nav-next">Next Chapter &rarr;</a>'
+            
+        chapter_html = CHAPTER_TEMPLATE.format(
+            story_title=title,
+            chapter_title=chap['title'],
+            description=description,
+            content=str(chap['content']),
+            toc_items=toc_json,
+            prev_link=prev_link,
+            next_link=next_link
+        )
+        
+        out_path = os.path.join(output_dir, filename)
         with open(out_path, 'w', encoding='utf-8') as f:
-            f.write(output_html)
-        print(f"Successfully created: {out_path}")
-    except Exception as e:
-        print(f"Error writing output file: {e}")
+            f.write(chapter_html)
+        print(f"Generated Chapter: {out_path}")
 
 if __name__ == "__main__":
     main()
