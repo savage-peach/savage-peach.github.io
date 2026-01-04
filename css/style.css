@@ -178,7 +178,7 @@ nav {
     text-align: center;
     position: relative;
     padding: var(--spacing-xl);
-    background-image: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.7)), url('../images/banner.png');
+    background-image: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.7)), url('../images/banner_md.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
