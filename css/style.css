@@ -44,6 +44,7 @@
     --hero-overlay: rgba(18, 18, 18, 0.7);
     --hero-text-color: #f4f4f4;
     --hero-text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    --hero-text-shadow-secondary: 0 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 [data-theme="light"] {
@@ -73,6 +74,8 @@
     --hero-overlay: rgba(18, 18, 18, 0);
     --hero-text-color: #121212;
     --hero-text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 5px rgba(255, 255, 255, 1);
+    --hero-text-shadow-secondary: 0 0 20px rgba(0, 0, 0, 0.8), 0 0 5px rgb(0, 0, 0);
+
 }
 
 * {
@@ -202,6 +205,14 @@ nav {
     color: var(--hero-text-color);
     text-shadow: var(--hero-text-shadow);
     /* Always light for contrast against dark banner */
+}
+
+.hero-text-primary {
+    text-shadow: var(--hero-text-shadow);
+}
+
+.hero-text-secondary {
+    text-shadow: var(--hero-text-shadow-secondary);
 }
 
 .hero p {
