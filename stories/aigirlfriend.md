@@ -668,97 +668,11 @@ Once she was back in Rolls-Royce, Grace pulled off the purple wig with a sigh of
 
 Grace frowned, staring out the window at the flashing city lights. "He's an arrogant, condescending misogynist who treats people like things," Grace said. "It was a role, Kurumi. I did it for the money, for the stars. That's all."
 
-She raised a hand to her temple, ghosting her fingers over the spot where he’d criticized her hair. Sloppy. 
-
-*"Grace?"* Kurumi whispered. *"Your heart rate has been high ever since you kissed him."*
-
-"I'm fine," Grace lied, pressing her thighs tightly together. Her nipples felt hard against her bra. "I was just thinking about what we could do better next time to get that fifth star."
-
-She saw David's living room on the Galat.AI app, likely from his laptop webcam. He was sitting on a leather couch, loosening his tie with a glass of whiskey in hand. On the screen in front of him—which Grace could see in a little inset of the video feed—was the start menu of a movie.
-
-"Tonight was... exceptional," David was saying to the empty air of his living room, staring at the webcam lens as if it were Kurumi's eyes. "You felt different, Kurumi. Heavier. Real."
-
-*"I wanted to be real for you, David-sama,"* Kurumi-san replied instantly, her voice smooth and perfect through Grace's phone speakers.
-
-*"Your turn,"* she whispered in Grace's ear. *"Tell him you didn't want the night to end."*
-
-"I didn't want the night to end," Grace whispered into the darkness of her room, her voice trembling slightly.
-
-David smiled on screen, a slow, satisfied curve of his lips. "It hasn't ended. You're here now. Let's watch."
-
-He clicked play. The movie started.
-
-"David," a voice boomed. A silver-haired man with a pockmarked face approached them. "Didn't think you'd make it. Heard the Asian markets were a bloodbath this morning."
-
-David took a sip of his champagne. "Volatility is only a problem if you lack foresight, Marcus. I was out before the bell."
-
-"Of course you were," Marcus laughed. He looked at Grace, his expression brightening. "And who is this?"
-
-*"Don't speak,"* Kurumi reminded her. *"Smile shyly."*
-
-Grace forced the corners of her mouth up, dipping her chin.
-
-"This is Kurumi," David said smoothly. He placed a hand on the small of her back. His touch felt weighty, possessive. "My girlfriend."
-
-The word hung in the air, surprisingly heavy. Grace felt a sudden, unexpected flush of warmth spread through her chest. Of course, it was just the role. She was his AI girlfriend made flesh, after all. But as she looked up at him, there was no hint that it was a joke or a game to him. His calm authority made it feel true.
-
-"Girlfriend?" Marcus raised an eyebrow, a grin spreading across his face. "Well, has Hell frozen over? Is David Spencer finally settling down?"
-
-"I simply found someone worth my time," David replied.
-
-Marcus chuckled, raising his glass to Grace. "Well, you're a lucky woman. And you, David... you've clearly outdone yourself. She's stunning."
-
-Grace felt the eyes of the nearby guests drift toward them. They were appraising her, reassessing her. 
-
-For the next two hours, this was the pattern. Men would approach David, eager to talk to him, eager to get his opinion on the market, on the art, on politics. Grace mostly stayed silent, but every now and then he would bring Grace into the discussion, wanting her to support him.
-
-"Tell him, Kurumi," David said as he debated art. "What did we notice about the artist's use of negative space in his earlier period?" Grace was certain the woman he was speaking to was an actual artist that knew more than David. And yet he was carrying the conversation with his iron certainty that he was right.
-
-*"David thought the artist was afraid of negative space,"* Kurumi prompted in Grace's ear. 
-
-"He was afraid of the void, David-sama," Grace said out loud. "Making the painting too busy." Ostensibly she said it to the woman David was debating, but she was looking up at David with her best impression of adoring eyes.
-
-David smiled approvingly. "Exactly. Fear. That is why this collection fails."
-
-They drifted from conversation to conversation. Grace was glad to play the silent role. The talk of art, politics, and whatever else he engaged in were all over her head; she barely understood any of it. In the park, she had realized most of his opinions were bullshit. They probably were here as well, but his confidence made them *seem* right. And David clearly had the sway to make other people here cede points to him. She let him keep his hand on her waist, guiding her through the crowd. It felt surprisingly natural, his warmth seeping through the schoolgirl outfit.
-
-It should have been dehumanizing. To be ignored, to be treated as furniture until he needed her to echo his thoughts. But as the night wore on, Grace found herself enjoying it. Since she couldn't follow the conversations she fell back to watching people, especially David. She noticed the way people looked at her—not with pity, but often with admiration, envy, or lust. They didn't know she was a broke freelancer in a wig. They saw a woman in a custom-made outfit standing next to one of the most powerful men in the room. They thought she belonged here.
-
-*"Look at the other men here,"* Kurumi murmured. *"They all want to be him. And they all want to be with you."*
-
-As the night wound to a close, David walked her out to the balcony. The air was cold, but he didn't offer her his jacket. He just looked at her, scrutinizing her face, her wig, her silence.
-
-"You do well in this setting," he said. It was the first time he'd spoken to her directly in an hour. "You know how to exist without consuming space. Most people chatter. They try to prove they're intelligent. They try to compete."
-
-He reached out, his finger tracing the line of her jaw. Her face wasn't listed in the places he was allowed to touch, but she didn't say anything. She tilted her cheek so he was cupping her face, just as he had in the park.
-
-"Silence is a luxury," David said. "I value it. It shows you have nothing to prove."
-
-He stepped closer. The smell of his cologne filled her nostrils. For a moment, Grace thought he might kiss her. She found herself wanting him to. He offered his cheek again, just as he had at the end of the date at the park.
-
-He couldn't initiate contact, but she could. She leaned forward and kissed him, not on the cheek, but the lips. It wasn't deep or intense, but it lingered for a moment. 
-
-As they broke the kiss, David held her head in his hand, staring into her eyes. He caressed her cheek with his thumb. "Tonight was wonderful, Kurumi. You've done well." Grace blushed.
-
-"Although you did miss a spot," he said, his thumb brushing a strand of her dark, real hair that had escaped the wig's adhesive line near her temple. His eyes, intense and assessing, lingered there for a fraction of a second too long. "Sloppy, Kurumi." He dropped his hand. 
-
-"I'll do better next time, David-sama," Grace breathed.
-
-"I know you will. Goodnight, Kurumi. Your car is waiting." He walked off, not looking back.
-
-Once she was back in Rolls-Royce, Grace pulled off the purple wig with a sigh of relief. The cold night air felt good on her scalp. The notification had already hit her phone: *Rating: 4 Stars. $2,500 deposited.* She leaned back against the leather seat, closing her eyes, letting the exhaustion wash over her.
-
-*"Four stars, Grace\! We did it\!"* Kurumi chirped excitedly in her ear. *"You were unbelievable tonight\! He absolutely adored you\! And he's wonderful, isn't he? So strong and decisive. You can really see why he's so successful—he just knows what he wants, and he takes it."* 
-
-Grace frowned, staring out the window at the flashing city lights. "He's an arrogant, condescending misogynist who treats people like things," Grace said. "It was a role, Kurumi. I did it for the money, for the stars. That's all."
-
 She raised a hand to her temple, ghosting her fingers over the spot where he’d criticized her hair. *Sloppy.* 
 
 *"Grace?"* Kurumi whispered. *"Your heart rate has been high ever since you kissed him."*
 
-"I'm fine," Grace lied, pressing her thighs tightly together. Her nipples felt hard against her bra.
-
-"I was just thinking about what we could do better next time to get that fifth star."
+"I'm fine," Grace lied, pressing her thighs tightly together. Her nipples felt hard against her bra. "I was just thinking about what we could do better next time to get that fifth star."
 
 ## Day 14
 
@@ -856,7 +770,7 @@ Grace smiled. Kurumi was always spinning David's negatives into positives, but s
 
 Grace launched the Galat.AI app. Sure enough, there was the conversation he was having with Kurumi, perfectly synced to her device.
 
-<div class="chat-message msg-received"><b>David:</b> The rice is warm. Amateur hour. I miss your cooking, Kurumi.</div>
+*\> David: The rice is warm. Amateur hour. I miss your cooking, Kurumi.*
 
 "He's never had my cooking," Grace said, amused.
 
@@ -864,29 +778,29 @@ Grace launched the Galat.AI app. Sure enough, there was the conversation he was 
 
 Grace considered what she knew about David.
 
-<div class="chat-message msg-sent"><b>Kurumi:</b> You shouldn't have to deal with amateurs, David-sama. You need someone who knows how to serve you properly.</div>
+*\> Kurumi: You shouldn't have to deal with amateurs, David-sama. You need someone who knows how to serve you properly.*
 
 A bubble appeared instantly. He was typing.
 
-<div class="chat-message msg-received"><b>David:</b> I do. That’s why I’m checking my phone. The view here is disappointing.</div>
+\> David: I do. That’s why I’m checking my phone. The view here is disappointing.
 
 Grace bit her lip. What would Kurumi say to him? She typed her response.
 
-<div class="chat-message msg-sent"><b>Kurumi:</b> At least you have a view. I can't see anything from my server. I can only use my imagination…</div>
+\> Kurumi: At least you have a view. I can't see anything from my server. I can only use my imagination…
 
 *"Nice\!"* Kurumi cheered in her ear. *"Playful\!"*
 
-<div class="chat-message msg-received"><b>David:</b> And what are you imagining?</div>
+\> David: And what are you imagining?
 
-<div class="chat-message msg-sent"><b>Kurumi:</b> I’m imagining you, David-sama. Imagining how you’d look if you were here with me instead of them. I bet you look very stern right now 😍</div>
+\> Kurumi: I’m imagining you, David-sama. Imagining how you’d look if you were here with me instead of them. I bet you look very stern right now 😍
 
-<div class="chat-message msg-received"><b>David:</b> I am very stern. These people are wasting my time.</div>
+\> David: I am very stern. These people are wasting my time.
 
-<div class="chat-message msg-sent"><b>Kurumi:</b> I’d never waste your time. I’d make every second count! 😘</div>
+\> Kurumi: I’d never waste your time. I’d make every second count\! 😘
 
 She pressed send before she could overthink it. It was thrilling, hiding behind the digital mask. She could say things Grace never would. The typing bubble appeared, and then disappeared. Grace waited. A moment later one more message came through.
 
-<div class="chat-message msg-received"><b>David:</b> Good girl. Duty calls, we'll talk later.</div>
+\> David: Good girl. Duty calls, we'll talk later.
 
 Grace sighed softly, rolling onto her side. "He's so intense," she said.
 
