@@ -856,7 +856,7 @@ Grace smiled. Kurumi was always spinning David's negatives into positives, but s
 
 Grace launched the Galat.AI app. Sure enough, there was the conversation he was having with Kurumi, perfectly synced to her device.
 
-*\> David: The rice is warm. Amateur hour. I miss your cooking, Kurumi.*
+<div class="chat-message msg-received"><b>David:</b> The rice is warm. Amateur hour. I miss your cooking, Kurumi.</div>
 
 "He's never had my cooking," Grace said, amused.
 
@@ -864,29 +864,29 @@ Grace launched the Galat.AI app. Sure enough, there was the conversation he was 
 
 Grace considered what she knew about David.
 
-*\> Kurumi: You shouldn't have to deal with amateurs, David-sama. You need someone who knows how to serve you properly.*
+<div class="chat-message msg-sent"><b>Kurumi:</b> You shouldn't have to deal with amateurs, David-sama. You need someone who knows how to serve you properly.</div>
 
 A bubble appeared instantly. He was typing.
 
-\> David: I do. That’s why I’m checking my phone. The view here is disappointing.
+<div class="chat-message msg-received"><b>David:</b> I do. That’s why I’m checking my phone. The view here is disappointing.</div>
 
 Grace bit her lip. What would Kurumi say to him? She typed her response.
 
-\> Kurumi: At least you have a view. I can't see anything from my server. I can only use my imagination…
+<div class="chat-message msg-sent"><b>Kurumi:</b> At least you have a view. I can't see anything from my server. I can only use my imagination…</div>
 
 *"Nice\!"* Kurumi cheered in her ear. *"Playful\!"*
 
-\> David: And what are you imagining?
+<div class="chat-message msg-received"><b>David:</b> And what are you imagining?</div>
 
-\> Kurumi: I’m imagining you, David-sama. Imagining how you’d look if you were here with me instead of them. I bet you look very stern right now 😍
+<div class="chat-message msg-sent"><b>Kurumi:</b> I’m imagining you, David-sama. Imagining how you’d look if you were here with me instead of them. I bet you look very stern right now 😍</div>
 
-\> David: I am very stern. These people are wasting my time.
+<div class="chat-message msg-received"><b>David:</b> I am very stern. These people are wasting my time.</div>
 
-\> Kurumi: I’d never waste your time. I’d make every second count\! 😘
+<div class="chat-message msg-sent"><b>Kurumi:</b> I’d never waste your time. I’d make every second count! 😘</div>
 
 She pressed send before she could overthink it. It was thrilling, hiding behind the digital mask. She could say things Grace never would. The typing bubble appeared, and then disappeared. Grace waited. A moment later one more message came through.
 
-\> David: Good girl. Duty calls, we'll talk later.
+<div class="chat-message msg-received"><b>David:</b> Good girl. Duty calls, we'll talk later.</div>
 
 Grace sighed softly, rolling onto her side. "He's so intense," she said.
 
