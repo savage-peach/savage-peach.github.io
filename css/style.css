@@ -224,6 +224,21 @@ nav {
     margin-bottom: var(--spacing-lg);
 }
 
+.hero .btn {
+    background-color: var(--accent-peach);
+    color: var(--bg-color);
+    border: 1px solid var(--accent-peach);
+    font-weight: 600;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+}
+
+.hero .btn:hover {
+    background-color: var(--surface-color);
+    color: var(--accent-peach);
+    border-color: var(--surface-color);
+    transform: translateY(-2px);
+}
+
 .btn {
     display: inline-block;
     padding: 0.8rem 2rem;
