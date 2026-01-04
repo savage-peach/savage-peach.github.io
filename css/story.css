@@ -54,7 +54,7 @@
     padding: var(--spacing-md);
     margin-bottom: var(--spacing-lg);
     border-radius: var(--radius-md);
-    background-color: rgba(255, 255, 255, 0.05);
+    background-color: var(--surface-color);
 }
 
 .license-note {
