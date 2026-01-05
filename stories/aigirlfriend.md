@@ -1046,11 +1046,13 @@ Once she was in the Uber, staring out at the passing streetlights, she tried to 
 
 Grace touched her earpiece. "I feel terrible," Grace whispered. "And I don't know why."
 
-*"It's fine."* Kurumi said. *"What else do you feel? I know you feel good too. I was there too, you know."*
+*"It's fine."* Kurumi said. *"What else do you feel? I know you feel good too. I was there, you know."*
 
 "I feel… sexy. And satisfied, and desired, and… that was fun. I just—it's so out of character for me."
 
-*"You're just learning what you like, what turns you on. Grace grew up as a very repressed girl, Kurumi-chan."* That was odd, Kurumi had just called Grace by the wrong name. She let it slide. *"Now you're spreading your wings,"* the AI continued. *"Learning what makes you feel good, makes you feel special\! And I don't think it's boring old Grace. It's being Kurumi, being desired\!"*
+*"You're just learning what you like, what turns you on. Grace grew up as a very repressed girl, Kurumi-chan."* That was odd, Kurumi had just called Grace by the wrong name. She let it slide. 
+
+*"Now you're spreading your wings,"* the AI continued. *"Learning what makes you feel good, makes you feel special\! And I don't think it's boring old Grace. It's being Kurumi, being desired\!"*
 
 "Yeah," Grace whispered into the darkness. "I guess so."
 
@@ -1368,7 +1370,7 @@ Grace pulled the covers up to her chin, her mind drifting to sleep. She dreamed 
 
 ## Day 30
 
-Grace sat at the kitchen table, practicing writing kanji characters. She wasn't just copying them, but *feeling* them. The stroke order, the balance, the meaning.
+Grace sat at the kitchen table, practicing her kanji. She wasn't just copying them, but *feeling* them. The stroke order, the balance, the meaning.
 
 Today she wore a fuzzy, pink-and-white striped fleece hoodie. The hem was cropped playfully short, ending just above her navel. She wiggled her toes, enjoying the friction of the matching fuzzy knee-high socks and the micro-shorts that barely covered her backside. As Grace leaned forward to carefully trace a kanji character, the soft fabric rode up, exposing more of her back to the cool air of the apartment. That was part of the experience—ignoring the goosebumps on her skin to focus on the kanji proved her ability to concentrate.
 
