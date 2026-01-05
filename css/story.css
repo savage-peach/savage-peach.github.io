@@ -18,10 +18,10 @@
     margin-bottom: var(--spacing-md);
 }
 
-.story-content h2 {
+.story-container h2 {
     scroll-margin-top: 80px;
     /* Ensure header is not cut off when scrolling */
-    /* margin-top: var(--spacing-xxl); */
+    margin-top: var(--spacing-xl);
     margin-bottom: var(--spacing-md);
     color: var(--primary-color);
 }
