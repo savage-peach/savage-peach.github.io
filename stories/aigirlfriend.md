@@ -836,7 +836,7 @@ Grace sat cross-legged on her bed, her thumb rhythmically swiping left. For the 
 
 *"Oh, him? Absolutely not,"* Kurumi’s voice chirped through the earpiece. *"That beard is trying way too hard to look 'rugged.'"*
 
-Grace laughed. Kurumi had been dissing every guy on the app. And usually she was right. It was fun, swiping through all the profiles with her. "He said he works in ‘asset management.’ Maybe he manages beard assets?" 
+Grace laughed. Kurumi had been dissing every guy on the app. And usually she was right. It was fun, swiping through all the profiles with her. "He said he works in ‘asset management.’ You'd think he could manage a razor." 
 
 Kurumi giggled. *"Good one, Kurumi-chan\!"*
 

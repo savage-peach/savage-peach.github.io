@@ -81,8 +81,13 @@ class StoryNav extends HTMLElement {
         links.forEach(link => {
             link.classList.remove('active');
             // Check if the link href matches the current filename
-            // This assumes flat structure for now or relative links
-            if (link.getAttribute('href') === currentFile) {
+            // Handle full relative paths like "../../stories/slug/file.html"
+            const linkHref = link.getAttribute('href');
+            if (!linkHref) return; // Skip if no href
+
+            const linkFile = linkHref.substring(linkHref.lastIndexOf('/') + 1);
+
+            if (linkFile === currentFile) {
                 link.classList.add('active');
             }
         });

@@ -240,6 +240,12 @@ def main():
     # 3. Split into Chapters (H2)
     intro_soup, chapters = split_content_by_headers(soup, 'h2')
     
+    # 3b. Pre-calculate filenames
+    for i, chap in enumerate(chapters):
+        idx = i + 1
+        # Format: 1-the-blonde.html
+        chap['filename'] = f"{idx}-{chap['id']}.html"
+
     # 4. Prepare Output Directory
     output_dir = os.path.join('stories', slug)
     if not os.path.exists(output_dir):
@@ -247,42 +253,17 @@ def main():
         print(f"Created directory: {output_dir}")
     
     # 5. Build Global TOC for Navigation
-    # The nav expects items with 'text' and 'href'.
-    # We will point href to specific files.
-    # User reports broken links. Using ../../stories/{slug}/{filename} ensures we go to root and back down,
-    # which avoids issues with missing trailing slashes on directory URLs.
     nav_items = []
     nav_items.append({"text": "Index", "href": "index.html"})
     for i, chap in enumerate(chapters):
-        idx = i + 1
-        filename = f"chapter-{idx}.html"
-        # We need to construct a path that works from 'stories/slug/' directory.
-        # But wait, if we are in 'stories/slug/', then 'filename' IS correct.
-        # If the user says it's broken, maybe they prefer explicit paths?
-        # Let's try explicit relative path from the story directory.
-        # full_href = f"../../stories/{slug}/{filename}" 
-        # Actually, let's stick to simple filename but ensure we debug.
-        # Check user request: "link should be using-master-pc-1/using-master-pc-1.html"
-        # This implies they want {slug}-{chapter}/{slug}-{chapter}.html ?? No that makes no sense.
-        # Let's try just {filename} again but cleaned up.
-        
-        # Actually... if I use relative links, sp-story-nav might be applying them to base path?
-        # sp-story-nav uses <a href="..."> directly.
-        
-        # Let's try the relative-from-root approach as it is most robust against base tag issues.
-        # Assuming we are always 2 levels deep (stories/slug/file.html).
-        href = f"../../stories/{slug}/{filename}"
+        # Use robust relative linking for the TOC JSON to handle base path issues
+        # "../../stories/{slug}/{filename}"
+        href = f"../../stories/{slug}/{chap['filename']}"
         
         nav_items.append({
             "text": chap['title'],
-            "href": filename 
-            # Reverting to filename because ../../ breaks standard nav if we are not careful.
-            # If I put ../../ in the HREF, then:
-            # clicked from index.html -> ../../stories/slug/file.html -> works.
-            # clicked from file.html -> ../../stories/slug/other.html -> works.
-            # This seems safe.
+            "href": href 
         })
-        nav_items[-1]['href'] = f"../../stories/{slug}/{filename}"
     
     toc_json = json.dumps(nav_items).replace("'", "&apos;")
     
@@ -307,21 +288,20 @@ def main():
     
     # 7. Generate Chapter Pages
     for i, chap in enumerate(chapters):
-        idx = i + 1
-        filename = f"chapter-{idx}.html"
+        filename = chap['filename']
         
         # Navigation Links
         prev_link = ""
         next_link = ""
         
-        if idx > 1:
-            prev_filename = f"chapter-{idx-1}.html"
+        if i > 0:
+            prev_filename = chapters[i-1]['filename']
             prev_link = f'<a href="{prev_filename}" class="nav-prev">&larr; Previous Chapter</a>'
         else:
             prev_link = f'<a href="index.html" class="nav-prev">&larr; Index</a>'
 
-        if idx < len(chapters):
-            next_filename = f"chapter-{idx+1}.html"
+        if i < len(chapters) - 1:
+            next_filename = chapters[i+1]['filename']
             next_link = f'<a href="{next_filename}" class="nav-next">Next Chapter &rarr;</a>'
             
         chapter_html = CHAPTER_TEMPLATE.format(
