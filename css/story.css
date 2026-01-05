@@ -26,6 +26,10 @@
     color: var(--primary-color);
 }
 
+.story-container h1 {
+    color: var(--primary-color);
+}
+
 .story-content hr {
     margin: var(--spacing-xl) 0;
     opacity: 0.5;
