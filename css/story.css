@@ -47,6 +47,29 @@
     border-top: 1px solid var(--surface-color);
 }
 
+.chapter-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: var(--spacing-xl);
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid var(--surface-color);
+}
+
+.chapter-nav a {
+    font-weight: 600;
+    font-family: var(--font-heading);
+    font-size: 1.2rem;
+    transition: transform var(--transition-fast);
+}
+
+.chapter-nav a:hover {
+    transform: translateX(5px);
+}
+
+.chapter-nav .nav-prev:hover {
+    transform: translateX(-5px);
+}
+
 .author-note {
     font-style: italic;
     color: var(--text-secondary);
