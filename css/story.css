@@ -181,7 +181,7 @@ html {
     position: fixed;
     top: 100px;
     left: 20px;
-    width: 200px;
+    width: 250px;
     background: var(--sidebar-bg);
     /* Semi-transparent background */
     backdrop-filter: blur(5px);
@@ -200,8 +200,8 @@ html {
     top: 100px;
     left: 20px;
     z-index: 1100;
-    width: 45px;
-    height: 45px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     /* Semi-transparent black background */
     background: var(--toggle-bg);
@@ -216,7 +216,7 @@ html {
     /* Glassmorphism */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     transition: all 0.2s ease;
-    font-size: 1.4rem;
+    font-size: 2rem;
     /* Slightly larger icon */
 }
 
@@ -229,10 +229,11 @@ html {
 /* Open State for Mobile Menu */
 #story-nav-menu.open {
     display: block;
-    top: 155px;
+    top: 175px;
+    /* Adjusted for larger button */
     /* Position below the toggle button */
     left: 20px;
-    width: 200px;
+    width: 250px;
     animation: fadeIn 0.3s ease;
 }
 
@@ -260,13 +261,13 @@ html {
 }
 
 #story-nav-menu li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.8rem;
 }
 
 #story-nav-menu a {
     color: var(--text-secondary);
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     transition: color 0.2s;
 }
 
