@@ -236,6 +236,7 @@ html {
     left: 20px;
     width: 250px;
     animation: fadeIn 0.3s ease;
+    max-height: calc(100vh - 195px);
 }
 
 @keyframes fadeIn {
