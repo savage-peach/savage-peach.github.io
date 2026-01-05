@@ -18,6 +18,14 @@
     margin-bottom: var(--spacing-md);
 }
 
+.story-content blockquote {
+    margin-left: var(--spacing-lg);
+    border-left: 4px solid var(--accent-peach);
+    padding-left: var(--spacing-md);
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-md);
+}
+
 .story-container h2 {
     scroll-margin-top: 80px;
     /* Ensure header is not cut off when scrolling */

@@ -12,11 +12,11 @@ She rubbed her temples, thinking of her recent phone call with her Mom. Her pare
 
 Her phone dinged with a LinkedIn notification. Grace picked it up, half-expecting a recruiter offering an unpaid internship. 
 
-*Hi Grace,*
-
-*I'm a Talent Acquisition Specialist with Galat.AI. Our algorithms have flagged your profile for a specialized role. This is a freelance engagement. One evening of work. Compensation: $1,500.*
-
-*NDA required. Please click here if interested for a screening call.*
+> *Hi Grace,*
+>
+> *I'm a Talent Acquisition Specialist with Galat.AI. Our algorithms have flagged your profile for a specialized role. This is a freelance engagement. One evening of work. Compensation: $1,500.*
+>
+> *NDA required. Please click here if interested for a screening call.*
 
 Fifteen hundred dollars. That was rent. Sure, it was probably a scam. But she figured she'd at least check it out. It's not like she had anything else to do. Grace clicked the link.
 
