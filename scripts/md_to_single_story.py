@@ -116,6 +116,11 @@ def main():
     with open(args.input_file, 'r', encoding='utf-8') as f:
         raw_content = f.read()
 
+    # Pre-process: Fix escaped blockquotes
+    # Replace lines starting with '\>' with '>'
+    raw_content = re.sub(r'(?m)^\\>', '>', raw_content)
+    raw_content = re.sub(r'(?m)^\*\\>\s*', '>*', raw_content)
+
     # Parse Metadata
     meta, body_md = parse_frontmatter(raw_content)
     
