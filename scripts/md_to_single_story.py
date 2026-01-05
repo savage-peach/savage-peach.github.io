@@ -36,7 +36,7 @@ SINGLE_STORY_TEMPLATE = """<!DOCTYPE html>
         <header>
             <h1>{title}</h1>
             <div class="story-meta">
-                Published on {date} &bull; {read_time}
+                Published on {date} &bull; {word_count} &bull; {read_time}
             </div>
         </header>
 
@@ -78,7 +78,7 @@ def parse_frontmatter(content):
                 return {}, content
     return {}, content
 
-def calculate_read_time(text):
+def get_word_count_and_time(text):
     word_count = len(text.split())
     minutes = round(word_count / 200)
     if minutes < 1: minutes = 1
@@ -86,8 +86,11 @@ def calculate_read_time(text):
     if minutes >= 60:
         hours = minutes // 60
         mins = minutes % 60
-        return f"{hours} hours and {mins} minutes read" if mins > 0 else f"{hours} hours read"
-    return f"{minutes} min read"
+        read_time = f"{hours} hours and {mins} minutes read" if mins > 0 else f"{hours} hours read"
+    else:
+        read_time = f"{minutes} min read"
+        
+    return word_count, read_time
 
 def clean_title(soup):
     title = None
@@ -131,8 +134,13 @@ def main():
     if extracted_title:
         title = extracted_title
         
-    # 2. Calculate Read Time (Total)
-    read_time = meta.get('read_time', calculate_read_time(soup.get_text()))
+    # 2. Calculate Read Time & Word Count
+    raw_word_count, read_time = get_word_count_and_time(soup.get_text())
+    
+    if 'read_time' in meta:
+        read_time = meta['read_time']
+        
+    word_count_str = f"{raw_word_count:,} words"
     
     # 3. Prepare Output Directory
     output_dir = os.path.join('stories', slug)
@@ -145,6 +153,7 @@ def main():
         title=title,
         description=description,
         date=date,
+        word_count=word_count_str,
         read_time=read_time,
         content=str(soup)
     )
