@@ -289,3 +289,10 @@ html {
         /* Hide toggle on desktop */
     }
 }
+
+@media (max-width: 768px) {
+    .chat-container {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
