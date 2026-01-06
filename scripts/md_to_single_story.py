@@ -41,8 +41,13 @@ SINGLE_STORY_TEMPLATE = """<!DOCTYPE html>
         </header>
 
         <div class="story-content">
+            {author_note}
             {content}
             
+            <div class="source-download">
+                <a href="{source_link}" download class="peach-text"><i class="fas fa-file-download"></i> Download Story</a>
+            </div>
+
              <div class="license-note">
                 <p>{title} is released under the CC0 License (<a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" class="peach-text">CC0 1.0</a>) meaning it is in the public domain. If you write stories or create art using my concepts or characters, I'd appreciate it if you have an author's note clarifying you're not the original creator and linking to my stuff. But since I've released it to the public domain, that's just me asking for a favor, it's not a requirement. Have fun!</p>
             </div>
@@ -101,6 +106,48 @@ def clean_title(soup):
             h1.decompose()
     return title
 
+def extract_author_note(soup):
+    author_note_html = ""
+    # Find h2 with text "Author's Note" (case insensitive)
+    for h2 in soup.find_all('h2'):
+        text = h2.get_text(strip=True).lower()
+        # Normalize smart quotes
+        text = text.replace('\u2019', "'").replace('\u2018', "'")
+        
+        if text == "author's note":
+            # Found it. Extract content until next header or end.
+            note_content = []
+            curr = h2.next_sibling
+            while curr:
+                next_node = curr.next_sibling
+                if curr.name and re.match(r'h[1-6]', curr.name):
+                    # Stop at next header
+                    break
+                
+                if curr.name == 'hr':
+                    # Stop at horizontal rule, and consume it (don't include in note)
+                    if hasattr(curr, 'decompose'):
+                        curr.decompose()
+                    elif hasattr(curr, 'extract'):
+                         curr.extract()
+                    break
+
+                note_content.append(str(curr))
+                # Remove from soup
+                if hasattr(curr, 'decompose'):
+                     curr.decompose()
+                elif hasattr(curr, 'extract'):
+                     curr.extract()
+                curr = next_node
+            
+            # Remove the header itself
+            h2.decompose()
+            
+            author_note_html = f'<div class="author-note">\n{"".join(note_content)}\n</div>'
+            break
+            
+    return author_note_html
+
 def main():
     parser = argparse.ArgumentParser(description="Convert Single-Chapter Markdown story to HTML")
     parser.add_argument("input_file", help="Path to input Markdown file")
@@ -144,6 +191,9 @@ def main():
     
     if 'read_time' in meta:
         read_time = meta['read_time']
+
+    # 2b. Extract Author's Note
+    author_note = extract_author_note(soup)
         
     word_count_str = f"{raw_word_count:,} words"
     
@@ -152,6 +202,11 @@ def main():
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         print(f"Created directory: {output_dir}")
+
+    # Copy source markdown to output directory
+    source_filename = "source.md"
+    shutil.copy2(args.input_file, os.path.join(output_dir, source_filename))
+    print(f"Copied source file to: {os.path.join(output_dir, source_filename)}")
     
     # 4. Generate Index Page (The Story)
     index_html = SINGLE_STORY_TEMPLATE.format(
@@ -160,7 +215,9 @@ def main():
         date=date,
         word_count=word_count_str,
         read_time=read_time,
-        content=str(soup)
+        content=str(soup),
+        author_note=author_note,
+        source_link=source_filename
     )
     
     out_path = os.path.join(output_dir, "index.html")

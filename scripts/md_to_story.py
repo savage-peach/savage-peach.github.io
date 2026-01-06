@@ -48,6 +48,10 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
                 </ul>
             </div>
 
+            <div class="source-download">
+                <a href="{source_link}" download class="peach-text"><i class="fas fa-file-download"></i> Download Story</a>
+            </div>
+
              <div class="license-note">
                 <p>{title} is released under the CC0 License (<a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" class="peach-text">CC0 1.0</a>) meaning it is in the public domain. If you write stories or create art using my concepts or characters, I'd appreciate it if you have an author's note clarifying you're not the original creator and linking to my stuff. But since I've released it to the public domain, that's just me asking for a favor, it's not a requirement. Have fun!</p>
             </div>
@@ -226,22 +230,25 @@ def main():
         content = match.group(1).strip()
         content = content.replace('\\!', '!')
         content_html = markdown.markdown(content)
-        return f'<div class="chat-container"><div class="chat-message {sender_class}">{content_html}</div></div>'
+        # Removed chat-container wrapper here; will group later
+        return f'<div class="chat-message {sender_class}">{content_html}</div>'
 
-    # David (Received)
-    raw_content = re.sub(r'(?m)^\\>\s*David:\s*(.*?)$', 
+    # Received Messages: |\> Message
+    # Matches line starting with |\>
+    raw_content = re.sub(r'(?m)^\|\\\>\s*(.*?)$', 
                          lambda m: format_chat_message(m, "msg-received"), 
                          raw_content)
     
-    # Kurumi (Sent)
-    raw_content = re.sub(r'(?m)^\\>\s*Kurumi:\s*(.*?)$', 
+    # Sent Messages: ||\> Message
+    # Matches line starting with ||\>
+    raw_content = re.sub(r'(?m)^\|\|\\\>\s*(.*?)$', 
                          lambda m: format_chat_message(m, "msg-sent"), 
                          raw_content)
 
     # Pre-process: Fix escaped blockquotes
     # Replace lines starting with '\>' with '>'
-    raw_content = re.sub(r'(?m)^\\>', '>', raw_content)
-    raw_content = re.sub(r'(?m)^\*\\>\s*', '>*', raw_content)
+    raw_content = re.sub(r'(?m)^\\>\s?', '>', raw_content)
+    raw_content = re.sub(r'(?m)^\*\\>\s?', '>*', raw_content)
 
     # Parse Metadata
     meta, body_md = parse_frontmatter(raw_content)
@@ -255,6 +262,36 @@ def main():
     # Convert Body to HTML
     html_body = markdown.markdown(body_md, extensions=['extra', 'smarty'])
     soup = BeautifulSoup(html_body, 'html.parser')
+
+    # Group Chat Messages
+    def group_chat_messages(soup_obj):
+        current_container = None
+        # Iterate over a copy of contents since we modify the tree
+        for child in list(soup_obj.contents):
+            is_chat = False
+            if child.name == 'div' and child.has_attr('class') and 'chat-message' in child['class']:
+                is_chat = True
+            
+            if is_chat:
+                if current_container:
+                    # Move into existing container
+                    child.extract()
+                    current_container.append(child)
+                else:
+                    # Create new container
+                    current_container = soup_obj.new_tag('div', attrs={'class': 'chat-container'})
+                    child.replace_with(current_container)
+                    current_container.append(child)
+            elif isinstance(child, str) and not child.strip():
+                # Whitespace/Newlines between messages
+                # If we are in a container, consume the whitespace so it doesn't break the group
+                if current_container:
+                    child.extract()
+            else:
+                # Any other tag or non-whitespace text breaks the group
+                current_container = None
+
+    group_chat_messages(soup)
     
     # 1. Extract and Clean Title (First H1)
     extracted_title = clean_title(soup)
@@ -282,7 +319,12 @@ def main():
         if first_title == "author's note":
             print("DEBUG: Found Author's Note, extracting...")
             note_chap = chapters.pop(0)
-            author_note_html = f'<div class="author-note">\n{note_chap["content"]}\n</div>'
+            # Cleanup trailing HR if present in the note logic
+            note_soup = note_chap['content']
+            if note_soup.contents and note_soup.contents[-1].name == 'hr':
+                 note_soup.contents[-1].decompose()
+            
+            author_note_html = f'<div class="author-note">\n{note_soup}\n</div>'
     
     # 3b. Pre-calculate filenames
     for i, chap in enumerate(chapters):
@@ -295,6 +337,11 @@ def main():
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         print(f"Created directory: {output_dir}")
+        
+    # Copy source markdown to output directory
+    source_filename = "source.md"
+    shutil.copy2(args.input_file, os.path.join(output_dir, source_filename))
+    print(f"Copied source file to: {os.path.join(output_dir, source_filename)}")
     
     # 5. Build Global TOC for Navigation
     nav_items = []
@@ -325,7 +372,8 @@ def main():
         read_time=read_time,
         intro_content=str(intro_soup),
         author_note=author_note_html,
-        chapter_links=chapter_links_html
+        chapter_links=chapter_links_html,
+        source_link=source_filename
     )
     
     with open(os.path.join(output_dir, "index.html"), 'w', encoding='utf-8') as f:

@@ -29,7 +29,7 @@
 .story-container h2 {
     scroll-margin-top: 80px;
     /* Ensure header is not cut off when scrolling */
-    margin-top: var(--spacing-xl);
+    margin-top: var(--spacing-md);
     margin-bottom: var(--spacing-md);
     color: var(--primary-color);
 }
@@ -85,11 +85,15 @@
 .author-note {
     font-style: italic;
     color: var(--text-secondary);
-    border: 1px solid var(--surface-color);
+    border-top: 2px solid var(--surface-color);
+    border-bottom: 2px solid var(--surface-color);
     padding: var(--spacing-md);
-    margin-bottom: var(--spacing-lg);
-    border-radius: var(--radius-md);
-    background-color: var(--surface-color);
+    margin-bottom: var(--spacing-md);
+    background-color: rgba(125, 125, 125, 0.05);
+    border-radius: 0;
+    font-size: 0.8em;
+    margin-left: var(--spacing-md);
+    margin-right: var(--spacing-md);
 }
 
 .license-note {
@@ -98,6 +102,78 @@
     border-top: 1px solid var(--surface-color);
     padding-top: var(--spacing-md);
     margin-top: var(--spacing-xl);
+}
+
+.chapter-list {
+    margin-top: var(--spacing-lg);
+    background-color: var(--surface-color);
+    padding: var(--spacing-lg);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--surface-color);
+}
+
+.chapter-list h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: var(--spacing-lg);
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: var(--spacing-sm);
+    display: inline-block;
+    width: 100%;
+}
+
+.chapter-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.chapter-list li {
+    margin-bottom: var(--spacing-sm);
+}
+
+.chapter-list a {
+    display: block;
+    padding: var(--spacing-md);
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    color: var(--text-primary);
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.chapter-list a:hover {
+    background-color: var(--primary-color);
+    color: white;
+    transform: translateX(5px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.source-download {
+    margin-top: var(--spacing-lg);
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.source-download a {
+    color: var(--primary-color);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border: 2px solid var(--surface-color);
+    border-radius: var(--radius-md);
+    transition: all 0.2s ease;
+}
+
+.source-download a:hover {
+    background-color: var(--surface-color);
+    transform: translateY(-2px);
 }
 
 /* Chat Bubble Styles */
@@ -111,6 +187,11 @@
     position: relative;
     line-height: 1.4;
 }
+
+.chat-message>p {
+    margin-bottom: 0px;
+}
+
 
 .chat-message.msg-sent {
     background-color: var(--chat-sent-bg);
