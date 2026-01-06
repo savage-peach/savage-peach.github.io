@@ -322,7 +322,7 @@ def main():
                 else:
                     break
             
-            author_note_html = f'<div class="author-note">\n{note_soup}\n</div>'
+            author_note_html = f'<div class="author-note">\n<strong>Author\'s Note</strong>\n{note_soup}\n</div>'
     
     # 3b. Pre-calculate filenames
     for i, chap in enumerate(chapters):
