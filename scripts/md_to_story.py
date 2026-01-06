@@ -222,22 +222,20 @@ def main():
         raw_content = f.read()
 
     # Pre-process: Convert Chat Messages to HTML
-    # David (Received) - Italics
-    raw_content = re.sub(r'(?m)^\*\\>\s*David:\s*(.*?)\*$', 
-                         r'<div class="chat-container"><div class="chat-message msg-received"><p><em>\1</em></p></div></div>', 
-                         raw_content)
-    # David (Received) - Normal
+    def format_chat_message(match, sender_class):
+        content = match.group(1).strip()
+        content = content.replace('\\!', '!')
+        content_html = markdown.markdown(content)
+        return f'<div class="chat-container"><div class="chat-message {sender_class}">{content_html}</div></div>'
+
+    # David (Received)
     raw_content = re.sub(r'(?m)^\\>\s*David:\s*(.*?)$', 
-                         r'<div class="chat-container"><div class="chat-message msg-received"><p>\1</p></div></div>', 
+                         lambda m: format_chat_message(m, "msg-received"), 
                          raw_content)
     
-    # Kurumi (Sent) - Italics
-    raw_content = re.sub(r'(?m)^\*\\>\s*Kurumi:\s*(.*?)\*$', 
-                         r'<div class="chat-container"><div class="chat-message msg-sent"><p><em>\1</em></p></div></div>', 
-                         raw_content)
-    # Kurumi (Sent) - Normal
+    # Kurumi (Sent)
     raw_content = re.sub(r'(?m)^\\>\s*Kurumi:\s*(.*?)$', 
-                         r'<div class="chat-container"><div class="chat-message msg-sent"><p>\1</p></div></div>', 
+                         lambda m: format_chat_message(m, "msg-sent"), 
                          raw_content)
 
     # Pre-process: Fix escaped blockquotes
