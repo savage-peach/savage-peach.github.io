@@ -263,35 +263,7 @@ def main():
     html_body = markdown.markdown(body_md, extensions=['extra', 'smarty'])
     soup = BeautifulSoup(html_body, 'html.parser')
 
-    # Group Chat Messages
-    def group_chat_messages(soup_obj):
-        current_container = None
-        # Iterate over a copy of contents since we modify the tree
-        for child in list(soup_obj.contents):
-            is_chat = False
-            if child.name == 'div' and child.has_attr('class') and 'chat-message' in child['class']:
-                is_chat = True
-            
-            if is_chat:
-                if current_container:
-                    # Move into existing container
-                    child.extract()
-                    current_container.append(child)
-                else:
-                    # Create new container
-                    current_container = soup_obj.new_tag('div', attrs={'class': 'chat-container'})
-                    child.replace_with(current_container)
-                    current_container.append(child)
-            elif isinstance(child, str) and not child.strip():
-                # Whitespace/Newlines between messages
-                # If we are in a container, consume the whitespace so it doesn't break the group
-                if current_container:
-                    child.extract()
-            else:
-                # Any other tag or non-whitespace text breaks the group
-                current_container = None
 
-    group_chat_messages(soup)
     
     # 1. Extract and Clean Title (First H1)
     extracted_title = clean_title(soup)
@@ -309,6 +281,20 @@ def main():
     # 3. Split into Chapters (H2)
     intro_soup, chapters = split_content_by_headers(soup, 'h2')
     
+    # Cleanup Intro: If it only contains HR and whitespace, clear it
+    intro_has_content = False
+    for child in intro_soup.contents:
+        if isinstance(child, str):
+            if child.strip():
+                intro_has_content = True
+                break
+        elif child.name != 'hr':
+            intro_has_content = True
+            break
+    
+    if not intro_has_content:
+        intro_soup.clear()
+
     # Check for Author's Note
     author_note_html = ""
     if chapters:
@@ -319,10 +305,22 @@ def main():
         if first_title == "author's note":
             print("DEBUG: Found Author's Note, extracting...")
             note_chap = chapters.pop(0)
-            # Cleanup trailing HR if present in the note logic
             note_soup = note_chap['content']
-            if note_soup.contents and note_soup.contents[-1].name == 'hr':
-                 note_soup.contents[-1].decompose()
+            
+            # Cleanup trailing HR and whitespace from Author's Note
+            while note_soup.contents:
+                last_node = note_soup.contents[-1]
+                if isinstance(last_node, str):
+                    if not last_node.strip():
+                        last_node.extract()
+                        continue
+                    else:
+                        break
+                elif last_node.name == 'hr':
+                    last_node.extract()
+                    continue
+                else:
+                    break
             
             author_note_html = f'<div class="author-note">\n{note_soup}\n</div>'
     

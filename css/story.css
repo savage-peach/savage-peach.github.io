@@ -198,6 +198,7 @@
     /* iMessage Blue */
     color: var(--chat-sent-text);
     margin-left: auto;
+    margin-right: 40px;
     border-bottom-right-radius: 5px;
     text-align: left;
     /* Text itself is left aligned usually, but bubble is right */
@@ -208,22 +209,14 @@
     /* Dark Mode Gray */
     color: var(--chat-received-text);
     margin-right: auto;
+    margin-left: 40px;
     border-bottom-left-radius: 5px;
 }
 
 /* Clearfix for the container if needed, though they are block elements */
 /* Chat Container */
-.chat-container {
-    /* border: 1px solid var(--accent-peach); */
-    padding: var(--spacing-md);
-    /* border-radius: var(--radius-md); */
-    /* background-color: var(--surface-color); */
-    /* Subtle background */
-    margin: var(--spacing-md) 0;
-    max-width: 100%;
-    margin-left: 40px;
-    margin-right: 40px;
-}
+/* Chat Container - Deprecated */
+/* .chat-container { ... } */
 
 /* Clearfix for the container if needed */
 .chat-message::after {
@@ -373,8 +366,11 @@ html {
 }
 
 @media (max-width: 768px) {
-    .chat-container {
+    .chat-message.msg-received {
         margin-left: 10px;
+    }
+
+    .chat-message.msg-sent {
         margin-right: 10px;
     }
 }
