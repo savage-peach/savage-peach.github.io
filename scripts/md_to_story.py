@@ -38,6 +38,8 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 
         <div class="story-content">
             {intro_content}
+
+            {author_note}
             
             <div class="chapter-list">
                 <h2>Chapters</h2>
@@ -219,6 +221,25 @@ def main():
     with open(args.input_file, 'r', encoding='utf-8') as f:
         raw_content = f.read()
 
+    # Pre-process: Convert Chat Messages to HTML
+    # David (Received) - Italics
+    raw_content = re.sub(r'(?m)^\*\\>\s*David:\s*(.*?)\*$', 
+                         r'<div class="chat-container"><div class="chat-message msg-received"><p><em>\1</em></p></div></div>', 
+                         raw_content)
+    # David (Received) - Normal
+    raw_content = re.sub(r'(?m)^\\>\s*David:\s*(.*?)$', 
+                         r'<div class="chat-container"><div class="chat-message msg-received"><p>\1</p></div></div>', 
+                         raw_content)
+    
+    # Kurumi (Sent) - Italics
+    raw_content = re.sub(r'(?m)^\*\\>\s*Kurumi:\s*(.*?)\*$', 
+                         r'<div class="chat-container"><div class="chat-message msg-sent"><p><em>\1</em></p></div></div>', 
+                         raw_content)
+    # Kurumi (Sent) - Normal
+    raw_content = re.sub(r'(?m)^\\>\s*Kurumi:\s*(.*?)$', 
+                         r'<div class="chat-container"><div class="chat-message msg-sent"><p>\1</p></div></div>', 
+                         raw_content)
+
     # Pre-process: Fix escaped blockquotes
     # Replace lines starting with '\>' with '>'
     raw_content = re.sub(r'(?m)^\\>', '>', raw_content)
@@ -252,6 +273,18 @@ def main():
     
     # 3. Split into Chapters (H2)
     intro_soup, chapters = split_content_by_headers(soup, 'h2')
+    
+    # Check for Author's Note
+    author_note_html = ""
+    if chapters:
+        first_title = chapters[0]['title'].strip().lower()
+        # Normalize smart quotes
+        first_title = first_title.replace('\u2019', "'").replace('\u2018', "'")
+        
+        if first_title == "author's note":
+            print("DEBUG: Found Author's Note, extracting...")
+            note_chap = chapters.pop(0)
+            author_note_html = f'<div class="author-note">\n{note_chap["content"]}\n</div>'
     
     # 3b. Pre-calculate filenames
     for i, chap in enumerate(chapters):
@@ -293,6 +326,7 @@ def main():
         word_count=word_count_str,
         read_time=read_time,
         intro_content=str(intro_soup),
+        author_note=author_note_html,
         chapter_links=chapter_links_html
     )
     
