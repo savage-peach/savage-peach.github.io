@@ -143,7 +143,7 @@ def extract_author_note(soup):
             # Remove the header itself
             h2.decompose()
             
-            author_note_html = f'<div class="author-note">\n{"".join(note_content)}\n</div>'
+            author_note_html = f'<div class="author-note">\n<strong>Author\'s Note</strong>\n{"".join(note_content)}\n</div>'
             break
             
     return author_note_html
@@ -204,7 +204,7 @@ def main():
         print(f"Created directory: {output_dir}")
 
     # Copy source markdown to output directory
-    source_filename = "source.md"
+    source_filename = f"{slug}.md"
     shutil.copy2(args.input_file, os.path.join(output_dir, source_filename))
     print(f"Copied source file to: {os.path.join(output_dir, source_filename)}")
     
@@ -217,7 +217,7 @@ def main():
         read_time=read_time,
         content=str(soup),
         author_note=author_note,
-        source_link=source_filename
+        source_link=f"../../stories/{slug}/{source_filename}"
     )
     
     out_path = os.path.join(output_dir, "index.html")

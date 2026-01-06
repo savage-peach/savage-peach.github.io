@@ -337,7 +337,7 @@ def main():
         print(f"Created directory: {output_dir}")
         
     # Copy source markdown to output directory
-    source_filename = "source.md"
+    source_filename = f"{slug}.md"
     shutil.copy2(args.input_file, os.path.join(output_dir, source_filename))
     print(f"Copied source file to: {os.path.join(output_dir, source_filename)}")
     
@@ -371,7 +371,7 @@ def main():
         intro_content=str(intro_soup),
         author_note=author_note_html,
         chapter_links=chapter_links_html,
-        source_link=source_filename
+        source_link=f"../../stories/{slug}/{source_filename}"
     )
     
     with open(os.path.join(output_dir, "index.html"), 'w', encoding='utf-8') as f:
