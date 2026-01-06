@@ -214,6 +214,8 @@ Yes, she would be sexy. This was sexy. What could be more sexy than this? This g
 
 River came. The waters leapt their banks, forging a new channel in her mind.
 
+# The Alt-Girl
+
 ## The Alt-Girl
 
 It had only been two days since the blonde woman, Candy, had walked into the nail salon and turned River’s world upside down. Two days since River had been dragged into the waxing room and taken apart, then put back together in the shape of… of *Her.*
@@ -434,6 +436,8 @@ River shifted her position on the mattress so she wasn't lying in a puddle of he
 
 She lay with him in the bed. He tried to make small talk, tried to get to know her. River did her best to seem normal, but her mind kept drifting back to *Her.* She felt the emptiness inside returning. *You are going to start trying harder,* the voice still whispered. River was beginning to worry that no matter how hard she tried, it would never be enough. The voice would always be there, pushing her. Not until Candy told her she could stop.
 
+# Everyone Else
+
 ## Everyone Else
 
 River woke up. There was a guy sleeping in the bed next to her, and it wasn't Liam. Or Seth, for that matter. *Try harder. Be sexy. Embrace your femininity.* What was his name again? She didn't remember. 
@@ -578,7 +582,7 @@ River got out of the car. She watched Candy drive away. She didn't feel the urge
 
 One person was nothing.
 
-\*\*\*
+---
 
 The ring light reflected in River’s eyes, two tiny halos of artificial divinity.
 
@@ -613,3 +617,4 @@ But what really mattered were the views. She'd thought it was Candy's approval s
 The view count hit 2,000. She started to cum, for real this time. 
 
 END
+
