@@ -295,34 +295,36 @@ def main():
     if not intro_has_content:
         intro_soup.clear()
 
-    # Check for Author's Note
+    # Load Metadata (Date & Author's Note) from JSON
     author_note_html = ""
-    if chapters:
-        first_title = chapters[0]['title'].strip().lower()
-        # Normalize smart quotes
-        first_title = first_title.replace('\u2019', "'").replace('\u2018', "'")
-        
-        if first_title == "author's note":
-            print("DEBUG: Found Author's Note, extracting...")
-            note_chap = chapters.pop(0)
-            note_soup = note_chap['content']
+    try:
+        # Resolve path relative to script or CWD. Here using simple path assuming run from root.
+        json_path = os.path.join('data', 'stories.json')
+        if os.path.exists(json_path):
+            with open(json_path, 'r', encoding='utf-8') as f:
+                stories_data = json.load(f)
             
-            # Cleanup trailing HR and whitespace from Author's Note
-            while note_soup.contents:
-                last_node = note_soup.contents[-1]
-                if isinstance(last_node, str):
-                    if not last_node.strip():
-                        last_node.extract()
-                        continue
-                    else:
-                        break
-                elif last_node.name == 'hr':
-                    last_node.extract()
-                    continue
-                else:
+            for story in stories_data:
+                if story.get('id') == slug:
+                    # Update Date
+                    create_date = story.get('create_date')
+                    if create_date:
+                        try:
+                            date_obj = datetime.datetime.strptime(create_date, "%Y-%m-%d")
+                            date = date_obj.strftime("%b %d, %Y")
+                        except ValueError:
+                            print(f"Warning: Could not parse date {create_date}")
+                    
+                    # Update Author's Note
+                    note = story.get('authorsNote')
+                    if note:
+                         author_note_html = f'<div class="author-note">\n<strong>Author\'s Note</strong>\n<p>{note}</p>\n</div>'
                     break
-            
-            author_note_html = f'<div class="author-note">\n<strong>Author\'s Note</strong>\n{note_soup}\n</div>'
+        else:
+             print(f"Warning: {json_path} not found.")
+    except Exception as e:
+        print(f"Warning: Could not load stories.json: {e}")
+
     
     # 3b. Pre-calculate filenames
     for i, chap in enumerate(chapters):

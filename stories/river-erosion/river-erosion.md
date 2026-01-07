@@ -1,9 +1,5 @@
 # River Erosion
 
-## Author's Note
-
-This story is in the same universe as [Using Master PC For Self-Improvement](https://savage-peach.github.io/stories/using-master-pc/) and, in fact, Part 1 is a retelling of one chapter from it. There is no correct order to read the two in, but if you read this first and want to know Candy's backstory, then perhaps it should be your next stop.
-
 ## The Blonde
 
 River heard the woman walk in before she saw her. If River had known what was to come, that the click of those platform heels against the tile were counting down the last seconds of her life, she would have run. But she didn't know that, of course, so she put down her nail file and walked to the front of the nail salon to greet the customer. 

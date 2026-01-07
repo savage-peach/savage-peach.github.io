@@ -1,13 +1,5 @@
 # Using Master PC For Self-Improvement
 
----
-
-## Author's Note
-
-This was my first erotic mind control story, and I want to thank everyone who's reached out to me and given me feedback. Without your emails and support, I wouldn't have ever written anything else. And I promise, I'm still working on it. The end is coming soon\!
-
----
-
 ## You've Been Selected\!
 
 The glow of the computer screen bathed Candice in a gray light. It was well past midnight, and Richard was sound asleep in the bedroom. She could hear him snoring. It had been another uneventful evening. They'd watched some TV, had a frozen pizza dinner, and fallen asleep. And, Candice considered, that was sort of the problem. Candice was 29 years old — still in the prime of her life\! She and Richard were a young couple. The magic couldn't be gone already, could it?  

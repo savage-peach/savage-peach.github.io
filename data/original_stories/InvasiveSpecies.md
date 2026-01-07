@@ -1,13 +1,5 @@
 # **Invasive Species**
 
----
-
-## Author's Note
-
-Author's Note: This story is very different from my normal fare. It was written for a writing contest on the MC Forums. I'd like to thank MCaesar there for hosting it\!
-
----
-
 The office of Dr. Jennifer Hall was much like the woman herself—well-organized, clean, and efficient. Every spare surface had a vivarium of some type, filled with various snakes, lizards, and turtles.
 
 Dr. Hall had asked Olivia to take care of her animals while she was away, and Olivia had happily obliged. She’d already done all the feedings for the week, so today’s work had just been double-checking that the heat was set right and everything looked in order. Realistically she could have left, but Dr. Hall had sent her a text asking her to hang around. Apparently she was finally back from the Amazon—a trip Olivia should have been on as well, if not for an untimely case of Covid. So now Olivia was sitting at the doctor’s desk grading some papers while she waited for her mentor to arrive.

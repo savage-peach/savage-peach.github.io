@@ -1,13 +1,5 @@
 # AI Girlfriend
 
----
-
-## Author's Note
-
-I wrote this originally to be a brief medium-length diversion from [Using Master PC For Self-Improvement](https://savage-peach.github.io/stories/ai-girlfriend/index.html) but it clearly grew much longer than I originally intended. 
-
----
-
 ## Day 1
 
 The latest rejection email was nearly identical to the last forty-seven. Grace examined it critically for signs it was written by AI, the very thing that had made her obsolete.

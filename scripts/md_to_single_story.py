@@ -106,47 +106,7 @@ def clean_title(soup):
             h1.decompose()
     return title
 
-def extract_author_note(soup):
-    author_note_html = ""
-    # Find h2 with text "Author's Note" (case insensitive)
-    for h2 in soup.find_all('h2'):
-        text = h2.get_text(strip=True).lower()
-        # Normalize smart quotes
-        text = text.replace('\u2019', "'").replace('\u2018', "'")
-        
-        if text == "author's note":
-            # Found it. Extract content until next header or end.
-            note_content = []
-            curr = h2.next_sibling
-            while curr:
-                next_node = curr.next_sibling
-                if curr.name and re.match(r'h[1-6]', curr.name):
-                    # Stop at next header
-                    break
-                
-                if curr.name == 'hr':
-                    # Stop at horizontal rule, and consume it (don't include in note)
-                    if hasattr(curr, 'decompose'):
-                        curr.decompose()
-                    elif hasattr(curr, 'extract'):
-                         curr.extract()
-                    break
 
-                note_content.append(str(curr))
-                # Remove from soup
-                if hasattr(curr, 'decompose'):
-                     curr.decompose()
-                elif hasattr(curr, 'extract'):
-                     curr.extract()
-                curr = next_node
-            
-            # Remove the header itself
-            h2.decompose()
-            
-            author_note_html = f'<div class="author-note">\n<strong>Author\'s Note</strong>\n{"".join(note_content)}\n</div>'
-            break
-            
-    return author_note_html
 
 def main():
     parser = argparse.ArgumentParser(description="Convert Single-Chapter Markdown story to HTML")
@@ -192,8 +152,32 @@ def main():
     if 'read_time' in meta:
         read_time = meta['read_time']
 
-    # 2b. Extract Author's Note
-    author_note = extract_author_note(soup)
+    # 2b. Extract Author's Note and Date (From JSON)
+    author_note = ""
+    try:
+        json_path = os.path.join('data', 'stories.json')
+        if os.path.exists(json_path):
+            with open(json_path, 'r', encoding='utf-8') as f:
+                stories_data = json.load(f)
+            
+            for story in stories_data:
+                if story.get('id') == slug:
+                    # Update Date
+                    create_date = story.get('create_date')
+                    if create_date:
+                        try:
+                            date_obj = datetime.datetime.strptime(create_date, "%Y-%m-%d")
+                            date = date_obj.strftime("%b %d, %Y")
+                        except ValueError:
+                            print(f"Warning: Could not parse date {create_date}")
+
+                    # Update Author's Note
+                    note = story.get('authorsNote')
+                    if note:
+                         author_note = f'<div class="author-note">\n<strong>Author\'s Note</strong>\n<p>{note}</p>\n</div>'
+                    break
+    except Exception as e:
+        print(f"Warning: Could not load stories.json: {e}")
         
     word_count_str = f"{raw_word_count:,} words"
     
