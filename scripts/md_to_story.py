@@ -63,6 +63,8 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     <script src="../../js/sp-header.js"></script>
     <script src="../../js/main.js"></script>
     <script src="../../js/sp-story-footer.js"></script>
+    <script src="../../js/google-analytics.js"></script>
+    <sp-google-analytics></sp-google-analytics>
 </body>
 </html>"""
 
@@ -107,6 +109,8 @@ CHAPTER_TEMPLATE = """<!DOCTYPE html>
     <script src="../../js/main.js"></script>
     <script src="../../js/sp-story-nav.js"></script>
     <script src="../../js/sp-story-footer.js"></script>
+    <script src="../../js/google-analytics.js"></script>
+    <sp-google-analytics></sp-google-analytics>
     <script>
         // Progress Bar & ScrollSpy Logic
         window.addEventListener('scroll', () => {{
