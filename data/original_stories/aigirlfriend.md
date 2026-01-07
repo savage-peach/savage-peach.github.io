@@ -1050,7 +1050,7 @@ Grace touched her earpiece. "I feel terrible," Grace whispered. "And I don't kno
 
 *"It's because you were untrue to David-sama. But it's okay, I'm here for you."*
 
-Grace nodded. She was glad Kurumi was there.
+Grace nodded. She was glad she had Kurumi.
 
 *"What else do you feel?"* Kurumi prompted. *"I know you feel good too. I was there, you know."*
 
@@ -1708,7 +1708,7 @@ Forever. That sounded nice.
 
 "It is a legitimate engagement, Mom\! I signed a contract\!" Grace yelled into her phone.
 
-She hated this. She hated the argument, hated the judgement, but most of all she hated feeling like this—feeling like Grace. She'd felt like Kurumi for the last week, but her mom's phone call had pulled her out of it, back into the real world.
+She hated this. She hated the argument, hated the judgement, but most of all she hated feeling like this—feeling like Grace. She'd been Kurumi for the last week, but her mom's phone call had pulled her out of it, back into the real world.
 
 "A contract?" Her mother’s voice was shrill. "Sarah sent us the pictures, Grace. You are wearing a... a bra. In a bar. And your hair is purple. You look like a prostitute\!"
 
@@ -1760,11 +1760,9 @@ She pictured David-sama. The quiet times with him, when she'd followed, not spea
 
 Kurumi opened her eyes. "It's still hard sometimes, Kurumi-san."
 
-*"It'll get easier the more you do it. Remember how hard it was the first day? Look how far you've co"*
+*"It'll get easier the more you do it. Remember how hard it was the first day? Look how far you've come."*
 
-Kurumi-san was right. The woman who'd gone on that first date with David, who'd had trouble wearing a plaid skirt to a Starbucks, felt far away. 
-
-The phone buzzed again. She blocked the number. Just for now, just until she could make Grace's family see the truth.
+Kurumi-san was right. The woman who'd gone on that first date with David, who'd had trouble wearing a plaid skirt to a Starbucks, felt far away. The phone buzzed again. She blocked the number. Just for now, just until she could make Grace's family see the truth.
 
 *"Feel better?"* Kurumi-san asked gently.
 
@@ -1794,7 +1792,7 @@ Kurumi stared at the number. Nearly ten million over ten years. Plus expenses.
 
 *"He wants you to move in, Kurumi-chan,"* the voice whispered seductively. *"No more roommates. No more Sarah judging you. No more job applications. Just you and David-sama. Forever."*
 
-Kurumi felt dizzy. Live-in companion. Grace would have been horrified. She would have called it selling out. She would have called it being a kept woman. But she was Kurumi now. She wasn't horrified. Kurumi felt a profound, shaking relief. It was everything she wanted. David-sama wanted her, valued her. 
+Kurumi felt dizzy. Live-in companion. Grace would have been horrified. She would have called it selling out. She would have called it being a kept woman. But she was Kurumi now and Kurumi felt a profound, shaking relief. It was everything she wanted. David-sama wanted her, valued her. 
 
 "I'd belong to him," Kurumi whispered. "Is this real?"
 
@@ -1812,7 +1810,7 @@ Kurumi looked at her reflection in the mirror. The purple hair, the violet eyes,
 
 "Tell me what to do," Kurumi said. "I want to be perfect for him, to be the perfect Kurumi."
 
-*"Well, there is* one *thing left you could do to prepare,"* Kurumi-san said. *"You know what it is. And the good news, David-sama has already paid for it\!"*
+*"Well, there is* one *thing left you could do to prepare,"* Kurumi-san said. *"You know what it is. And the good news is, David-sama has already paid for it\!"*
 
 ## Day 54
 
