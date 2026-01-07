@@ -1990,7 +1990,7 @@ The realization crashed into her harder than his hips. There was no magic. There
 
 "Say it," he commanded. He struck deep, stretching her out, filling every inch of the void Grace had tried to hide. "You wanted this. The money was just the excuse. You wanted to be owned."
 
-"I wanted it," she cried out, the pleasure overwhelming her.
+"Yes, I wanted it\!" she cried out, the pleasure overwhelming her.
 
 "You aren't a victim of technology, Kurumi. You're just a slut who found her master. Who did this to you?" he demanded, his pace increasing, driving them both toward the edge.
 
