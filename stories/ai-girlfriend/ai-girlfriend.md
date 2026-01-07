@@ -2022,7 +2022,7 @@ Her master grinned. It was predatory.
 
 "You're perfect," he whispered, pulling her close.
 
-Kurumi let her eyes close, the violet contacts blurring as she drifted into the deep, dark safety of his embrace. There was no more Grace. There was only Kurumi, the silence of the mansion, the heat of her master, and the overwhelming peace of finally belonging to a man who would never let her go.
+Kurumi let her eyes close, the violet contacts blurring as she drifted into the deep, dark safety of his embrace. There was no more Grace. There was only Kurumi, the heat of her master, and the overwhelming peace of finally belonging to a man who would never let her go.
 
 END
 
