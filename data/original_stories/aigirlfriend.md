@@ -2010,7 +2010,7 @@ Kurumi lay there, spent and utterly fulfilled, the warmth of David's body a heav
 
 Her man, her master, her *Goshujin-sama*, smiled back. "You did. Are you ready to sign the contract?"
 
-Kurumi thought about everything she'd learned tonight—about who she was, who she'd been, and how she'd gotten here. She imagined what she would have said as Grace—what Sarah, or her family would say if she knew what she was considering.
+Kurumi thought about everything she'd learned tonight—about who she was, who she'd been, and how she'd gotten here. She imagined what she would have said as Grace—what Sarah, or Grace's family would say if she knew what she was considering.
 
 She closed her eyes tight. "I… I can't, David-sama."
 
