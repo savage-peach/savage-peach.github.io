@@ -140,7 +140,7 @@ Sarah shrugged. "Too bad. Hey, I hate to bug you… but rent?"
 
 "Oh, I've got it. I did a little freelancing this week. Contract work, but I'll Venmo you my half now."
 
-"Oh, nice. Sorry, I don't mean to be pushy. I know the job market is rough right now."
+"Sorry, I don't mean to be pushy. I know the job market is rough right now."
 
 "No problem," Grace said, forcing a smile. "I know I'm still behind. I promise I'll get the rest to you soon." She couldn't face her friend anymore, couldn't bear to let on how bad last night had been. She retreated to her room and sat down on her bed. The black box from Galat.AI was still sitting on her dresser. They hadn't sent a return label. In fact, the app on her phone was still active.
 
@@ -170,13 +170,13 @@ Grace looked at the purple wig sitting on her dresser, and then back to the payo
 
 An hour later, Grace stood in front of her mirror. She had put the wig back on, carefully pinning her own dark hair beneath it and inserted the violet contacts. Instead of the modest black dress, she had dug through the back of her closet and found an outfit she hadn't worn since a costume party years ago—a pleated plaid skirt over white leggings and a tight, cropped sweater.
 
-"Nope," she said out loud, examining herself in the mirror. "I look ridiculous."
+"Nope," she said out loud as she examined her reflection. "I look ridiculous."
 
 *"You look great\! Very kawaii\!"* Kurumi squealed in her ear. *"Now, tilt your head\! Smile\! No, bigger\! Like you just saw the cutest puppy\!"*
 
 Grace forced the smile. It looked incredibly fake. "I can't do this, Kurumi. I feel like an idiot."
 
-*"You're not an idiot, you're an actress\!"* Kurumi encouraged. *"And you're beautiful. Trust me. I have access to millions of beauty standards, and you're in the top percentile. Now, let's go out\! The world is our server\!"*
+*"You're not an idiot, you're an actress\!"* Kurumi encouraged. *"And you're beautiful\! Trust me. I have access to millions of beauty standards, and you're in the top percentile. Now, let's go out\! The world is our server\!"*
 
 Grace hesitated, but the mix of financial desperation and encouragement from the AI was enough to push her forward. She knew LLMs were programmed to be sycophantic—to maximize user engagement with flattery—but after months of being rejected from job after job she had to admit it felt good to hear. She grabbed her biggest coat, buttoning it up to hide the outfit, and slipped out of the apartment while Sarah was in the shower.
 
@@ -198,7 +198,7 @@ Grace froze. "That's too much," she said.
 
 "Uh, what is?" the barista asked.
 
-*"Do it, Grace. Commit to the bit. You're not Grace right now. You're Kurumi. Kurumi loves attention."*
+*"Do it, Grace. Commit to the bit\! You're not Grace right now. You're Kurumi\! Kurumi loves attention."*
 
 Taking a deep breath, Grace let go of her dignity and leaned over the counter. She saw the barista’s eyes dip, then snap back up to her face.
 
