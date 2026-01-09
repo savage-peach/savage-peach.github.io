@@ -350,7 +350,7 @@ David shook his head. "No. I know these kinds of people. They only win if they g
 
 *"Grace, remember, you love the attention\!"*  Kurumi added.
 
-Grace did her best to straighten up, to put a smile on her lips, even though her face was burning with embarrassment. She walked like Kurumi had taught her: lightly, with a bounce in her step and without a care in the world. She tried to retreat back into the character.
+Grace did her best to straighten up and put a smile on her lips, even though her face was burning with embarrassment. She walked like Kurumi had taught her: lightly, with a bounce in her step and without a care in the world. She tried to retreat back into the character.
 
 "Do you think those tits are real?" one of the kids asked. They burst into laughter. They were closer now, about to pass each other on the footpath. Grace stumbled. 
 
@@ -364,7 +364,7 @@ What would Kurumi do, Grace wondered, when a man stared at her? She caught the e
 
 "Bullshit, she was looking at me," another yelled.
 
-A strange sensation washed over Grace. She still felt the embarrassment, but now it was mixed with something else—validation.
+A strange sensation washed over Grace. She still felt the embarrassment, but now it was mixed with something else: validation.
 
 "See?" David said. "Every man who sees you wants you." He said it with absolute certainty, like it was a fact obvious to anyone. "That is how I designed you. But the only one who gets you is me."
 
@@ -456,7 +456,7 @@ Grace walked into the living room, rubbing the sleep from her eyes. Sarah was sp
 
 Sarah didn't look up. "Good morning, sleepyhead," she teased. "I think the coffee is still warm." 
 
-That was music to Grace's ears. "Thanks." She made a beeline for the kitchen and poured a cup.
+"Thanks." That was music to Grace's ears. She made a beeline for the kitchen and poured a cup.
 
 "So what were you up to yesterday?" Sarah asked from the living room. "Did you go on another date?"
 
@@ -484,11 +484,11 @@ Grace laughed awkwardly—that had landed a little too close to the truth.
 
 "For real, details. I want to hear them\!"
 
-"Oh, I don't know. He's some finance guy. I don't know. It was… fine. He seemed… I don't know. Intense. But not in a completely bad way. To be honest, I'm not sure if he's socially awkward or an asshole."
+"Oh, I don't know. He's some finance guy. I don't know. It was… fine. He seemed… I don't know. Intense. But not in a completely bad way. He's pretty hot, but to be honest I'm not sure if he's socially awkward or an asshole."
 
 Sarah nodded in understanding. "Mmmm. It can be a fine line. On the other hand, 'finance guy' usually means 'pays for dinner,' so that's a plus."
 
-"Speaking of paying…" Grace said, seizing the opportunity to change the subject. She pulled out her phone. "I'm Venmo'ing you the rest of the rent now. And my half of the bills."
+"Speaking of paying..." Grace fished her phone from her pocket, eager to change the subject. "I’m Venmoing you the rest of the rent now. And my half of the bills."
 
 Sarah’s phone buzzed on the coffee table. She glanced at it, and her shoulders visibly relaxed.
 
