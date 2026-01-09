@@ -198,7 +198,7 @@ Grace froze. "That's too much," she said.
 
 "Uh, what is?" the barista asked.
 
-*"Do it, Grace. Commit to the bit\! You're not Grace right now, you're Kurumi\! Kurumi loves attention."*
+*"Do it, Grace. Commit to the bit\! You're not Grace right now, you're Kurumi\! Kurumi loves attention!"*
 
 Taking a deep breath, Grace let go of her dignity and leaned over the counter. She saw the barista’s eyes dip, then snap back up to her face.
 
