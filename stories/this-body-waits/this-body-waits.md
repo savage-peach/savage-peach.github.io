@@ -108,16 +108,8 @@ Finally she goes back to sleep and you're a little shorter, your hair is a littl
 
 You'll wait with her. This body waits.
 
-It will keep happening until one night you'll be real again, and you'll have her perfect body. She'll see you that night, but not out of the corner of her eye. Then she'll have a body that waits and you'll be free to find the men.
+It will keep happening until one night you'll be real again, and you'll have her perfect body. She'll see you that night, but not out of the corner of her eye. Then she'll be a body that waits and you'll be free to find the men.
 
 You don't know when it will happen. Maybe it will take days or weeks or months. That's okay. You can wait. 
 
 This body has waited so long. It can wait a little longer.
-
-\===============
-
-This story is based on the excellent This Body Will Wait by Kleidoiak, and used under the CC BY 4.0 license. This story is released under the same license.
-
-If you are the kind of person who cares about canon, know that this is my *Wicked* to his *Wizard of Oz*. I wrote this as a sequel, or perhaps a prequel, but that doesn't mean he considers this story canon.
-
-\===============
