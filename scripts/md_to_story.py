@@ -229,6 +229,9 @@ def main():
     with open(args.input_file, 'r', encoding='utf-8') as f:
         raw_content = f.read()
 
+    # Pre-process: Fix escaped exclamation marks globally
+    raw_content = raw_content.replace('\\!', '!')
+
     # Pre-process: Convert Chat Messages to HTML
     def format_chat_message(match, sender_class):
         content = match.group(1).strip()
@@ -344,8 +347,12 @@ def main():
         
     # Copy source markdown to output directory
     source_filename = f"{slug}.md"
-    shutil.copy2(args.input_file, os.path.join(output_dir, source_filename))
-    print(f"Copied source file to: {os.path.join(output_dir, source_filename)}")
+    dest_path = os.path.join(output_dir, source_filename)
+    if os.path.abspath(args.input_file) != os.path.abspath(dest_path):
+        shutil.copy2(args.input_file, dest_path)
+        print(f"Copied source file to: {dest_path}")
+    else:
+        print(f"Source file is already in output directory: {dest_path}")
     
     # 5. Build Global TOC for Navigation
     nav_items = []

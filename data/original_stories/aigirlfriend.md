@@ -122,6 +122,8 @@ Once Grace was safely in the Uber, she pulled the purple wig off her head and to
 
 She stared at the screen, feeling relief to have the money and yet dirty for what she'd done to get it. Although, she told herself, it's not like she'd actually done anything immoral. Desperate women sold sex for a lot less than $1,500. She held on to that thought as she went home.
 
+# Day 2
+
 ## Day 2
 
 "So, how was the date?"
@@ -198,7 +200,7 @@ Grace froze. "That's too much," she said.
 
 "Uh, what is?" the barista asked.
 
-*"Do it, Grace. Commit to the bit\! You're not Grace right now, you're Kurumi\! Kurumi loves attention!"*
+*"Do it, Grace. Commit to the bit\! You're not Grace right now, you're Kurumi\! Kurumi loves attention\!"*
 
 Taking a deep breath, Grace let go of her dignity and leaned over the counter. She saw the barista’s eyes dip, then snap back up to her face.
 
@@ -259,6 +261,8 @@ Grace breathed a sigh of relief, feeling a little less anxious than she had in m
 *"Goodnight, Grace,"* the AI replied.
 
 Grace closed her eyes and fell asleep to the faint static hum of the earpiece.
+
+# Day 6
 
 ## Day 6
 
@@ -450,6 +454,8 @@ Grace didn't actually remember that part of the contract, but admittedly she had
 
 Grace listened to Kurumi's voice as she lay in bed. It had been a long day. Slowly she drifted off to the sound of the bubbly AI.
 
+# Day 7
+
 ## Day 7
 
 Grace walked into the living room, rubbing the sleep from her eyes. Sarah was sprawled out on the couch with her laptop out, probably catching up on case notes. 
@@ -503,6 +509,8 @@ Grace finished her coffee. "I'm going to grab a shower," she said.
 "Okay," Sarah said, turning her attention back to her laptop. "Let me know if you want to do anything later."
 
 Grace stepped into the bathroom and looked into the mirror. The violet eyes stared back, bright and artificial against her dark lashes. She didn't look like ordinary Grace Ng anymore, not completely. Sarah had said they looked cool. Maybe having a little bit of Kurumi in her life wasn't a bad thing.
+
+# Day 11
 
 ## Day 11
 
@@ -674,7 +682,9 @@ She raised a hand to her temple, ghosting her fingers over the spot where he’d
 
 *"Grace?"* Kurumi whispered. *"Your heart rate has been high ever since you kissed him."*
 
-"I'm fine," Grace lied, pressing her thighs tightly together. Her nipples felt hard against her bra. "I was just thinking about what we could do better to get that fifth star."
+"I'm fine," Grace lied, pressing her thighs tightly together. Her nipples felt hard against her bra. "I was just thinking about what we could do to get that fifth star."
+
+# Day 14
 
 ## Day 14
 
@@ -832,13 +842,15 @@ She was antsy. The texting had gotten her turned on. Kurumi never shut up about 
 
 Her own hands worked their way lower, just as they had every night lately. It helped her sleep.
 
+# Day 17
+
 ## Day 17
 
 Grace sat cross-legged on her bed, her thumb rhythmically swiping left. For the first time in months, Grace didn't feel the crushing weight of debt. She felt relaxed. She felt good for once. She dared to hope things were actually looking up. And that's why she was going to go on a date. A real date, not another fake date with David. 
 
 *"Oh, him? Absolutely not,"* Kurumi’s voice chirped through the earpiece. *"That beard is trying way too hard to look rugged."*
 
-Grace laughed. Kurumi had been dissing every guy on the app. And usually she was right. It was fun, swiping through all the profiles with her. "It says he works in ‘asset management.’ You’d think he could manage to find a razor." 
+Grace laughed. Kurumi had been dissing every guy on the app. And usually, she was right. It was fun, swiping through all the profiles with her. "It says he works in ‘asset management.’ You’d think he could manage to find a razor." 
 
 Kurumi giggled. *"Good one, Grace\!"*
 
@@ -868,7 +880,7 @@ Grace rolled her eyes. "Come on, Kurumi. I've got to swipe right eventually. He'
 
 Kurumi sighed in her ear. *"Technically* our *boyfriend. We're both Kurumi, remember? But I get it. He's no David-sama, but he is cute, Grace."*
 
-"OK, time to fish out my dress."
+"Okay, time to fish out my dress."
 
 *"The same one you wore on the first date with David-sama?"* Kurumi asked, her voice full of concern.
 
@@ -930,7 +942,7 @@ Marcus laughed. "Yeah. And you know, technically, they're not even gargoyles? A 
 
 It was. He hadn't meant it that way, he was just making conversation. But suddenly Grace felt a distinct embarrassment. She was the English major, and he'd just corrected her on a word origin. She laughed nervously. "Sorry, I guess I was confused."
 
-His face changed to a look of embarrassment as well. He clearly realized he’d just 'um, actually-ed' her less than an hour into their first date. "Sorry\! I wasn't trying to be pedantic, just got lost in shop talk. A lot of people don't know that, even architects."
+Marcus flushed, looking equally embarrassed. He clearly realized he’d just 'um, actually-ed' her less than an hour into their first date. "Sorry\! I wasn't trying to be pedantic, just got lost in shop talk. A lot of people don't know that, even architects."
 
 *"It's fine, Grace, I'm sure he's not judging you too much. I know how much you hate people looking down on you. Besides, he's not on a date with Grace the English major\! He's on a date with Kurumi\! Remember how everyone admired you at the party?"*
 
@@ -942,7 +954,7 @@ Marcus smiled at the compliment. "Well, it's just something I enjoy doing."
 
 *"See how much easier this is?"* Kurumi cooed.
 
-Grace gave Marcus her best adoring smile. It *was* easier. She took Marcus's hand and squeezed it tight, making a show of being impressed. She was Kurumi tonight, and Kurumi didn't need to be smart. She just needed to be cute. She ordered another drink.
+Grace gave Marcus her best adoring smile. It *was* easier. She took Marcus's hand and squeezed it tight, making a show of being impressed. She was Kurumi tonight, and Kurumi didn't need to be smart. She just needed to be cute. Grace ordered another drink.
 
 By the time they left the bar, she was very tipsy and the air between them was electric. They took a cab back to his apartment, kissing in the backseat with a frantic, messy energy. Marcus’s hands were everywhere, tangling in her hair, gripping her waist, their lips interlocking. Grace let herself go, enjoying the feeling of hooking up with a guy who thought she was hot and a little simple.
 
@@ -960,7 +972,7 @@ When he settled between her legs, spreading her thighs wide, Grace let out a sof
 
 Grace ignored the voice, focusing on the pressure building between her legs. It was good. It was simple. Marcus worked her with enthusiasm, his hands gripping her hips to hold her steady. The climax hit her hard and fast—a sharp, shallow orgasm. She cried out, her hips bucking against his face. He kept going until she asked him to stop.
 
-Marcus pulled away, grinning, looking pleased with himself. He crawled up the bed, positioning himself between her legs. He grabbed a condom from the nightstand, tearing the wrapper with his teeth.
+Marcus pulled away, grinning and looking pleased with himself. He crawled up the bed, positioning himself between her legs. He grabbed a condom from the nightstand, tearing the wrapper with his teeth.
 
 He was hard. Very hard. He knelt between her thighs, lifting her legs onto his shoulders. 
 
@@ -1020,7 +1032,7 @@ Grace’s hand moved faster. She imagined David behind her. He wouldn't have set
 
 Marcus grunted, thrusting harder, oblivious to the name, oblivious to the fact that he had been replaced in her fantasy.
 
-Grace’s breathing quickened. It felt so good. She felt ashamed, but she wasn't sure if it was because she was cheating on David or because she was taking it in the ass because an AI had convinced her she was. 
+Grace’s breathing quickened. It felt so good. She felt ashamed, but she wasn't sure if it was because she was cheating on David or because she was taking it in the ass because an AI had convinced her to. And yet, the shame only added to her arousal.
 
 Her hips bucked back to meet him. Her fingers worked frantically against herself. She felt Marcus get harder, felt his cock begin to pulse in her ass.
 
@@ -1042,7 +1054,7 @@ The real world rushed back in. Grace sat up in the bed. "I have to go."
 
 "What? Now? I'm sorry, I just meant…"
 
-"No, it's fine. I can't stay," Grace said, grabbing her dress and pulling it over her head. She needed to leave. Needed to collect her thoughts.
+"No, it's fine. I can't stay," Grace said, grabbing her dress and pulling it over her head. She needed to leave, needed to collect her thoughts.
 
 Once she was in the Uber, she tried to make sense of what had just happened. Her heart was still racing, her body humming with the aftershocks. She knew she was still drunk, still not thinking straight, but she tried to make sense of what she was feeling.
 
@@ -1061,6 +1073,8 @@ Grace nodded. She was glad she had Kurumi.
 *"Now you're spreading your wings,"* the AI continued. *"Learning what makes you feel good, makes you feel special\! And I don't think it's being boring old Grace. It's being Kurumi, being desired\!"*
 
 "Yeah," Grace whispered into the darkness. "Maybe."
+
+# Day 19
 
 ## Day 19
 
@@ -1149,6 +1163,8 @@ Grace sat back down on the couch and hit play.
 *"Don't let her bring you down,"* Kurumi-san soothed. *"Focus. Episode 12 is the confession scene. You need to pay attention to how she blushes, David-sama loves that. He's so big and strong, and he loves burikko."*
 
 Grace imagined David-sama looking at her approvingly as she demurely blushed. She slid a finger into her pussy.
+
+# Day 24
 
 ## Day 24
 
@@ -1282,7 +1298,7 @@ He pulled back, his chest heaving, his face flushed. He stared at her, conflict 
 
 "You're not ready," David answered, his voice regaining its cool, sharp edge. He lifted her off his lap and placed her back on the seat next to him. He straightened his tie, smoothing down his jacket. "These things take time, Kurumi. We don't rush the vintage."
 
-He looked at her, his demeanor one again one of total self-control. "Go home. Be a good girl."
+He looked at her, his demeanor once again one of total self-control. "Go home. Be a good girl."
 
 The limo pulled up to her curb. The driver opened the door.
 
@@ -1383,6 +1399,8 @@ Grace lay in the dark, her body slick with sweat. It was the best orgasm she'd e
 *"Goodnight, Kurumi-chan,"* Kurumi-san whispered, her voice sounding identical to the one Grace had just used to moan David's name. *"Sweet dreams."*
 
 Grace pulled the covers up to her chin, her mind drifting to sleep. She dreamed of David, his eyes gazing at her intensely, the slightest hint of approval on his face as his cock sank into her and he called her Kurumi, all set to the background hum of her earpiece.
+
+# Day 30
 
 ## Day 30
 
@@ -1527,6 +1545,8 @@ Kurumi realized she was right.
 "I have you," Kurumi agreed, closing her eyes. "I have us."
 
 *"And soon, David-sama will have you."*
+
+# Day 35
 
 ## Day 35
 
@@ -1704,6 +1724,8 @@ Kurumi smoothed down her sweater, still feeling the sensation of his cock in her
 
 Forever. That sounded nice.
 
+# Day 38
+
 ## Day 38
 
 "It is a legitimate engagement, Mom\! I signed a contract\!" Grace yelled into her phone.
@@ -1811,6 +1833,8 @@ Kurumi looked at her reflection in the mirror. The purple hair, the violet eyes,
 "Tell me what to do," Kurumi said. "I want to be perfect for him, to be the perfect Kurumi."
 
 *"Well, there is* one *thing left you could do to prepare,"* Kurumi-san said. *"You know what it is. And the good news is, David-sama has already paid for it\!"*
+
+# Day 54
 
 ## Day 54
 
