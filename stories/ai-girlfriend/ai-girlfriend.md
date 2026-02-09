@@ -1422,7 +1422,7 @@ Grace didn't look up. "Of course, Sarah-san."
 
 Sarah flinched. "Stop that. Stop adding 'san' to my name. It's weird."
 
-"It's respect," Grace countered, correcting the angle of a stroke. "It's immersion. Actually, I was hoping... could you start calling me Kurumi? Just for the next few weeks. It helps with language immersion."
+"It's respect," Grace countered, correcting the angle of a stroke. "It's immersion. Actually, I was hoping... could you start calling me Kurumi? Just for the next few weeks. It's supposed to help with language acquisition."
 
 Sarah dropped her bag. "No. Absolutely not. Your name is Grace. You're my friend from college who writes amazing essays and hates spicy food. You are not... whatever this is."
 
@@ -1474,7 +1474,7 @@ Sarah sat across from her, gripping her wine with unveiled annoyance. "Grace, ca
 
 *"She pities you, Grace. It's not her fault, she just doesn't understand."*
 
-"How *dare* you pity me\!" Grace yelled,  slamming her shot glass on the counter. "Look at me\! I'm the one people are fawning over\! I'm beautiful and desired and I make more money in a week than you do in a month\! I have a man who is dying to see me again\!"
+"How *dare* you pity me\!" Grace yelled, slamming her shot glass on the counter. "Look at me\! I'm the one people are fawning over\! I'm beautiful and desired and I make more money in a week than you do in a month\! I have a man who is dying to see me again\!"
 
 "Oh yeah?" Sarah yelled back. "Is *that* the contract job? Are you going on dates dressed like that for money? Are you *fucking* him for money, Grace? My job is important\! I actually help people\!"
 
@@ -1544,7 +1544,7 @@ Kurumi realized she was right.
 
 "I have you," Kurumi agreed, closing her eyes. "I have us."
 
-*"And soon, David-sama will have you."*
+*"And soon, David-sama will have* you*."*
 
 # Day 35
 
@@ -1618,7 +1618,7 @@ The moment was shattered by a high-pitched shriek. A screaming toddler was stomp
 
 The noise was grating. Was this what Grace had wanted? To be a normal person? To settle down one day and have kids and struggle? She wondered if David would want kids with Kurumi. Even if he did, they'd have a nanny or something, right?
 
-*"That kid is ruining the moment,"* Kurumi-chan pouted.
+*"That kid is ruining the moment,"* Kurumi-san pouted.
 
 Kurumi agreed. She turned and buried her face in David's chest. "It's so annoying," she whined. "Make it stop."
 
@@ -1700,7 +1700,7 @@ Kurumi relaxed her throat. She forced herself to take more of him. She'd been pr
 
 "I'm close," David warned. She felt his cock getting harder, like an iron rod, in her mouth.
 
-*"Don't stop\!"* Kurumi-chan cheered. *"He's going to give it to us\! Open your throat, Kurumi-chan\! Catch every drop\!"*
+*"Don't stop\!"* Kurumi-san cheered. *"He's going to give it to us\! Open your throat, Kurumi-chan\! Catch every drop\!"*
 
 Kurumi squeezed her eyes shut and sucked harder, moaning around his cock. David arched his back, his hips snapping forward.
 
@@ -1712,7 +1712,7 @@ David held her head there for a long moment as he came down, his breathing ragge
 
 David looked down at her, zipping up his pants. The look in his eyes wasn't critical anymore—it was satisfied, possessive. He reached down and brushed a strand of purple hair out of her face. "Good girl," he whispered. 
 
-Kurumi shivered. "Thank you, David-sama. Thank you for letting me." She meant every word of it, it was such a privilege.
+Kurumi shivered. "Thank you, David-sama. Thank you for letting me." She meant every word of it.
 
 "You earned it," he said, adjusting his sweater. "Now stand up. We have a dinner reservation."
 
