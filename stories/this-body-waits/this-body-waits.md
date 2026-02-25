@@ -10,11 +10,11 @@ Maybe she's you. You wonder if she has the same friends and family you did. You 
 
 She's back with a new man. At least, you think he's new. It's hard to keep track. But he must be new, because he has kind eyes. She takes him to bed and she's on top, riding him. He doesn't see you waiting in the corner. That used to happen—sometimes a new man would catch a glimpse of you out of the corner of his eye. You must have been more real then, for them to see you at all. It hasn't happened in a long time.
 
-He runs his hands over her body. He thrusts inside of her. His gaze is soft, fixed on the pleasure she's finding. Her breathing is coming in shallow gasps, her back arching slightly with each plunge.
+He runs his hands over her body as he thrusts inside of her. Her breathing is coming in shallow gasps, her back arching slightly with each plunge.
 
-"You're gorgeous," he says, his voice thick with adoration. His hands leave her hips, drifting up to cup her breasts. He massages the soft weight, tracing the outline of her hard nipples with his thumbs.
+"You're gorgeous," he says, his voice full of lust. His hands leave her hips, sliding up to cup her breasts. He massages the soft flesh, tracing the outline of her hard nipples with his thumbs.
 
-The sound is a low wet rhythm—the slap of skin on skin. You hear another wet sound. Your fingers have started working your pussy. You can't move this body, but this body moves. It's perfectly in time with her. Each time she impales herself, your fingers thrust inside you. It feels good. That's the only thing you really feel anymore. 
+The sound is a wet rhythm—the slap of skin on skin. You hear another wet sound. Your fingers have started working your pussy. You can't move this body, but this body moves. It's perfectly in time with her. Each time she impales herself, your fingers thrust inside you. It feels good. That's the only thing you really feel anymore. 
 
 Sometimes you feel good and your fingers start fucking your pussy when she's not here. She must be with a man somewhere else. But you're less real then, when she's not near. You don't remember those times very well. Although, you don't remember much of anything anymore.
 
@@ -24,7 +24,7 @@ If you were her—if you were still real—you'd be cumming now. You remember ho
 
 That's one difference between you. She doesn't cum like you did. She only cums once, when the men do.
 
-He's about to now. He lets out a groan, a sound of pure satisfaction. He holds her steady, matching her pace, lifting his hips to meet her descent. She cries out, her perfect lips parted as they both cum together. She always cums when the man does, taking his cum inside her perfect wet pussy. She takes more as well, though he doesn't know it yet. Maybe he never will.
+He's about to now. He lets out a groan, a sound of pure satisfaction. He holds her steady, matching her pace, lifting his hips to meet her descent. She cries out, her perfect lips parted as they both cum together. She always cums when the man does, taking his seed in her perfect wet pussy. She takes more as well, though he doesn't know it yet. Maybe he never will.
 
 You cum too. It's the second-best orgasm of your life. You've had lots of orgasms like this before, all of them the second-best orgasm of your life. You feel good. It's all you can feel now.
 
@@ -38,7 +38,7 @@ She grips the sheets, bunching them up in her hands, her knuckles turning white.
 
 "Don't stop\!" she screams.
 
-He doesn't answer, he just fucks her harder. His breath is ragged against the back of her neck. He says nothing now. Her hair is a tangled mess around her face, stuck to her cheeks with sweat, but somehow she still looks perfect. The perfect used girl. He holds her tight, one hand anchoring her hip, the other grasping her shoulder, digging in just enough to bruise.
+He doesn't answer, he just fucks her harder. His breath is ragged against the back of her neck. He says nothing now. Her hair is a tangled mess around her face, stuck to her cheeks with sweat, but somehow she still looks perfect. The perfect used girl. He holds her tight, one hand anchoring her hip, digging in hard enough to bruise.
 
 She doesn't protest. She angles her body, giving him better access, pushing back to meet his every aggressive thrust. He's close now, so she is too. So are you. You feel your fingers in your pussy again. 
 
@@ -96,7 +96,7 @@ This body is rolling her nipple around with your tongue when she slides her cum-
 
 How long did you cum? Days? Weeks? Years? It must have been days, because you saw the sun go up and down several times. Oh, that's interesting. You noticed time passing. You wonder if that means you're real again, even a little bit. 
 
-You're back in the corner and she's gone. Her clothes—the clothes that used to be yours—are gone as well. As is the bed that used to be yours. You're alone in a bare room. You don't wonder where she went; she went to find more men without you. That's okay. You can wait. This body waits.
+You're back in the corner and she's gone. Her clothes—the clothes that used to be yours—are gone as well. As is the bed that used to be yours. You're alone in a bare room.
 
 A new girl moves in. She has red hair, a thin, lithe body and cute little breasts. The red-haired girl isn't perfect—she's not even beautiful—but she is pretty. That's fine. You can wait. This body waits.
 
